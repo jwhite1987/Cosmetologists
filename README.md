@@ -1,4 +1,4 @@
-# Cosmetologists
+# `Cosmetologists`
 
 ## Project Description
 
