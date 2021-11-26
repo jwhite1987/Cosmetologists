@@ -1,0 +1,260 @@
+First Name,Last Name,Address,City,State,Zip,License Code,License Number,Expiration Date,License Status Code,Full Address,Latitude,Longitude
+Zachary,Carnes,9747-A Sam Furr Rd,Huntersville,NC,27807,C,102333.0,2021-10-01,A,9747-A Sam Furr Rd Huntersville Nc,35.4452736,-80.8620378
+Barbara,Graham,13031 Windy Lea Lane,Huntersville,NC,28025,C,112553.0,2021-10-01,A,13031 Windy Lea Lane Huntersville Nc,35.3909631,-80.87355939999999
+Robin,Bachnik,15711 Gallant Ridge Place,Huntersville,NC,28031,C,60082.0,2021-10-01,A,15711 Gallant Ridge Place Huntersville Nc,35.4202169,-80.828761
+Morgan,Mann,8811 Deerland Ct,Huntersville,NC,28031,C,92381.0,2021-10-01,A,8811 Deerland Ct Huntersville Nc,35.4240195,-80.8849279
+Dawn,Koferl,15819 Foreleigh Road,Huntersville,NC,28031,C,65790.0,2021-10-01,E,15819 Foreleigh Road Huntersville Nc,35.4100293,-80.91051209999999
+Bettina,Howard,17640 Cambridge Grove Dr,Huntersville,NC,28031,C,74056.0,2021-10-01,A,17640 Cambridge Grove Dr Huntersville Nc,35.4499629,-80.8622973
+Kim-Lien Thi,Le,14609 Lyon Hill Ln,Huntersville,NC,28031,C,73917.0,2021-10-01,A,14609 Lyon Hill Ln Huntersville Nc,35.4113312,-80.871614
+Deborah,Fiegl,"10327 Samuels Way Drive,",Huntersville,NC,28036,C,73727.0,2021-10-01,E,"10327 Samuels Way Drive, Huntersville Nc",35.424725,-80.751251
+Brandy,Knox,13508 Mayes Rd,Huntersville,NC,28036,C,71918.0,2021-10-01,A,13508 Mayes Rd Huntersville Nc,35.4560784,-80.8122147
+Davina,Donovan,13124 Willow Breeze Lane,Huntersville,NC,28036,C,70998.0,2021-10-01,A,13124 Willow Breeze Lane Huntersville Nc,35.4480765,-80.8238731
+Courtney,Neubauer,7102 Mclothian Lane,Huntersville,NC,28037,C,100167.0,2021-10-01,A,7102 Mclothian Lane Huntersville Nc,35.3894264,-80.9144441
+Sandi,McMahan,9747 Sam Furr Road Suite 7,Huntersville,NC,28038,C,103393.0,2021-10-01,A,9747 Sam Furr Road Suite 7 Huntersville Nc,35.4452736,-80.8620378
+Katlyn,Markham,Po Box 1027 ,Huntersville,NC,28070,C,77393.0,2021-10-01,A,Po Box 1027  Huntersville Nc,35.410694,-80.84285040000002
+Amanda,Smosarski,7844 Bud Henderson Rd,Huntersville,NC,28070,C,113189.0,2021-10-01,A,7844 Bud Henderson Rd Huntersville Nc,35.4051546,-80.9067096
+Melinda,Dayman,8400 Tatebrook Lane,Huntersville,NC,28078,C,74506.0,2021-10-01,A,8400 Tatebrook Lane Huntersville Nc,35.403883,-80.8910222
+Kaylee,James,6916 Colonial Garden Dr,Huntersville,NC,28078,C,103027.0,2021-10-01,A,6916 Colonial Garden Dr Huntersville Nc,35.3970202,-80.9197908
+Andrea,Mast,12327 Carrigan Ct.,Huntersville,NC,28078,C,68944.0,2021-10-01,A,12327 Carrigan Ct. Huntersville Nc,35.4137424,-80.8329565
+Rachel,Cranfill,13120 Angel Oak Dr,Huntersville,NC,28078,C,78412.0,2021-10-01,A,13120 Angel Oak Dr Huntersville Nc,35.4015795,-80.8914544
+Susan,Rustamzadeh,12907 Vermillion Crossing Court,Huntersville,NC,28078,C,111238.0,2021-10-01,A,12907 Vermillion Crossing Court Huntersville Nc,35.40851120000001,-80.81626709999999
+Son,Tran,13419 Mccoy Ridge Road ,Huntersville,NC,28078,C,90877.0,2021-10-01,A,13419 Mccoy Ridge Road  Huntersville Nc,35.3969617,-80.8708791
+Nora,Olmos,12832 Hopewell Ave Apt 108 #3,Huntersville,NC,28078,C,112680.0,2021-10-01,A,12832 Hopewell Ave Apt 108 #3 Huntersville Nc,35.3922477,-80.85579
+Megan,Foreman,12737 Levins Hall Road,Huntersville,NC,28078,C,69165.0,2021-10-01,A,12737 Levins Hall Road Huntersville Nc,35.4143956,-80.8281554
+Kathleen,Magnanti,9125 Pine Springs Ct,Huntersville,NC,28078,C,72886.0,2021-10-01,E,9125 Pine Springs Ct Huntersville Nc,35.3895888,-80.8800868
+Gerald,Orest,15810 Kincardin Drive,Huntersville,NC,28078,C,73609.0,2021-10-01,E,15810 Kincardin Drive Huntersville Nc,35.4340418,-80.89167049999999
+Stephanie,Shue,13640 Swinton Rd.,Huntersville,NC,28078,C,78400.0,2021-10-01,A,13640 Swinton Rd. Huntersville Nc,35.4085511,-80.9040196
+Katherine,Carroll,12328 Cross Meadow Rd,Huntersville,NC,28078,C,114297.0,2021-10-01,A,12328 Cross Meadow Rd Huntersville Nc,35.391473,-80.8741213
+Patricia,West,1709 Cabarrus Crossing Dr,Huntersville,NC,28078,C,75906.0,2021-10-01,A,1709 Cabarrus Crossing Dr Huntersville Nc,35.4408012,-80.7577069
+Sara,Johnson,9622 St Barts Ln,Huntersville,NC,28078,C,114010.0,2021-10-01,A,9622 St Barts Ln Huntersville Nc,35.4333732,-80.8554441
+Brittany,Bloom,6432 Hasley Woods Dr,Huntersville,NC,28078,C,114086.0,2021-10-01,A,6432 Hasley Woods Dr Huntersville Nc,35.396803,-80.9192489
+Tessa,Silva,8607 Cedar Hollow Lane,Huntersville,NC,28078,C,113251.0,2021-10-01,A,8607 Cedar Hollow Lane Huntersville Nc,35.3911809,-80.88371769999999
+Ryann,Filatov,13410 Merry Chase Ln Apt T08,Huntersville,NC,28078,C,111653.0,2021-10-01,A,13410 Merry Chase Ln Apt T08 Huntersville Nc,35.4122,-80.86412
+Susanna Grace,Lee,15008 Statesville Rd. Apt. 86,Huntersville,NC,28078,C,62984.0,2021-10-01,E,15008 Statesville Rd. Apt. 86 Huntersville Nc,35.42,-80.8573399
+Marvin,Varela-Acevedo,9301 Devonshire Dr,Huntersville,NC,28078,C,111994.0,2021-10-01,A,9301 Devonshire Dr Huntersville Nc,35.4357449,-80.88276669999999
+Donna,Knox,14601 Stumptown Rd,Huntersville,NC,28078,C,7506.0,2021-10-01,E,14601 Stumptown Rd Huntersville Nc,35.4207201,-80.8632701
+Jessica,Ihle,15800 Northcross Dr. Ste. 116,Huntersville,NC,28078,C,71642.0,2021-10-01,A,15800 Northcross Dr. Ste. 116 Huntersville Nc,35.4315548,-80.8725867
+Vivian,Cataldo,10317 Friarsgate Rd.,Huntersville,NC,28078,C,79196.0,2021-10-01,A,10317 Friarsgate Rd. Huntersville Nc,35.4424368,-80.85124979999999
+Thuy Trinh Thi,Hoang,14836 Dunbeth Dr,Huntersville,NC,28078,C,103282.0,2021-10-01,A,14836 Dunbeth Dr Huntersville Nc,35.4069436,-80.9354833
+Maebell,Moore,Rte. 10600 Davidson Hwy.,Huntersville,NC,28078,C,67928.0,2021-10-01,A,Rte. 10600 Davidson Hwy. Huntersville Nc,35.4416039,-80.7563569
+Sydney,Harnes,12121 Henderson Hill Rd,Huntersville,NC,28078,C,112290.0,2021-10-01,A,12121 Henderson Hill Rd Huntersville Nc,35.39124590000001,-80.88177259999999
+Judith,Campbell,9374 Greenheather Drive,Huntersville,NC,28078,C,71733.0,2021-10-01,E,9374 Greenheather Drive Huntersville Nc,35.408993,-80.86988099999999
+Jody,Fallows,13712 Stumptown Rd,Huntersville,NC,28078,C,90203.0,2021-10-01,A,13712 Stumptown Rd Huntersville Nc,35.4257045,-80.84952009999999
+Holly,Bernier,12514 Willow Grove Way,Huntersville,NC,28078,C,74690.0,2021-10-01,A,12514 Willow Grove Way Huntersville Nc,35.4477483,-80.82179680000002
+Kristen,Barcellos,14722 Plessis Pl,Huntersville,NC,28078,C,61829.0,2021-10-01,A,14722 Plessis Pl Huntersville Nc,35.4306759,-80.85012549999999
+Merry,Nguyen,7642 Horseshoe Creek Dr,Huntersville,NC,28078,C,91146.0,2021-10-01,A,7642 Horseshoe Creek Dr Huntersville Nc,35.4030507,-80.93906849999999
+Shalene,Kuffler,7313 Stillbrook Bend Ct,Huntersville,NC,28078,C,103361.0,2021-10-01,A,7313 Stillbrook Bend Ct Huntersville Nc,35.3832461,-80.9153082
+Chasya,Ackman,9911 Rose Commons Dr,Huntersville,NC,28078,C,103465.0,2021-10-01,A,9911 Rose Commons Dr Huntersville Nc,35.4083908,-80.8627793
+Erin,Jessen,9428 Holly Bend Ln,Huntersville,NC,28078,C,75729.0,2021-10-01,A,9428 Holly Bend Ln Huntersville Nc,35.3960022,-80.8750292
+Dinh,Nguyen,14836 Dunbeth Dr,Huntersville,NC,28078,C,102795.0,2021-10-01,A,14836 Dunbeth Dr Huntersville Nc,35.4069436,-80.9354833
+Jessica,Sadler,6317 Torrence Trace Drive,Huntersville,NC,28078,C,72315.0,2021-10-01,A,6317 Torrence Trace Drive Huntersville Nc,35.4163361,-80.9265413
+Georgia,Hicks Reagan,15328 Hubbard Rd,Huntersville,NC,28078,C,68983.0,2021-10-01,A,15328 Hubbard Rd Huntersville Nc,35.4212548,-80.9326323
+Freddy,Chumbi-Flores,12804 Pearl Moon Ct,Huntersville,NC,28078,C,70837.0,2021-10-01,A,12804 Pearl Moon Ct Huntersville Nc,35.3875934,-80.9109874
+Tennell,Smith,9722 Dark Crystal Ct,Huntersville,NC,28078,C,112874.0,2021-10-01,A,9722 Dark Crystal Ct Huntersville Nc,35.3830732,-80.9130182
+Tricia,Altic,12500 Pickford Ct,Huntersville,NC,28078,C,90058.0,2021-10-01,A,12500 Pickford Ct Huntersville Nc,35.3936093,-80.88661359999999
+Kary,Gaffney,12518 Newstead Rd,Huntersville,NC,28078,C,79252.0,2021-10-01,A,12518 Newstead Rd Huntersville Nc,35.4153594,-80.8329997
+Alicia,Hoelzle,3924 Archer Notch Lane,Huntersville,NC,28078,C,89871.0,2021-10-01,A,3924 Archer Notch Lane Huntersville Nc,35.4228815,-80.90144839999999
+Stacy,Krasner,14841 Skyscape Dr,Huntersville,NC,28078,C,73731.0,2021-10-01,E,14841 Skyscape Dr Huntersville Nc,35.3995086,-80.7667001
+Esther,Certuche,14438 Reese Blvd W,Huntersville,NC,28078,C,63722.0,2021-10-01,A,14438 Reese Blvd W Huntersville Nc,35.4011021,-80.8640022
+Melinda,Love,12912 Vermillion Crossing Ct,Huntersville,NC,28078,C,112876.0,2021-10-01,A,12912 Vermillion Crossing Ct Huntersville Nc,35.4084241,-80.81564639999999
+Karen,Gustafson,12659 Windyedge Road,Huntersville,NC,28078,C,77413.0,2021-10-01,A,12659 Windyedge Road Huntersville Nc,35.394576,-80.874208
+Emily,Wrench,15013 Rosemary Way Dr,Huntersville,NC,28078,C,92123.0,2021-10-01,A,15013 Rosemary Way Dr Huntersville Nc,35.4150173,-80.8251708
+Danielle,Barnett,6402 Colonial Garden Dr,Huntersville,NC,28078,C,114250.0,2021-10-01,A,6402 Colonial Garden Dr Huntersville Nc,35.3974453,-80.9179654
+Kimberly,McCauley,9708 Kincey Ave Apt 211,Huntersville,NC,28078,C,76784.0,2021-10-01,A,9708 Kincey Ave Apt 211 Huntersville Nc,35.4032432,-80.8654966
+Melissa,Barnette,7714 Autumnview Ct.,Huntersville,NC,28078,C,60669.0,2021-10-01,A,7714 Autumnview Ct. Huntersville Nc,35.401606,-80.91033929999999
+Karen,Smith,715 Hope St,Huntersville,NC,28078,C,70641.0,2021-10-01,A,715 Hope St Huntersville Nc,35.4239177,-80.7523385
+Dzenan,Zenicanin,8139 Bud Henderson Rd,Huntersville,NC,28078,C,100911.0,2021-10-01,A,8139 Bud Henderson Rd Huntersville Nc,35.4076967,-80.9032526
+Teresa Sandoval,Mendoza,16120 Old Statesville Rd,Huntersville,NC,28078,C,63847.0,2021-10-01,E,16120 Old Statesville Rd Huntersville Nc,35.4330632,-80.8432576
+Alexis,Grosso,14452 Laurel Tree Ln,Huntersville,NC,28078,C,111230.0,2021-10-01,A,14452 Laurel Tree Ln Huntersville Nc,35.4101591,-80.87379709999999
+Lauren,DeFelice,11829 Warfield Avenue,Huntersville,NC,28078,C,91493.0,2021-10-01,A,11829 Warfield Avenue Huntersville Nc,35.4085608,-80.8273768
+Theresa,Hahn,5428 Colonial Garden Drive,Huntersville,NC,28078,C,65606.0,2021-10-01,A,5428 Colonial Garden Drive Huntersville Nc,35.3954295,-80.92299539999999
+Dina,Furr,15613 Seafeild Ln,Huntersville,NC,28078,C,102388.0,2021-10-01,A,15613 Seafeild Ln Huntersville Nc,35.42211580000001,-80.87494269999999
+Shashanah,Webster,300 Hunters Road Apt 1005,Huntersville,NC,28078,C,111681.0,2021-10-01,A,300 Hunters Road Apt 1005 Huntersville Nc,35.4184557,-80.854428
+Rachel,Gilbert,12643 Windyedge Road,Huntersville,NC,28078,C,78549.0,2021-10-01,A,12643 Windyedge Road Huntersville Nc,35.3948909,-80.8738187
+Stephanie,Davis,13115 Rosedale Hill Avenue,Huntersville,NC,28078,C,74203.0,2021-10-01,A,13115 Rosedale Hill Avenue Huntersville Nc,35.4097936,-80.8614942
+Christi,Bryant,9616 Whispering Meadows Drive,Huntersville,NC,28078,C,75737.0,2021-10-01,A,9616 Whispering Meadows Drive Huntersville Nc,35.4021712,-80.8648049
+Sarah,Mitchell,6419 Mcilwaine Rd,Huntersville,NC,28078,C,71005.0,2021-10-01,A,6419 Mcilwaine Rd Huntersville Nc,35.3866071,-80.9252236
+Chanthy,Davis,16023 Wynfield Creek Pkwy,Huntersville,NC,28078,C,69549.0,2021-10-01,A,16023 Wynfield Creek Pkwy Huntersville Nc,35.4253292,-80.8842796
+Betty,Garcia,9120 Meadowmist Ln,Huntersville,NC,28078,C,65641.0,2021-10-01,E,9120 Meadowmist Ln Huntersville Nc,35.395986,-80.869205
+Benita,Blocker,14311 Reese Blvd #A2-310,Huntersville,NC,28078,C,67412.0,2021-10-01,A,14311 Reese Blvd #A2-310 Huntersville Nc,35.40862010000001,-80.8635943
+Clara,Ruggieri,8815 Pinnacle Cross Drive,Huntersville,NC,28078,C,112616.0,2021-10-01,A,8815 Pinnacle Cross Drive Huntersville Nc,35.4401254,-80.8747482
+Elizabeth,Diaz,13017 Central Ave,Huntersville,NC,28078,C,69251.0,2021-10-01,A,13017 Central Ave Huntersville Nc,35.3970369,-80.8355515
+Truc Thi Thuy,Nguyen,5827 Snapdragon Dr.,Huntersville,NC,28078,C,72220.0,2021-10-01,A,5827 Snapdragon Dr. Huntersville Nc,35.4043115,-80.9405803
+Donna,Flowe,7633 Gilead Road,Huntersville,NC,28078,C,6100.0,2021-10-01,E,7633 Gilead Road Huntersville Nc,35.40658210000001,-80.897283
+Maria,Espinoza,7608 Quilbray Dr,Huntersville,NC,28078,C,75160.0,2021-10-01,A,7608 Quilbray Dr Huntersville Nc,35.4118884,-80.899709
+Mireya,Avila,12021 Lakehaven Drive,Huntersville,NC,28078,C,75721.0,2021-10-01,A,12021 Lakehaven Drive Huntersville Nc,35.3878044,-80.87924389999999
+Ruby,Honeycutt,14203 Eastfield Rd,Huntersville,NC,28078,C,7156.0,2021-10-01,E,14203 Eastfield Rd Huntersville Nc,35.3952138,-80.7722517
+Lisa,McAlexander-Jarecke,8506 Hope Springs Court,Huntersville,NC,28078,C,103862.0,2021-10-01,A,8506 Hope Springs Court Huntersville Nc,35.3929201,-80.8892934
+Ngoc An Lam,Nguyen,14607 Baytown Court,Huntersville,NC,28078,C,76572.0,2021-10-01,A,14607 Baytown Court Huntersville Nc,35.412914,-80.91327749999999
+Theresa,Dixon,12724 Dixon Farm Rd,Huntersville,NC,28078,C,72149.0,2021-10-01,A,12724 Dixon Farm Rd Huntersville Nc,35.3685276,-80.8239289
+Valieta,Vala,12225 Chickasaw Dr,Huntersville,NC,28078,C,76818.0,2021-10-01,A,12225 Chickasaw Dr Huntersville Nc,35.3846429,-80.8406981
+Dannielle ,Cresanta,16500-D Red Cliff Dr,Huntersville,NC,28078,C,113214.0,2021-10-01,A,16500-D Red Cliff Dr Huntersville Nc,35.446146,-80.88819199999999
+Kenya,Ferguson,9921 Holly Center Dr Apt 127,Huntersville,NC,28078,C,76155.0,2021-10-01,A,9921 Holly Center Dr Apt 127 Huntersville Nc,35.4406249,-80.86203569999999
+Maisha,Allen,6712 Colonial Garden Dr.,Huntersville,NC,28078,C,76031.0,2021-10-01,I,6712 Colonial Garden Dr. Huntersville Nc,35.3946282,-80.91975839999999
+Maritza,Taveras ,313 Penny Little Drive,Huntersville,NC,28078,C,113390.0,2021-10-01,A,313 Penny Little Drive Huntersville Nc,35.4027551,-80.864789
+Reema,Dawood,8419 Strathburn Ct Apt J,Huntersville,NC,28078,C,112144.0,2021-10-01,A,8419 Strathburn Ct Apt J Huntersville Nc,35.44521,-80.88584999999999
+Gabrielle,Klein,15601 Northcross Drive,Huntersville,NC,28078,C,113367.0,2021-10-01,A,15601 Northcross Drive Huntersville Nc,35.430192,-80.874994
+Marie,Grove,14652 Reese Blvd Apt 204,Huntersville,NC,28078,C,114300.0,2021-10-01,A,14652 Reese Blvd Apt 204 Huntersville Nc,35.4114467,-80.86102869999999
+Timothy,Hudson,8636 Lindholm Dr. 1A,Huntersville,NC,28117,C,66874.0,2021-10-01,A,8636 Lindholm Dr. 1A Huntersville Nc,35.446173,-80.8799219
+Jamie,Bonagura,9708 Kincey Ave Apt 218,Huntersville,NC,28117,C,71676.0,2021-10-01,A,9708 Kincey Ave Apt 218 Huntersville Nc,35.4032432,-80.8654966
+Tanita,Rance,314 Pinehurst Ct.,Huntersville,NC,28205,C,70548.0,2021-10-01,E,314 Pinehurst Ct. Huntersville Nc,35.4046087,-80.7594793
+Kirby,Stanley,7826 Rolling Meadows Lane,Huntersville,NC,28205,C,102944.0,2021-10-01,A,7826 Rolling Meadows Lane Huntersville Nc,35.3927148,-80.9034254
+Raquel,Carnegie,14606 Hollow Wood Rd,Huntersville,NC,28213,C,111370.0,2021-10-01,A,14606 Hollow Wood Rd Huntersville Nc,35.3992215,-80.77162400000002
+Katie Nicole,Roy,17149 Old Statesville Rd,Huntersville,NC,28226,C,68493.0,2021-10-01,A,17149 Old Statesville Rd Huntersville Nc,35.445584,-80.8446335
+Shana,Walker,11824 Journeys End Trail,Huntersville,NC,28269,C,102050.0,2021-10-01,A,11824 Journeys End Trail Huntersville Nc,35.3871028,-80.91405519999999
+Laura,Warren,"8120 Dunmore Drive, Apt. S",Huntersville,NC,28031,C,81307.0,2022-10-01,A,"8120 Dunmore Drive, Apt. S Huntersville Nc",35.44769,-80.88735
+Bianca,Bertone,9831 Beatties Ford Road,Huntersville,NC,28031,C,93375.0,2022-10-01,A,9831 Beatties Ford Road Huntersville Nc,35.3566365,-80.89635969999999
+Thresa,Howard,P O Box 654,Huntersville,NC,28070,C,10136.0,2022-10-01,E,P O Box 654 Huntersville Nc,35.410694,-80.84285040000002
+Brenda,France,P. O. Box 1024,Huntersville,NC,28070,C,18289.0,2022-10-01,E,P. O. Box 1024 Huntersville Nc,35.410694,-80.84285040000002
+Lynn,Godwin,Po Box 1073,Huntersville,NC,28070,C,26768.0,2022-10-01,E,Po Box 1073 Huntersville Nc,35.4110541,-80.8508186
+Bailey,Dorman,14831 Charterhouse Ln.,Huntersville,NC,28078,C,95699.0,2022-10-01,A,14831 Charterhouse Ln. Huntersville Nc,35.410429,-80.8821184
+Haleigh,McCreery,6923 Cascade Dream Court,Huntersville,NC,28078,C,106034.0,2022-10-01,A,6923 Cascade Dream Court Huntersville Nc,35.3823014,-80.9157403
+Leah,Baker,10224 Willingham Rd.,Huntersville,NC,28078,C,11553.0,2022-10-01,I,10224 Willingham Rd. Huntersville Nc,35.4476957,-80.853974
+Rachel,Archambo,10215 Willingham Rd.,Huntersville,NC,28078,C,107005.0,2022-10-01,A,10215 Willingham Rd. Huntersville Nc,35.4480971,-80.85339019999999
+Brenda,Gardner,P O Box 610,Huntersville,NC,28078,C,11867.0,2022-10-01,E,P O Box 610 Huntersville Nc,35.410694,-80.84285040000002
+Gloria,Johnston,12300 Old Statesville Road,Huntersville,NC,28078,C,22512.0,2022-10-01,E,12300 Old Statesville Road Huntersville Nc,35.387539,-80.8344886
+Janelly Amarilis,Taveras Rodriguez,14615 Reese Blvd W Apt 102,Huntersville,NC,28078,C,116902.0,2022-10-01,A,14615 Reese Blvd W Apt 102 Huntersville Nc,35.41165,-80.86157999999999
+Daniel fermin,Lopez zabala,8742 Pinnacle Cross Drive Apt. 15,Huntersville,NC,28078,C,116112.0,2022-10-01,A,8742 Pinnacle Cross Drive Apt. 15 Huntersville Nc,35.4403,-80.8762
+Chelsea,Ervin,16000 Lavenham Rd.,Huntersville,NC,28078,C,107290.0,2022-10-01,A,16000 Lavenham Rd. Huntersville Nc,35.4319675,-80.8122147
+Kyla,Dechert,9051 Cinder Lane,Huntersville,NC,28078,C,114962.0,2022-10-01,A,9051 Cinder Lane Huntersville Nc,35.3797883,-80.91396879999999
+Raechel,Biele,11057 Dry Stone Dr,Huntersville,NC,28078,C,116568.0,2022-10-01,A,11057 Dry Stone Dr Huntersville Nc,35.4395192,-80.7631182
+Mercy,Jones,17121 Old Statesvillevroad,Huntersville,NC,28078,C,43798.0,2022-10-01,E,17121 Old Statesvillevroad Huntersville Nc,35.444589,-80.8460606
+Terry,White,9610 Hyghbough St,Huntersville,NC,28078,C,12826.0,2022-10-01,E,9610 Hyghbough St Huntersville Nc,35.407059,-80.909146
+Erin,Youngblood,7041 Gilead Road,Huntersville,NC,28078,C,116555.0,2022-10-01,A,7041 Gilead Road Huntersville Nc,35.41198,-80.9026044
+Gloria,Williams,16208 North Point Road,Huntersville,NC,28078,C,22457.0,2022-10-01,E,16208 North Point Road Huntersville Nc,35.4399515,-80.9170365
+Melissa,Lackey,12809 Asbury Chapel Rd,Huntersville,NC,28078,C,13961.0,2022-10-01,E,12809 Asbury Chapel Rd Huntersville Nc,35.39826,-80.803775
+Mindy,Domingo,9616 Whispering Md Dr ,Huntersville,NC,28078,C,83503.0,2022-10-01,A,9616 Whispering Md Dr  Huntersville Nc,35.4021712,-80.8648049
+June,Vidal,12504 Vantage Point Lane,Huntersville,NC,28078,C,23833.0,2022-10-01,E,12504 Vantage Point Lane Huntersville Nc,35.3849343,-80.9230419
+Danielle,Klap,10336 Lafoy Drive,Huntersville,NC,28078,C,106557.0,2022-10-01,A,10336 Lafoy Drive Huntersville Nc,35.4130703,-80.7705852
+Jessica,Henderson,12823 Mayes Rd,Huntersville,NC,28078,C,107173.0,2022-10-01,A,12823 Mayes Rd Huntersville Nc,35.4576384,-80.8223592
+Kristina,Markofski,7519 Prairie Rose Lane,Huntersville,NC,28078,C,104294.0,2022-10-01,A,7519 Prairie Rose Lane Huntersville Nc,35.3952113,-80.90666639999999
+Janice,Mutunga,13330 Blanton Drive,Huntersville,NC,28078,C,114609.0,2022-10-01,A,13330 Blanton Drive Huntersville Nc,35.412096,-80.81703159999999
+leenah,dawood,8419 Strathburn Ct,Huntersville,NC,28078,C,114676.0,2022-10-01,A,8419 Strathburn Ct Huntersville Nc,35.4452101,-80.885814
+Jessi,Jennings,8526 Williamsburg Cir.,Huntersville,NC,28078,C,93887.0,2022-10-01,A,8526 Williamsburg Cir. Huntersville Nc,35.3542509,-80.87045549999999
+Kailyn,Holiday,13505 Bryton Gap Blvd Apt 14308,Huntersville,NC,28078,C,105652.0,2022-10-01,A,13505 Bryton Gap Blvd Apt 14308 Huntersville Nc,35.3792376,-80.82684850000001
+Charlotte,Williams,P O Box 443,Huntersville,NC,28078,C,9169.0,2022-10-01,E,P O Box 443 Huntersville Nc,35.410694,-80.84285040000002
+Bethany,McQuirk,9015 Pinnacle Cross Dr Apt 13,Huntersville,NC,28078,C,105044.0,2022-10-01,A,9015 Pinnacle Cross Dr Apt 13 Huntersville Nc,35.43987,-80.8735899
+Ericka,Calamia,9618 Hyghbough St,Huntersville,NC,28078,C,104756.0,2022-10-01,A,9618 Hyghbough St Huntersville Nc,35.406817,-80.909159
+Samantha,Cohen,11014 Dry Stone Drive,Huntersville,NC,28078,C,84942.0,2022-10-01,A,11014 Dry Stone Drive Huntersville Nc,35.4391997,-80.7611702
+Kasey,Casselman,8113 Baylis Drive,Huntersville,NC,28078,C,83768.0,2022-10-01,A,8113 Baylis Drive Huntersville Nc,35.4052789,-80.90385760000001
+Stephanie,MacDonald,16542 Knox Run Rd.,Huntersville,NC,28078,C,86387.0,2022-10-01,A,16542 Knox Run Rd. Huntersville Nc,35.4505196,-80.8844525
+Aubrey,Dougherty,12725 Hopewell Avenue Apt.100,Huntersville,NC,28078,C,93253.0,2022-10-01,A,12725 Hopewell Avenue Apt.100 Huntersville Nc,35.3931257,-80.85463829999999
+Cherie,Westerfield,9921 Holly Center Dr Apt 403,Huntersville,NC,28078,C,106013.0,2022-10-01,A,9921 Holly Center Dr Apt 403 Huntersville Nc,35.4406249,-80.86203569999999
+Christophia,Patterson,7028 Sweetfield Dr.,Huntersville,NC,28078,C,15461.0,2022-10-01,E,7028 Sweetfield Dr. Huntersville Nc,35.3852594,-80.79034240000001
+Deshka,Kostova,10722 Charmont Place,Huntersville,NC,28078,C,105270.0,2022-10-01,A,10722 Charmont Place Huntersville Nc,35.4070268,-80.9078763
+Vanessa,Brens,265 Columbia Drive,Huntersville,NC,28078,C,116879.0,2022-10-01,A,265 Columbia Drive Huntersville Nc,35.4135651,-80.8537342
+Katherine,Westmoreland,13420 Westmoreland Road,Huntersville,NC,28078,C,83604.0,2022-10-01,A,13420 Westmoreland Road Huntersville Nc,35.4466249,-80.81431289999999
+Edward,Santana,10738 Waycross Drive,Huntersville,NC,28078,C,68803.0,2022-10-01,E,10738 Waycross Drive Huntersville Nc,35.41095870000001,-80.75718739999999
+Alba Susana,Portero Tahua,16426 Grapperhall Drive ,Huntersville,NC,28078,C,94968.0,2022-10-01,A,16426 Grapperhall Drive  Huntersville Nc,35.4407469,-80.8910654
+Paula,Bynum,12701 Glowing Peak Rd,Huntersville,NC,28078,C,114552.0,2022-10-01,A,12701 Glowing Peak Rd Huntersville Nc,35.3794399,-80.8293832
+Lisa,Saucier,11021 Drystone Dr,Huntersville,NC,28078,C,105883.0,2022-10-01,A,11021 Drystone Dr Huntersville Nc,35.4388867,-80.7615165
+Ngoc -H,Vo,10200 Black Stock Rd,Huntersville,NC,28078,C,106373.0,2022-10-01,A,10200 Black Stock Rd Huntersville Nc,35.4484819,-80.8525903
+Rachael,Nemitz,15108 Stonegreen Ln,Huntersville,NC,28078,C,94640.0,2022-10-01,A,15108 Stonegreen Ln Huntersville Nc,35.4143578,-80.87623959999999
+Tressa,Smith,13001 Central Ave,Huntersville,NC,28078,C,106770.0,2022-10-01,A,13001 Central Ave Huntersville Nc,35.3965042,-80.8352488
+Kelly,Bullock,16000 Bushnell Court,Huntersville,NC,28078,C,27026.0,2022-10-01,E,16000 Bushnell Court Huntersville Nc,35.4300951,-80.8452822
+Jewel,Cruz,220 Seagle Street,Huntersville,NC,28078,C,115439.0,2022-10-01,A,220 Seagle Street Huntersville Nc,35.420417,-80.8395456
+Michelle,Blair,14731 Salem Ridge Road,Huntersville,NC,28078,C,82327.0,2022-10-01,A,14731 Salem Ridge Road Huntersville Nc,35.4000219,-80.76904859999999
+Bonnie,Mangelly,12101 Abundance Circle,Huntersville,NC,28078,C,84198.0,2022-10-01,A,12101 Abundance Circle Huntersville Nc,35.384029,-80.835984
+Deborah,Fulghum,8915 Wedgewood Drive,Huntersville,NC,28078,C,12840.0,2022-10-01,A,8915 Wedgewood Drive Huntersville Nc,35.3562261,-80.8743807
+Jenifer,Vandeventer Mostelle,15724 Glen Miro Dr.,Huntersville,NC,28078,C,22327.0,2022-10-01,E,15724 Glen Miro Dr. Huntersville Nc,35.4305208,-80.87714729999999
+Melissa,Hale,9708 Kincey Ave Apt 218,Huntersville,NC,28078,C,51647.0,2022-10-01,A,9708 Kincey Ave Apt 218 Huntersville Nc,35.4032432,-80.8654966
+Freda,Ayers,14235 Boren St,Huntersville,NC,28078,C,29753.0,2022-10-01,E,14235 Boren St Huntersville Nc,35.4071576,-80.8667072
+Miriam,Velasquez,16931 Birkdale Cmns. Pkwy. Apt. C,Huntersville,NC,28078,C,81172.0,2022-10-01,A,16931 Birkdale Cmns. Pkwy. Apt. C Huntersville Nc,35.4465538,-80.8784745
+Luisa,Farrell,6625 Latta Springs Circle,Huntersville,NC,28078,C,9586.0,2022-10-01,E,6625 Latta Springs Circle Huntersville Nc,35.3754525,-80.9223939
+Karen,West,7620 Hedrick Cir,Huntersville,NC,28078,C,9078.0,2022-10-01,E,7620 Hedrick Cir Huntersville Nc,35.3497969,-80.8966839
+Cindy,Thompson,11701 Lakehaven Drive,Huntersville,NC,28078,C,27282.0,2022-10-01,E,11701 Lakehaven Drive Huntersville Nc,35.3882742,-80.8756344
+Ashleigh,Sullivan,9208 Rayneridge Dr,Huntersville,NC,28078,C,82589.0,2022-10-01,A,9208 Rayneridge Dr Huntersville Nc,35.4116891,-80.9083084
+Constance,Posey,12305 Chickasaw Drive,Huntersville,NC,28078,C,1767.0,2022-10-01,E,12305 Chickasaw Drive Huntersville Nc,35.3848161,-80.8407414
+Elizabeth,Costell,890 Windy Falls Dr,Huntersville,NC,28078,C,85672.0,2022-10-01,A,890 Windy Falls Dr Huntersville Nc,35.401067,-80.763645
+Rako,Vaughn,253 Mullen St,Huntersville,NC,28078,C,81806.0,2022-10-01,A,253 Mullen St Huntersville Nc,35.4078412,-80.84078459999999
+Natalia,Lawing,14741 Caldeford Ln,Huntersville,NC,28078,C,95812.0,2022-10-01,A,14741 Caldeford Ln Huntersville Nc,35.41400429999999,-80.8205207
+Tram Anh,Mai,16610 W Catawba Ave. Ste C,Huntersville,NC,28078,C,105079.0,2022-10-01,A,16610 W Catawba Ave. Ste C Huntersville Nc,35.44283,-80.89502
+Elizabeth,Barona,16508 Glenfurness Dr,Huntersville,NC,28078,C,75069.0,2022-10-01,A,16508 Glenfurness Dr Huntersville Nc,35.4435875,-80.88765099999999
+Casey,Otto,11833 Kennon Ridge Lane,Huntersville,NC,28078,C,104454.0,2022-10-01,A,11833 Kennon Ridge Lane Huntersville Nc,35.4228473,-80.8348595
+Nu,Vo,16139 Covington Point Lane,Huntersville,NC,28078,C,82429.0,2022-10-01,A,16139 Covington Point Lane Huntersville Nc,35.4385056,-80.8867001
+Sylvia,Ward,9420 Midas Springs Rd,Huntersville,NC,28078,C,113.0,2022-10-01,E,9420 Midas Springs Rd Huntersville Nc,35.35161799999999,-80.8898553
+Devonya,Nightingale,12526 Kemerton Ln.,Huntersville,NC,28078,C,62840.0,2022-10-01,A,12526 Kemerton Ln. Huntersville Nc,35.4240763,-80.8314859
+Monique,Long,13615 Damson Dr.,Huntersville,NC,28078,C,83183.0,2022-10-01,A,13615 Damson Dr. Huntersville Nc,35.38480759999999,-80.8372815
+Tiffany,Dixon,6404 Robert Street,Huntersville,NC,28078,C,105251.0,2022-10-01,A,6404 Robert Street Huntersville Nc,35.3813,-80.9227779
+Angela,Klusty,16018 Hollingbourne Rd,Huntersville,NC,28078,C,93852.0,2022-10-01,A,16018 Hollingbourne Rd Huntersville Nc,35.4364333,-80.8176007
+Julie,Freeman,109-A South Church Street,Huntersville,NC,28078,C,115975.0,2022-10-01,A,109-A South Church Street Huntersville Nc,35.4090984,-80.84000619999999
+Dianne,Beam,12517 Stumptown Road,Huntersville,NC,28078-3739,C,28964.0,2022-10-01,I,12517 Stumptown Road Huntersville Nc,35.4225544,-80.8339404
+Deborah Marie,Ruthenberg,12704 Boulder Run Ct.,Huntersville,NC,28078-9337,C,21951.0,2022-10-01,A,12704 Boulder Run Ct. Huntersville Nc,35.4002685,-80.87135459999999
+Carrie,Langford,15440 Carrington Ridge Dr.,Huntersville,NC,28202,C,104303.0,2022-10-01,A,15440 Carrington Ridge Dr. Huntersville Nc,35.3989614,-80.9191968
+Anyea,Nicks,12821 Little Penny Drive Apt 227,Huntersville,NC,28205,C,114469.0,2022-10-01,A,12821 Little Penny Drive Apt 227 Huntersville Nc,35.4021255,-80.8647617
+Savannah,Dobbins,12131 Cane Branch Way,Huntersville,NC,28036,C,117207.0,2023-10-01,A,12131 Cane Branch Way Huntersville Nc,35.3806211,-80.917825
+Lori,Patterson,P.O. Box 908,Huntersville,NC,28070,C,107477.0,2023-10-01,A,P.O. Box 908 Huntersville Nc,35.410694,-80.84285040000002
+Dong,Nguyen,8508 New Oak Ln,Huntersville,NC,28078,C,87590.0,2023-10-01,A,8508 New Oak Ln Huntersville Nc,35.4031084,-80.88920689999999
+Charlene,Post,8650 Brook Glen Ln.,Huntersville,NC,28078,C,52642.0,2023-10-01,E,8650 Brook Glen Ln. Huntersville Nc,35.4349632,-80.893745
+Elizabeth,Mitchell,717 Juniper Berry Ln Nw,Huntersville,NC,28078,C,98502.0,2023-10-01,A,717 Juniper Berry Ln Nw Huntersville Nc,35.3963988,-80.7571797
+Janet,Brooks,14113 Magnolia Bend Drive,Huntersville,NC,28078,C,48081.0,2023-10-01,A,14113 Magnolia Bend Drive Huntersville Nc,35.4381046,-80.82058560000002
+Donna,Stroupe,6210 Mcilwaine Rd.,Huntersville,NC,28078,C,4709.0,2023-10-01,E,6210 Mcilwaine Rd. Huntersville Nc,35.3848284,-80.92839889999999
+Jamie,Bononno,6815 Colonial Garden Dr,Huntersville,NC,28078,C,97134.0,2023-10-01,A,6815 Colonial Garden Dr Huntersville Nc,35.3953894,-80.9208385
+Deborah,Buono,16606 Grassy Creek Drive,Huntersville,NC,28078,C,108443.0,2023-10-01,A,16606 Grassy Creek Drive Huntersville Nc,35.4236459,-80.7609537
+Kathleen,Otto,10104 Lafoy Drive,Huntersville,NC,28078,C,117785.0,2023-10-01,A,10104 Lafoy Drive Huntersville Nc,35.4102608,-80.7702173
+Sherrie,Freeman,P.O. Box 2702,Huntersville,NC,28078,C,38161.0,2023-10-01,E,P.O. Box 2702 Huntersville Nc,35.410694,-80.84285040000002
+Erin,Hargett,15434  Waterfront Dr.,Huntersville,NC,28078,C,56652.0,2023-10-01,A,15434  Waterfront Dr. Huntersville Nc,35.4277768,-80.8522011
+Cynthia,Wagner,14803 Middlethorpe Lane,Huntersville,NC,28078,C,107888.0,2023-10-01,A,14803 Middlethorpe Lane Huntersville Nc,35.4135062,-80.8806919
+Alexis,Maxwell,16557 Kimbolten Dr,Huntersville,NC,28078,C,117576.0,2023-10-01,A,16557 Kimbolten Dr Huntersville Nc,35.4425335,-80.8922324
+Sarah,Lashley,14814 Rosemary Way Dr.,Huntersville,NC,28078,C,57795.0,2023-10-01,A,14814 Rosemary Way Dr. Huntersville Nc,35.4154344,-80.8281338
+Michelle,Mueller,13124 Willow Breeze Ln,Huntersville,NC,28078,C,48579.0,2023-10-01,E,13124 Willow Breeze Ln Huntersville Nc,35.4480765,-80.8238731
+Francesca,Montalbano,11846  Journey'S End Trail,Huntersville,NC,28078,C,117571.0,2023-10-01,A,11846  Journey'S End Trail Huntersville Nc,35.3863676,-80.91303979999999
+Andrea,Van Dyke,14625 Reese Blvd West Apt 107,Huntersville,NC,28078,C,50724.0,2023-10-01,A,14625 Reese Blvd West Apt 107 Huntersville Nc,35.4118799,-80.86054
+Samantha,Cassarino,11714 Kinross Ct,Huntersville,NC,28078,C,118463.0,2023-10-01,A,11714 Kinross Ct Huntersville Nc,35.4260487,-80.835638
+Leslie,Weise,13907 Tilesford Lane ,Huntersville,NC,28078,C,48459.0,2023-10-01,E,13907 Tilesford Lane  Huntersville Nc,35.4148703,-80.8210182
+Jennifer,Kimmer,14020 Timbergreen Drive,Huntersville,NC,28078,C,109536.0,2023-10-01,A,14020 Timbergreen Drive Huntersville Nc,35.404992,-80.77820299999999
+Lindsey,Lehman,6020 Stephens Road,Huntersville,NC,28078,C,58774.0,2023-10-01,E,6020 Stephens Road Huntersville Nc,35.401782,-80.935707
+Adriana,Torres,12620 Cumberland Crest Dr,Huntersville,NC,28078,C,109462.0,2023-10-01,A,12620 Cumberland Crest Dr Huntersville Nc,35.416316,-80.83032299999999
+Melissa,Zawacki,11248 Warfield Ave,Huntersville,NC,28078,C,42491.0,2023-10-01,E,11248 Warfield Ave Huntersville Nc,35.408191,-80.834992
+Katherine,Starnes,10710 Huntersville Commons Dr.,Huntersville,NC,28078,C,118141.0,2023-10-01,A,10710 Huntersville Commons Dr. Huntersville Nc,35.416985,-80.8529578
+Christopher,McFadden,8303 Strandhill Road,Huntersville,NC,28078,C,108966.0,2023-10-01,A,8303 Strandhill Road Huntersville Nc,35.4482589,-80.88095129999999
+Santa,Ripoll,15618 Citronelle Ln.,Huntersville,NC,28078,C,77523.0,2023-10-01,A,15618 Citronelle Ln. Huntersville Nc,35.4327695,-80.8718085
+Christina,Hough,9700 Rodanthe Place,Huntersville,NC,28078,C,50783.0,2023-10-01,A,9700 Rodanthe Place Huntersville Nc,35.382666,-80.87422939999999
+Daryl,Motte,10634 Holly Village Cir #206,Huntersville,NC,28078,C,96729.0,2023-10-01,A,10634 Holly Village Cir #206 Huntersville Nc,35.4388025,-80.8612072
+Katelyn,Fulcher,12614 Orange Sun Trl,Huntersville,NC,28078,C,87502.0,2023-10-01,A,12614 Orange Sun Trl Huntersville Nc,35.385821,-80.9179006
+Emily,Campbell,14312 Menifee Drive,Huntersville,NC,28078,C,99321.0,2023-10-01,A,14312 Menifee Drive Huntersville Nc,35.4185975,-80.8297991
+Amanda,Johnson,107 N Maxwell Ave,Huntersville,NC,28078,C,110649.0,2023-10-01,A,107 N Maxwell Ave Huntersville Nc,35.4125425,-80.8414549
+Breanne,Boeve,7312 April Mist Trail,Huntersville,NC,28078,C,117383.0,2023-10-01,A,7312 April Mist Trail Huntersville Nc,35.3834354,-80.9166908
+Beth,Macioge,16023 Woodcote Dr,Huntersville,NC,28078,C,52707.0,2023-10-01,E,16023 Woodcote Dr Huntersville Nc,35.4336703,-80.813664
+Ashley,Ardoin,10005 Rose Brook Lane Apt 201,Huntersville,NC,28078,C,117996.0,2023-10-01,A,10005 Rose Brook Lane Apt 201 Huntersville Nc,35.41223,-80.86153
+Jennifer,Knott,115 Three Greens Drive,Huntersville,NC,28078,C,53947.0,2023-10-01,A,115 Three Greens Drive Huntersville Nc,35.4137929,-80.7542867
+Melanie,Griffin,8936 Cantrell Way,Huntersville,NC,28078,C,110661.0,2023-10-01,A,8936 Cantrell Way Huntersville Nc,35.406903,-80.9118637
+Alizabeth,Cochrane,15802 Centennial Forest Drive,Huntersville,NC,28078,C,118010.0,2023-10-01,A,15802 Centennial Forest Drive Huntersville Nc,35.4145852,-80.8239597
+Gloria,Baio,10001 Gladwick Ct.,Huntersville,NC,28078,C,40821.0,2023-10-01,E,10001 Gladwick Ct. Huntersville Nc,35.4456799,-80.8581681
+Malissa,Brown,8512 New Oak Lane,Huntersville,NC,28078,C,48949.0,2023-10-01,A,8512 New Oak Lane Huntersville Nc,35.4029156,-80.8891853
+Victoria,Swanson,8800 Pinnacle Cross Dr #24,Huntersville,NC,28078,C,117548.0,2023-10-01,A,8800 Pinnacle Cross Dr #24 Huntersville Nc,35.43995,-80.87568
+Regina,Absher,13212 Kennerly Drive,Huntersville,NC,28078,C,38937.0,2023-10-01,E,13212 Kennerly Drive Huntersville Nc,35.394418,-80.9248564
+Eladio Alexis,Quezada,8415 Dunmore Drive Apt H,Huntersville,NC,28078,C,117733.0,2023-10-01,A,8415 Dunmore Drive Apt H Huntersville Nc,35.44898,-80.88727999999999
+Rosa,Siguenza,10427 Blockstock Road,Huntersville,NC,28078,C,77683.0,2023-10-01,A,10427 Blockstock Road Huntersville Nc,35.4441833,-80.850212
+Jennifer,Colson,6714 Olmsford Drive,Huntersville,NC,28078,C,97410.0,2023-10-01,A,6714 Olmsford Drive Huntersville Nc,35.4160213,-80.9066232
+Amanda,Glass,10410 Donahue Dr,Huntersville,NC,28078,C,117664.0,2023-10-01,A,10410 Donahue Dr Huntersville Nc,35.4081596,-80.83297809999999
+Toni,Anthony,7136 Sweetfield Dr,Huntersville,NC,28078,C,87895.0,2023-10-01,A,7136 Sweetfield Dr Huntersville Nc,35.3870799,-80.79081839999999
+Regina,Bryant,17030 Northstar Dr Apt F,Huntersville,NC,28078,C,54449.0,2023-10-01,E,17030 Northstar Dr Apt F Huntersville Nc,35.44664,-80.87124
+Gradine,Jackson,16515 Old Statesville  Rd  Apt. 406,Huntersville,NC,28078,C,59471.0,2023-10-01,A,16515 Old Statesville  Rd  Apt. 406 Huntersville Nc,35.4373053,-80.844634
+Michelle  Ann,Hamilton,12220 Bronx Dr,Huntersville,NC,28078,C,45881.0,2023-10-01,A,12220 Bronx Dr Huntersville Nc,35.380941,-80.924995
+Christina,Murphy,311 Hillcrest Drive,Huntersville,NC,28078,C,118144.0,2023-10-01,A,311 Hillcrest Drive Huntersville Nc,35.4048729,-80.8492174
+Sharon,Sullivan,9639 Hambright Rd,Huntersville,NC,28078,C,32547.0,2023-10-01,A,9639 Hambright Rd Huntersville Nc,35.381571,-80.8735161
+Kristen,Huddleston,12420 Mccord Rd,Huntersville,NC,28078,C,118682.0,2023-10-01,A,12420 Mccord Rd Huntersville Nc,35.4378602,-80.8293449
+Jacqueline,Livingston,17417 Cambridge Grove Dr.,Huntersville,NC,28078,C,99077.0,2023-10-01,A,17417 Cambridge Grove Dr. Huntersville Nc,35.4481327,-80.85916259999999
+Nancy,Michelone,11834 Kennon Ridge Ln.,Huntersville,NC,28078,C,43420.0,2023-10-01,E,11834 Kennon Ridge Ln. Huntersville Nc,35.4225276,-80.8354001
+Debra,Ellis,8728 Cantrell Way,Huntersville,NC,28078,C,57847.0,2023-10-01,E,8728 Cantrell Way Huntersville Nc,35.4083103,-80.9142573
+Erin,Pepper,7319 Henderson Park Rd,Huntersville,NC,28078,C,54948.0,2023-10-01,A,7319 Henderson Park Rd Huntersville Nc,35.4038508,-80.9102529
+Khiska,Carr,11404 Mccoy Rd.,Huntersville,NC,28078,C,53329.0,2023-10-01,E,11404 Mccoy Rd. Huntersville Nc,35.3808181,-80.8848847
+Oanh,Yang,11525 Lottingly Dr,Huntersville,NC,28078,C,59198.0,2023-10-01,A,11525 Lottingly Dr Huntersville Nc,35.3964825,-80.842774
+Beverly,Andrews,12539 Walden Lea Dr,Huntersville,NC,28078,C,48558.0,2023-10-01,E,12539 Walden Lea Dr Huntersville Nc,35.393685,-80.8730406
+Jodi,Vose,8430 Streamview Dr Apt C,Huntersville,NC,28078,C,47894.0,2023-10-01,E,8430 Streamview Dr Apt C Huntersville Nc,35.44157,-80.88534
+Leleia,Matofiy,12704 Aberdeen Pk. Dr.,Huntersville,NC,28078,C,89084.0,2023-10-01,A,12704 Aberdeen Pk. Dr. Huntersville Nc,35.3886852,-80.90800589999999
+Marcella,Marinakis,7631 Berrywood Circle,Huntersville,NC,28078,C,50851.0,2023-10-01,A,7631 Berrywood Circle Huntersville Nc,35.4028445,-80.907617
+Antoinette,Pridgen,11838 Midnight Way ,Huntersville,NC,28078,C,99620.0,2023-10-01,A,11838 Midnight Way  Huntersville Nc,35.3780638,-80.83843829999999
+Tammy,Reese,13016 Eastfield Rd. ,Huntersville,NC,28078,C,52691.0,2023-10-01,E,13016 Eastfield Rd.  Huntersville Nc,35.3843662,-80.78616629999999
+Courtney,Siber,9108 Agnes Park Lane,Huntersville,NC,28078,C,110849.0,2023-10-01,A,9108 Agnes Park Lane Huntersville Nc,35.3996996,-80.8834583
+Orsolya,Holes,103 Vanessa Lane,Huntersville,NC,28078,C,117034.0,2023-10-01,A,103 Vanessa Lane Huntersville Nc,35.4182971,-80.8509471
+Marisa,Smith,7019 Church Wood Ln.,Huntersville,NC,28078,C,108476.0,2023-10-01,A,7019 Church Wood Ln. Huntersville Nc,35.421343,-80.904549
+Beatrice,Urtecho,9113 Park Grove Street,Huntersville,NC,28078,C,98707.0,2023-10-01,A,9113 Park Grove Street Huntersville Nc,35.4248287,-80.8813187
+Amanda,Pautz,8483 Strathburn Ct.,Huntersville,NC,28078,C,96383.0,2023-10-01,A,8483 Strathburn Ct. Huntersville Nc,35.4448725,-80.88595959999999
+Barbara,Sheaffer,8928 Cumbria Ct,Huntersville,NC,28078-8500,C,5761.0,2023-10-01,E,8928 Cumbria Ct Huntersville Nc,35.4131982,-80.87690959999999
+Jameekia,Hart,10710 Huntersville Commons Drive  B,Huntersville,NC,28117,C,88268.0,2023-10-01,A,10710 Huntersville Commons Drive  B Huntersville Nc,35.4158477,-80.85284419999999
+Gabrielle,Holland,9123 Cinder Lane,Huntersville,NC,28216,C,96925.0,2023-10-01,A,9123 Cinder Lane Huntersville Nc,35.3790888,-80.9142713
+Niya,Alexander,11731 Banter Lane,Huntersville,NC,28262,C,53215.0,2023-10-01,A,11731 Banter Lane Huntersville Nc,35.4028838,-80.82867449999999
+Neeta,Patel,11325 Fullerton Place Drive Nw,Huntersville,NC,28269,C,52478.0,2023-10-01,A,11325 Fullerton Place Drive Nw Huntersville Nc,35.4205809,-80.7537799
+Tynise,Blackwell,9747 Sam Furr Rd Suite 34,Huntersville,NC,28278,C,56331.0,2023-10-01,A,9747 Sam Furr Rd Suite 34 Huntersville Nc,35.4452736,-80.8620378
