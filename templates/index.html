@@ -31,11 +31,17 @@
   <link href="../static/assets/css/material-dashboard.css" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <!-- <link href="../static/assets/demo/demo.css" rel="stylesheet" /> -->
-  <link href="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.css" rel="stylesheet">
 </head>
 
 <body class="dark-edition">
   <div class="wrapper ">
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+  <div class="offcanvas-body">
     <div class="sidebar" data-color="purple" data-background-color="black" data-image="../static/assets/img/sidebar-1.jpg">
       <!--
         Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
@@ -74,21 +80,38 @@
             </a>
           </li>
         </ul>
+        </div>
       </div>
     </div>
+    </div>
     <div class="main-panel">
-      <div class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top " id="navigation-example"">
+      <div class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top " id="navigation-example">
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-12">
               <div class="card">
                 <div class="card-header card-header-primary">
+                  <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+  Link with href
+</a>
                   <h4 class="card-title ">Charlotte Stylists by Distance from Salon</h4>
                   <p class="card-category">** Non Functional Prototype **</p>
                 </div>
                 <div class="card-body">
                   <div class="table-responsive">
-                    <table class="table">
+                    <style>
+                    #toolbar {
+                      margin: 0;
+                    }
+                    </style>
+                    <div id="toolbar" class="select">
+                      <select class="form-control">
+                        <option value="">Export Basic</option>
+                        <option value="all">Export All</option>
+                        <option value="selected">Export Selected</option>
+                      </select>
+                    </div>
+                    <table class="table" id="table" data-show-export="true" data-side-pagination="server" data-click-to-select="true" data-toolbar="#toolbar" data-search="true" data-show-columns="true" data-show-toggle="true">
                       <thead class="text-primary">
                         <tr>
                           <th>First Name</th>
@@ -100,24 +123,24 @@
                           <th>License Number</th>
                           <th>Expiration Date</th>
                           <th>License Status Code</th>
-                          <th>Miles Away</th>
+                          <th data-field="miles_away" data-sortable="true" data-sort-order="desc">Miles Away</th>
                         </tr>
                       </thead>
                       <tbody>
-                         {% for row in results %}
-                            <tr>
-                                <td>{{  row[0]  }}</td>
-                                <td>{{  row[1]  }}</td>
-                                <td>{{  row[2]  }}</td>
-                                <td>{{  row[3]  }}</td>
-                                <td>{{  row[4]  }}</td>
-                                <td>{{  row[5]  }}</td>
-                                <td>{{  row[6]  }}</td>
-                                <td>{{  row[7]  }}</td>
-                                <td>{{  row[8]  }}</td>
-                                <td>{{  row[10]  }}</td>
-                            </tr>
-                          {% endfor %}
+                      {% for row in results %}
+                        <tr>
+                            <td>{{  row[0]  }}</td>
+                            <td>{{  row[1]  }}</td>
+                            <td>{{  row[2]  }}</td>
+                            <td>{{  row[3]  }}</td>
+                            <td>{{  row[4]  }}</td>
+                            <td>{{  row[5]  }}</td>
+                            <td>{{  row[6]  }}</td>
+                            <td>{{  row[7]  }}</td>
+                            <td>{{  row[8]  }}</td>
+                            <td>{{  row[10]  }}</td>
+                        </tr>
+                      {% endfor %}
                       </tbody>
                     </table>
                   </div>
@@ -131,23 +154,29 @@
   </div>
 
   <!--   Core JS Files   -->
+  <script src="../static/assets/js/core/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/tableExport.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF/jspdf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.10.21/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js"></script>
+  <script src="../static/assets/js/core/popper.min.js"></script>
+  <script src="../static/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
   <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.js"></script>
   <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js"></script>
+  <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
 
-  <script src="../static/assets/js/core/jquery.min.js"></script>
-  <script src="../static/assets/js/core/popper.min.js"></script>
-  <script src="../static/assets/js/core/bootstrap-material-design.min.js"></script>
+
+
   <script src="https://unpkg.com/default-passive-events"></script>
-  <script src="../static/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <!--  Google Maps Plugin    -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+  <!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script> -->
   <!-- Chartist JS -->
   <script src="../static/assets/js/plugins/chartist.min.js"></script>
   <!--  Notifications Plugin    -->
   <script src="../static/assets/js/plugins/bootstrap-notify.js"></script>
   <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->
+  <script src="../static/assets/js/core/bootstrap-material-design.min.js"></script>
   <script src="../static/assets/js/material-dashboard.js"></script>
   <!-- Material Dashboard DEMO methods, don't include it in your project! -->
   <!-- <script src="../static/assets/demo/demo.js"></script> -->
@@ -313,6 +342,35 @@
       });
     });
   </script>
+  <script>
+  var $table = $('#table')
+
+  $(function() {
+    $('#toolbar').find('select').change(function () {
+      $table.bootstrapTable('destroy').bootstrapTable({
+        exportDataType: $(this).val(),
+        exportTypes: ['json', 'xml', 'csv', 'txt', 'sql', 'excel', 'pdf'],
+        columns: [
+          {
+            field: 'state',
+            checkbox: true,
+            visible: $(this).val() === 'selected'
+          },
+          {
+            field: 'id',
+            title: 'ID'
+          }, {
+            field: 'name',
+            title: 'Item Name'
+          }, {
+            field: 'price',
+            title: 'Item Price'
+          }
+        ]
+      })
+    }).trigger('change')
+  })
+</script>
 </body>
 
 </html>
