@@ -20,3 +20,5 @@ __pycache__/
 /credentials.json
 .json
 credentials.json
+.ipynb
+Data_Notebook.ipynb
