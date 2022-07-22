@@ -17,8 +17,5 @@
 __pycache__/
 # Ignored by the build system
 /setup.cfg
-/credentials.json
-.json
-credentials.json
 .ipynb
 Data_Notebook.ipynb

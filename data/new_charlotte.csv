@@ -4,7 +4,7 @@
 2,Becky,Weddington,CO 411 S Sharon Amity Rd,Charlotte,NC,C,36735.0,2023-10-01,E,C/O 411 S Sharon Amity Rd Charlotte Nc,0.2 mi
 3,Robert,Murphy,4504 Woodlark Lane,Charlotte,NC,C,89202.0,2023-10-01,A,4504 Woodlark Lane Charlotte Nc,0.4 mi
 4,Dollie,Smith,2910 Crosby Road,Charlotte,NC,C,15906.0,2022-10-01,E,2910 Crosby Road Charlotte Nc,0.4 mi
-5,DUNG,Ta,4112 Audubon,Charlotte,NC,C,109034.0,2023-10-01,A,4112 Audubon Charlotte Nc,0.4 mi
+5,Dung,Ta,4112 Audubon,Charlotte,NC,C,109034.0,2023-10-01,A,4112 Audubon Charlotte Nc,0.4 mi
 6,Dung Thanh,Tang,116 N Canterbury Rd,Charlotte,NC,C,96882.0,2023-10-01,A,116 N Canterbury Rd Charlotte Nc,0.7 mi
 7,Yen Thanh,Tang,116 N Canterbury Rd,Charlotte,NC,C,97041.0,2023-10-01,A,116 N Canterbury Rd Charlotte Nc,0.7 mi
 8,Jamaya,Alexander,4816 Water Oak Road,Charlotte,NC,C,117371.0,2023-10-01,A,4816 Water Oak Road Charlotte Nc,0.9 mi
@@ -36,7 +36,7 @@
 34,Kristen,Little,4139 Aldershot Court,Charlotte,NC,C,118112.0,2023-10-01,A,4139 Aldershot Court Charlotte Nc,1.9 mi
 35,Samantha,Adams,5426 Green Moss Ln,Charlotte,NC,C,94925.0,2022-10-01,A,5426 Green Moss Ln Charlotte Nc,10.0 mi
 36,Takiyah,Zanders,5542 Whistlewood Ln,Charlotte,NC,C,59899.0,2022-10-01,A,5542 Whistlewood Ln Charlotte Nc,10.0 mi
-37,TaNasiah,Murphy,3620 Nobles Ave Unit 101,Charlotte,NC,C,105719.0,2022-10-01,A,3620 Nobles Ave Unit 101 Charlotte Nc,10.0 mi
+37,Tanasiah,Murphy,3620 Nobles Ave Unit 101,Charlotte,NC,C,105719.0,2022-10-01,A,3620 Nobles Ave Unit 101 Charlotte Nc,10.0 mi
 38,Andrea,Brooks,11608 Lusterleaf Holly Rd,Charlotte,NC,C,81653.0,2022-10-01,A,11608 Lusterleaf Holly Rd. Charlotte Nc,10.0 mi
 39,Aprelle,Smith,3023 Mannington Dr,Charlotte,NC,C,57972.0,2023-10-01,E,3023 Mannington Dr Charlotte Nc,10.0 mi
 40,Charnell,Royal,3101 Southwest Blvd Ap Apt6,Charlotte,NC,C,97448.0,2023-10-01,A,"3101 Southwest Blvd Ap, Apt6 Charlotte Nc",10.0 mi
@@ -125,7 +125,7 @@
 123,Elmira,House,2715 Kendall Dr,Charlotte,NC,C,29204.0,2022-10-01,E,2715 Kendall Dr Charlotte Nc,10.7 mi
 124,Amanda,Fye,2429 Sawyer Dr,Charlotte,NC,C,85913.0,2022-10-01,A,2429 Sawyer Dr. Charlotte Nc,10.7 mi
 125,Tamasha,Washington,9239 Yellow Oak Rd,Charlotte,NC,C,52508.0,2023-10-01,A,9239 Yellow Oak Rd. Charlotte Nc,10.7 mi
-126,LaTonya,Brown,9406 Abney Ct,Charlotte,NC,C,87660.0,2023-10-01,A,9406 Abney Ct Charlotte Nc,10.7 mi
+126,Latonya,Brown,9406 Abney Ct,Charlotte,NC,C,87660.0,2023-10-01,A,9406 Abney Ct Charlotte Nc,10.7 mi
 127,Nancy,Rinaldi,11338 Costigan Ln,Charlotte,NC,C,32365.0,2023-10-01,E,11338 Costigan Ln. Charlotte Nc,10.7 mi
 128,Nicole,Barksdale,4401 Hovis Td 6,Charlotte,NC,C,93218.0,2022-10-01,A,4401 Hovis Td #6 Charlotte Nc,10.7 mi
 129,Vera,Salas,10914 Foxmill Ln,Charlotte,NC,C,88905.0,2023-10-01,A,10914 Foxmill Ln. Charlotte Nc,10.7 mi
@@ -155,7 +155,7 @@
 153,Heather,Sullivan,14815 Ballantyne Village Way Loft 22,Charlotte,NC,C,37844.0,2023-10-01,E,14815 Ballantyne Village Way Loft 22 Charlotte Nc,10.8 mi
 154,Robert,Del Favero,11410 Wellshire Commons Cir Apt 2009,Charlotte,NC,C,10392.0,2022-10-01,E,11410 Wellshire Commons Cir Apt 2009 Charlotte Nc,10.8 mi
 155,Chinita,Heywood-Washington,9522 Currier Rd,Charlotte,NC,C,117375.0,2023-10-01,A,9522 Currier Rd Charlotte Nc,10.8 mi
-156,CNautica,Harp,1014 Beaugard,Charlotte,NC,C,118675.0,2023-10-01,A,1014 Beaugard Charlotte Nc,10.8 mi
+156,Cnautica,Harp,1014 Beaugard,Charlotte,NC,C,118675.0,2023-10-01,A,1014 Beaugard Charlotte Nc,10.8 mi
 157,Maria,Flores,12108 Tweedsmuir Dr,Charlotte,NC,C,104274.0,2022-10-01,A,12108 Tweedsmuir Dr Charlotte Nc,10.8 mi
 158,Tifanee,Guice,2708 Old Ironside Drive,Charlotte,NC,C,59668.0,2023-10-01,A,2708 Old Ironside Drive Charlotte Nc,10.8 mi
 159,Tracy,Richards,4210 Welling Ave,Charlotte,NC,C,118004.0,2023-10-01,A,4210 Welling Ave Charlotte Nc,10.8 mi
@@ -167,7 +167,7 @@
 165,Erika,Root,10429 Roundleaf Dr,Charlotte,NC,C,108197.0,2023-10-01,A,10429 Roundleaf Dr Charlotte Nc,10.9 mi
 166,Hetal,Shah,10910 Knight Castle Drive,Charlotte,NC,C,107963.0,2023-10-01,A,10910 Knight Castle Drive Charlotte Nc,10.9 mi
 167,Tushima,Livingston,14050 Labeau Ave,Charlotte,NC,C,108155.0,2023-10-01,A,14050 Labeau Ave Charlotte Nc,10.9 mi
-168,Do thi my chau,Tran,910 Key St,Charlotte,NC,C,116655.0,2022-10-01,A,910 Key St Charlotte Nc,10.9 mi
+168,Do Thi My Chau,Tran,910 Key St,Charlotte,NC,C,116655.0,2022-10-01,A,910 Key St Charlotte Nc,10.9 mi
 169,Alexander,Ortiz,515 Volunteer Ct,Charlotte,NC,C,116991.0,2022-10-01,A,515 Volunteer Ct Charlotte Nc,10.9 mi
 170,Xin,Jiang,5106 Dragonfly Ln,Charlotte,NC,C,108527.0,2023-10-01,A,5106 Dragonfly Ln Charlotte Nc,10.9 mi
 171,Betty,Hanna,10712 Rogalla Drive,Charlotte,NC,C,1057.0,2022-10-01,E,10712 Rogalla Drive Charlotte Nc,10.9 mi
@@ -220,13 +220,13 @@
 218,Devin,Raysor,9336 Kings Parade Blvd Apt 3425,Charlotte,NC,C,94066.0,2022-10-01,A,"9336 Kings Parade Blvd, Apt 3425 Charlotte Nc",11.3 mi
 219,Kashirah,Jackson,11018 Tara Glenn Ct Apt618,Charlotte,NC,C,93646.0,2022-10-01,A,11018 Tara Glenn Ct Apt.618 Charlotte Nc,11.3 mi
 220,Melissa,Justesen,4308 Red Blossom Way Apt 108,Charlotte,NC,C,117795.0,2023-10-01,A,4308 Red Blossom Way Apt. 108 Charlotte Nc,11.3 mi
-221,DeAndre,Vega,9416 White Cedar Ct,Charlotte,NC,C,108911.0,2023-10-01,A,9416 White Cedar Ct. Charlotte Nc,11.3 mi
+221,Deandre,Vega,9416 White Cedar Ct,Charlotte,NC,C,108911.0,2023-10-01,A,9416 White Cedar Ct. Charlotte Nc,11.3 mi
 222,Mishella,Bastianson,4412 Lazy Dr,Charlotte,NC,C,3438.0,2022-10-01,A,4412 Lazy Dr. Charlotte Nc,11.4 mi
 223,Sujeidy,Cummings,8614 Satterfield Ct,Charlotte,NC,C,83688.0,2022-10-01,A,8614 Satterfield Ct Charlotte Nc,11.4 mi
 224,Melanie,Johnson,9541 Shannon Green Dr Apt H,Charlotte,NC,C,118445.0,2023-10-01,A,9541 Shannon Green Dr Apt H Charlotte Nc,11.4 mi
 225,Diane,Pinson,14220 Plantation Park Blvd ,Charlotte,NC,C,75975.0,2022-10-01,A,14220 Plantation Park Blvd  Charlotte Nc,11.4 mi
 226,Christy,Pritchard Eller,10111 Windtree Ln,Charlotte,NC,C,25280.0,2022-10-01,E,10111 Windtree Ln. Charlotte Nc,11.4 mi
-227,ciara,Gomez,4730 Tracewood Ct,Charlotte,NC,C,97593.0,2023-10-01,A,4730 Tracewood Ct Charlotte Nc,11.4 mi
+227,Ciara,Gomez,4730 Tracewood Ct,Charlotte,NC,C,97593.0,2023-10-01,A,4730 Tracewood Ct Charlotte Nc,11.4 mi
 228,Kimberly,Wood,11347 Deer Ridge Lane,Charlotte,NC,C,12411.0,2022-10-01,E,11347 Deer Ridge Lane Charlotte Nc,11.4 mi
 229,Linda,Hamilton,8021 Lancken Dr,Charlotte,NC,C,55461.0,2023-10-01,A,8021 Lancken Dr. Charlotte Nc,11.4 mi
 230,Kimberley,Poalillo,4118 Coleman Dr,Charlotte,NC,C,58197.0,2023-10-01,E,4118 Coleman Dr. Charlotte Nc,11.4 mi
@@ -317,12 +317,12 @@
 315,My Chuc Thi,Le,10406 Henbane Ct,Charlotte,NC,C,55250.0,2023-10-01,E,10406 Henbane Ct Charlotte Nc,11.9 mi
 316,Kisha,Raynor,1403 Prairie Valley Dr,Charlotte,NC,C,53812.0,2023-10-01,I,1403 Prairie Valley Dr. Charlotte Nc,11.9 mi
 317,Sheena,Conlon,11532 Delores Ferguson Lane,Charlotte,NC,C,21793.0,2022-10-01,E,11532 Delores Ferguson Lane Charlotte Nc,11.9 mi
-318,LaMonica,Cuthbertson,440 E Mccullough Dr Ste 215,Charlotte,NC,C,82896.0,2022-10-01,A,440 E. Mccullough Dr. Ste 215 Charlotte Nc,11.9 mi
+318,Lamonica,Cuthbertson,440 E Mccullough Dr Ste 215,Charlotte,NC,C,82896.0,2022-10-01,A,440 E. Mccullough Dr. Ste 215 Charlotte Nc,11.9 mi
 319,Nicole,Pierce,7217 Watersreach Lane,Charlotte,NC,C,118425.0,2023-10-01,A,7217 Watersreach Lane Charlotte Nc,11.9 mi
 320,Argentina,Robinson Harris,2610 Billings Park Drive,Charlotte,NC,C,53550.0,2022-10-01,A,2610 Billings Park Drive Charlotte Nc,11.9 mi
 321,Abigail,Mintz,852 Sanctuary Place Apt 2111,Charlotte,NC,C,116345.0,2022-10-01,A,852 Sanctuary Place Apt. 2111 Charlotte Nc,11.9 mi
 322,Mariela,Gaytan Tiscareno,9229 Oren Thompson Rd,Charlotte,NC,C,115873.0,2022-10-01,A,9229 Oren Thompson Rd Charlotte Nc,11.9 mi
-323,DiAnne,Thomas,624 Carolyn Ln,Charlotte,NC,C,13166.0,2022-10-01,E,624 Carolyn Ln Charlotte Nc,12.0 mi
+323,Dianne,Thomas,624 Carolyn Ln,Charlotte,NC,C,13166.0,2022-10-01,E,624 Carolyn Ln Charlotte Nc,12.0 mi
 324,Freda,Scott,7815 Jefferson Colony Rd,Charlotte,NC,C,22523.0,2022-10-01,E,7815 Jefferson Colony Rd. Charlotte Nc,12.0 mi
 325,Hung,Trinh,11705 Sidney Crest Ave,Charlotte,NC,C,94750.0,2022-10-01,A,11705 Sidney Crest Ave Charlotte Nc,12.0 mi
 326,Dominique,Rogers,9417 Hanberry Blvd,Charlotte,NC,C,94324.0,2022-10-01,A,9417 Hanberry Blvd. Charlotte Nc,12.0 mi
@@ -347,7 +347,7 @@
 345,Natalie,Knight,415 Bent Leaf,Charlotte,NC,C,104742.0,2022-10-01,E,415 Bent Leaf Charlotte Nc,12.1 mi
 346,Benjamin,Mauney,8836 Crosstimbers Drive,Charlotte,NC,C,108582.0,2023-10-01,A,8836 Crosstimbers Drive Charlotte Nc,12.1 mi
 347,Sabrina,Shine,3733 Bardot Dr,Charlotte,NC,C,96447.0,2023-10-01,A,3733 Bardot Dr. Charlotte Nc,12.1 mi
-348,MAGDA LIYANI,Jaimes Motta,1700 Conifer Cr,Charlotte,NC,C,115749.0,2022-10-01,A,1700 Conifer Cr Charlotte Nc,12.1 mi
+348,Magda Liyani,Jaimes Motta,1700 Conifer Cr,Charlotte,NC,C,115749.0,2022-10-01,A,1700 Conifer Cr Charlotte Nc,12.1 mi
 349,Hong-H,Giang,15032 Sapphire Hill Lane,Charlotte,NC,C,105611.0,2022-10-01,A,15032 Sapphire Hill Lane Charlotte Nc,12.1 mi
 350,Dayzia,Davis,2320 Pimpernel Rd,Charlotte,NC,C,109287.0,2023-10-01,A,2320 Pimpernel Rd Charlotte Nc,12.1 mi
 351,Bieisha,Smith,11111  Hunt Glenn Ct,Charlotte,NC,C,52665.0,2023-10-01,A,11111  Hunt Glenn Ct Charlotte Nc,12.1 mi
@@ -367,11 +367,11 @@
 365,Damesha,Portis,4908 Ridgetop Trail,Charlotte,NC,C,92803.0,2022-10-01,A,4908 Ridgetop Trail Charlotte Nc,12.1 mi
 366,Patricia,Carmenia,6668 Kingbird Court,Charlotte,NC,C,77291.0,2022-10-01,A,6668 Kingbird Court Charlotte Nc,12.1 mi
 367,Luis,Morales,10023 Atkins Ridge Dr,Charlotte,NC,C,9597.0,2022-10-01,E,10023 Atkins Ridge Dr. Charlotte Nc,12.1 mi
-368,JOEL JESUS,Guerrero Motta,1700 Conifer Cr,Charlotte,NC,C,114698.0,2022-10-01,A,1700 Conifer Cr Charlotte Nc,12.1 mi
+368,Joel Jesus,Guerrero Motta,1700 Conifer Cr,Charlotte,NC,C,114698.0,2022-10-01,A,1700 Conifer Cr Charlotte Nc,12.1 mi
 369,Loretta,Johnson,9807 Glanworth Court,Charlotte,NC,C,42069.0,2023-10-01,A,9807 Glanworth Court. Charlotte Nc,12.1 mi
 370,Angela,Parker,3610 Fagan Way,Charlotte,NC,C,83154.0,2022-10-01,A,3610 Fagan Way Charlotte Nc,12.1 mi
 371,Lily,Vang,3816 Atlas Drive,Charlotte,NC,C,104543.0,2022-10-01,A,3816 Atlas Drive Charlotte Nc,12.1 mi
-372,K'netha,Davis,844 Harrier Road,Charlotte,NC,C,48720.0,2023-10-01,A,844 Harrier Road Charlotte Nc,12.1 mi
+372,K'Netha,Davis,844 Harrier Road,Charlotte,NC,C,48720.0,2023-10-01,A,844 Harrier Road Charlotte Nc,12.1 mi
 373,Nina,Mckenzie,Po Box 480032,Charlotte,NC,C,49609.0,2023-10-01,E,Po Box 480032 Charlotte Nc,12.1 mi
 374,Charlene,Johnson,Po Box 481970,Charlotte,NC,C,58204.0,2023-10-01,A,Po Box 481970 Charlotte Nc,12.1 mi
 375,Lakisha,Smith,4448 Faraday St,Charlotte,NC,C,104778.0,2022-10-01,A,4448 Faraday St Charlotte Nc,12.1 mi
@@ -379,7 +379,7 @@
 377,Kiya,Bey,Po Box 481243,Charlotte,NC,C,86784.0,2023-10-01,A,Po Box 481243 Charlotte Nc,12.1 mi
 378,Katherine,Duffy,8829 Rayners Hill Dr,Charlotte,NC,C,88163.0,2023-10-01,A,8829 Rayners Hill Dr Charlotte Nc,12.1 mi
 379,Stephanie,Walker,15335 Bexley Place,Charlotte,NC,C,30944.0,2023-10-01,E,15335 Bexley Place Charlotte Nc,12.1 mi
-380,ZOILA,Jimenez De Estrella,222 Rook Rd,Charlotte,NC,C,99204.0,2023-10-01,A,222 Rook Rd Charlotte Nc,12.1 mi
+380,Zoila,Jimenez De Estrella,222 Rook Rd,Charlotte,NC,C,99204.0,2023-10-01,A,222 Rook Rd Charlotte Nc,12.1 mi
 381,Sylvia,Henrie,PO Box 561856,Charlotte,NC,C,53629.0,2023-10-01,E,P.O. Box 561856 Charlotte Nc,12.1 mi
 382,Tynese,Bradley,3044 Iredell Dr,Charlotte,NC,C,95248.0,2022-10-01,A,3044 Iredell Dr Charlotte Nc,12.1 mi
 383,Aminah,Jackson,8710 Woodhill Manor Court,Charlotte,NC,C,50987.0,2023-10-01,A,8710 Woodhill Manor Court Charlotte Nc,12.2 mi
@@ -434,7 +434,7 @@
 432,Lisa,Clements,11204 Tristan Ct,Charlotte,NC,C,52558.0,2022-10-01,E,11204 Tristan Ct. Charlotte Nc,12.4 mi
 433,Velyn,Madden,10401 Battle Ct,Charlotte,NC,C,51759.0,2023-10-01,A,10401 Battle Ct. Charlotte Nc,12.5 mi
 434,Sheena,Vandiver,126 Hampton Church Rd,Charlotte,NC,C,89247.0,2023-10-01,A,126 Hampton Church Rd Charlotte Nc,12.5 mi
-435,THI THUY,Vu,4716 Westcrest Dr,Charlotte,NC,C,114683.0,2022-10-01,A,4716 Westcrest Dr Charlotte Nc,12.5 mi
+435,Thi Thuy,Vu,4716 Westcrest Dr,Charlotte,NC,C,114683.0,2022-10-01,A,4716 Westcrest Dr Charlotte Nc,12.5 mi
 436,Eartha,Kirkpatrick,3322 Nevin Brook Rd,Charlotte,NC,C,50646.0,2023-10-01,A,3322 Nevin Brook Rd. Charlotte Nc,12.5 mi
 437,Jamie,Walsh,8974 Kirkley View Court ,Charlotte,NC,C,105262.0,2022-10-01,A,8974 Kirkley View Court  Charlotte Nc,12.5 mi
 438,Dahlia,Michalski,10143 Blakeney Preserve Drive,Charlotte,NC,C,40199.0,2023-10-01,A,10143 Blakeney Preserve Drive Charlotte Nc,12.5 mi
@@ -504,7 +504,7 @@
 502,Rosanyelis,Cruz,11013 S Hampton Dr,Charlotte,NC,C,96353.0,2023-10-01,A,11013 S Hampton Dr Charlotte Nc,12.7 mi
 503,Glendora,Nivens,12325 Silver Oak Lane,Charlotte,NC,C,50049.0,2023-10-01,E,12325 Silver Oak Lane Charlotte Nc,12.7 mi
 504,Taqiyah,Barber,2824 Dalecrest Drive,Charlotte,NC,C,85287.0,2022-10-01,A,2824 Dalecrest Drive Charlotte Nc,12.7 mi
-505,LaNica,Mccain,303 Touch Me Not Lane,Charlotte,NC,C,85812.0,2022-10-01,A,303 Touch Me Not Lane Charlotte Nc,12.7 mi
+505,Lanica,Mccain,303 Touch Me Not Lane,Charlotte,NC,C,85812.0,2022-10-01,A,303 Touch Me Not Lane Charlotte Nc,12.7 mi
 506,Cheryl,Gillens,8318 Hitchcock Lane Apt 726,Charlotte,NC,C,83694.0,2022-10-01,A,"8318 Hitchcock Lane, Apt 726 Charlotte Nc",12.7 mi
 507,Zakiyyah,Rasheed,4335 Montgomery Gardens Dr H,Charlotte,NC,C,83497.0,2022-10-01,A,4335 Montgomery Gardens Dr. #H Charlotte Nc,12.7 mi
 508,Yolanda,Russell,1736 ForestSide Lane,Charlotte,NC,C,110600.0,2023-10-01,A,1736 Forest.Side Lane Charlotte Nc,12.7 mi
@@ -518,7 +518,7 @@
 516,Harriett,Burns,9312 Bacardi Court,Charlotte,NC,C,19204.0,2022-10-01,E,9312 Bacardi Court Charlotte Nc,12.8 mi
 517,Tiffany,Baskins,1001 Capps Hollow Dr,Charlotte,NC,C,84656.0,2022-10-01,A,1001 Capps Hollow Dr Charlotte Nc,12.8 mi
 518,Kathleen,Ballew,1006 Peachtree Rd ,Charlotte,NC,C,80927.0,2022-10-01,A,1006 Peachtree Rd  Charlotte Nc,12.8 mi
-519,THARAT,Sou,5032 Hoover Dr,Charlotte,NC,C,116468.0,2022-10-01,A,5032 Hoover Dr Charlotte Nc,12.9 mi
+519,Tharat,Sou,5032 Hoover Dr,Charlotte,NC,C,116468.0,2022-10-01,A,5032 Hoover Dr Charlotte Nc,12.9 mi
 520,Thanh Thuy,Duong,14331 Williams Glen Rd,Charlotte,NC,C,106894.0,2022-10-01,A,14331 Williams Glen Rd Charlotte Nc,12.9 mi
 521,Sotheary,Bun,5032  Hoover Dr ,Charlotte,NC,C,94677.0,2022-10-01,A,5032  Hoover Dr  Charlotte Nc,12.9 mi
 522,Latasha,Pittman,Po Box 294161,Charlotte,NC,C,115758.0,2022-10-01,A,Po Box 294161 Charlotte Nc,12.9 mi
@@ -552,7 +552,7 @@
 550,Elizabeth,Barker,1322 Nadies Ct,Charlotte,NC,C,43362.0,2022-10-01,A,1322 Nadies Ct Charlotte Nc,13.1 mi
 551,Ada,Taveras,14227 Williams Glenn  Rd,Charlotte,NC,C,87799.0,2023-10-01,A,14227 Williams Glenn  Rd Charlotte Nc,13.1 mi
 552,Kiara,Moreira,3419 Valerie Dr,Charlotte,NC,C,93468.0,2022-10-01,A,3419 Valerie Dr. Charlotte Nc,13.1 mi
-553,FANNY ELIZABETH,Rodriguez Batista,9024 English Saddle Ln,Charlotte,NC,C,110582.0,2023-10-01,A,9024 English Saddle Ln Charlotte Nc,13.1 mi
+553,Fanny Elizabeth,Rodriguez Batista,9024 English Saddle Ln,Charlotte,NC,C,110582.0,2023-10-01,A,9024 English Saddle Ln Charlotte Nc,13.1 mi
 554,Rhonda,Washington,5827 Hamilton Oaks Dr,Charlotte,NC,C,97544.0,2023-10-01,A,5827 Hamilton Oaks Dr Charlotte Nc,13.1 mi
 555,Michelle,Olson,11953 Ridgeway Pk Dr,Charlotte,NC,C,64743.0,2022-10-01,E,11953 Ridgeway Pk Dr Charlotte Nc,13.1 mi
 556,Jann,Jolly,3417 Broadwick St,Charlotte,NC,C,56314.0,2023-10-01,A,3417 Broadwick St Charlotte Nc,13.1 mi
@@ -583,7 +583,7 @@
 581,Mallerlyn,Connor Mejia,3145 Baroda Ln Apt D,Charlotte,NC,C,114902.0,2022-10-01,A,3145 Baroda Ln Apt D Charlotte Nc,13.2 mi
 582,Yuniel,Perdomo Freites,3044 Morningmist Ln,Charlotte,NC,C,118672.0,2023-10-01,A,3044 Morningmist Ln Charlotte Nc,13.2 mi
 583,Aepenh,Prasavath,519 Valleydale Road,Charlotte,NC,C,86064.0,2022-10-01,A,519 Valleydale Road Charlotte Nc,13.2 mi
-584,LINH,Hoang,8910 Steelechase Dr,Charlotte,NC,C,118578.0,2023-10-01,A,8910 Steelechase Dr Charlotte Nc,13.2 mi
+584,Linh,Hoang,8910 Steelechase Dr,Charlotte,NC,C,118578.0,2023-10-01,A,8910 Steelechase Dr Charlotte Nc,13.2 mi
 585,Danielle,Burch,9727 Starwood Drive,Charlotte,NC,C,108099.0,2023-10-01,A,9727 Starwood Drive Charlotte Nc,13.2 mi
 586,Kelly,Mcginnis,12071 Copper Mountain Blvd,Charlotte,NC,C,87154.0,2023-10-01,A,12071 Copper Mountain Blvd Charlotte Nc,13.2 mi
 587,Edie,Montgomery,8911 Steelechase Dr,Charlotte,NC,C,52871.0,2023-10-01,E,8911 Steelechase Dr. Charlotte Nc,13.2 mi
@@ -603,7 +603,7 @@
 601,Mary,Aparicio,2726 Marmac Road,Charlotte,NC,C,46958.0,2023-10-01,E,2726 Marmac Road Charlotte Nc,13.3 mi
 602,Lacarshia,Patterson,1727 Teddington Dr,Charlotte,NC,C,48959.0,2023-10-01,I,1727 Teddington Dr Charlotte Nc,13.3 mi
 603,Norma,Dimas,2726 Marmac Rd,Charlotte,NC,C,58657.0,2023-10-01,A,2726 Marmac Rd Charlotte Nc,13.3 mi
-604,ENOC OTONIEL,Villatoro Mejia,7115 Bellhaven Blvd Trl 67,Charlotte,NC,C,116699.0,2022-10-01,A,7115 Bellhaven Blvd Trl #67 Charlotte Nc,13.3 mi
+604,Enoc Otoniel,Villatoro Mejia,7115 Bellhaven Blvd Trl 67,Charlotte,NC,C,116699.0,2022-10-01,A,7115 Bellhaven Blvd Trl #67 Charlotte Nc,13.3 mi
 605,Jayla,Felton,15109 Redwood Valley Lane,Charlotte,NC,C,116546.0,2022-10-01,A,15109 Redwood Valley Lane Charlotte Nc,13.3 mi
 606,Venita,Mccullough,316 Radio Road,Charlotte,NC,C,21823.0,2022-10-01,E,316 Radio Road Charlotte Nc,13.3 mi
 607,Krista,Schmalfeldt,9112 Fairbridge Rd ,Charlotte,NC,C,60868.0,2022-10-01,A,9112 Fairbridge Rd  Charlotte Nc,13.3 mi
@@ -646,7 +646,7 @@
 644,Maria,Villafuerte,6030 Tuckassegee Rd,Charlotte,NC,C,109929.0,2023-10-01,A,6030 Tuckassegee Rd Charlotte Nc,13.4 mi
 645,Nakeisha,Davis,17910 Halton Park Drive Apt 1A,Charlotte,NC,C,106838.0,2022-10-01,A,17910 Halton Park Drive Apt 1A Charlotte Nc,13.4 mi
 646,Brenda,Lewis,9520 Walkers Ferry Rd,Charlotte,NC,C,22969.0,2022-10-01,E,9520 Walkers Ferry Rd. Charlotte Nc,13.4 mi
-647,kayla,Adolf,10023 Redbud Tree Ct,Charlotte,NC,C,110765.0,2023-10-01,A,10023 Redbud Tree Ct Charlotte Nc,13.4 mi
+647,Kayla,Adolf,10023 Redbud Tree Ct,Charlotte,NC,C,110765.0,2023-10-01,A,10023 Redbud Tree Ct Charlotte Nc,13.4 mi
 648,Nichole,Wilson,2521 Sloan Dr,Charlotte,NC,C,107368.0,2022-10-01,A,2521 Sloan Dr Charlotte Nc,13.4 mi
 649,Margaret,Parker,2400 Oakdale Rd,Charlotte,NC,C,34549.0,2023-10-01,E,2400 Oakdale Rd Charlotte Nc,13.5 mi
 650,Octavia,Linton,8009 Bella Vista Ct,Charlotte,NC,C,96065.0,2023-10-01,A,8009 Bella Vista Ct. Charlotte Nc,13.5 mi
@@ -656,7 +656,7 @@
 654,Darlinda Tracy,Belton,11170 Whitlock Crossing Court ,Charlotte,NC,C,12833.0,2022-10-01,A,11170 Whitlock Crossing Court  Charlotte Nc,13.5 mi
 655,Andrea,Blalock,5979 Aldersgate Ave,Charlotte,NC,C,39672.0,2023-10-01,E,5979 Aldersgate Ave Charlotte Nc,13.5 mi
 656,Benjamin,Carpenter,2100 Pinebrook Circle,Charlotte,NC,C,39757.0,2023-10-01,E,2100 Pinebrook Circle Charlotte Nc,13.5 mi
-657,LaTanyia,Ledbetter,7005 Wandering Creek Drive,Charlotte,NC,C,86933.0,2023-10-01,A,7005 Wandering Creek Drive Charlotte Nc,13.5 mi
+657,Latanyia,Ledbetter,7005 Wandering Creek Drive,Charlotte,NC,C,86933.0,2023-10-01,A,7005 Wandering Creek Drive Charlotte Nc,13.5 mi
 658,Courteney,Hart,17904 Halton Park Drive  1E,Charlotte,NC,C,116931.0,2022-10-01,A,17904 Halton Park Drive # 1E Charlotte Nc,13.5 mi
 659,Natalie,Ziolkowski,14324 South Ridge Forest Dr,Charlotte,NC,C,107934.0,2023-10-01,A,14324 South Ridge Forest Dr. Charlotte Nc,13.5 mi
 660,Sepideh,Safaie,15009 Lisha Lane,Charlotte,NC,C,54280.0,2023-10-01,A,15009 Lisha Lane Charlotte Nc,13.5 mi
@@ -674,7 +674,7 @@
 672,Sierra,Mangum,5245 Manning Rd,Charlotte,NC,C,115917.0,2022-10-01,A,5245 Manning Rd Charlotte Nc,13.5 mi
 673,Manuela,Mosely,11601 Larix Drive,Charlotte,NC,C,98383.0,2023-10-01,A,11601 Larix Drive Charlotte Nc,13.5 mi
 674,Treista,Grier,7123 Wandering Creek Dr,Charlotte,NC,C,84778.0,2022-10-01,A,7123 Wandering Creek Dr. Charlotte Nc,13.5 mi
-675,NaQuay,Ancrum,5834 Beaconsfield Road,Charlotte,NC,C,107407.0,2022-10-01,A,5834 Beaconsfield Road Charlotte Nc,13.5 mi
+675,Naquay,Ancrum,5834 Beaconsfield Road,Charlotte,NC,C,107407.0,2022-10-01,A,5834 Beaconsfield Road Charlotte Nc,13.5 mi
 676,Porschia,Wimbush,6211 Whispering Brook Ct,Charlotte,NC,C,98660.0,2023-10-01,A,6211 Whispering Brook Ct Charlotte Nc,13.6 mi
 677,Sallie,Boggan,2033 Teddington Dr,Charlotte,NC,C,38084.0,2023-10-01,E,2033 Teddington Dr Charlotte Nc,13.6 mi
 678,Heather,Mcintyre,3414 Orr St,Charlotte,NC,C,56853.0,2023-10-01,A,3414 Orr St. Charlotte Nc,13.6 mi
@@ -692,7 +692,7 @@
 690,Kristen,Contino,8200 Tonawanda Drive,Charlotte,NC,C,82526.0,2022-10-01,A,8200 Tonawanda Drive Charlotte Nc,13.7 mi
 691,Ngoc,Nguyen,5902 Fazenda Dr,Charlotte,NC,C,85059.0,2022-10-01,A,5902 Fazenda Dr Charlotte Nc,13.7 mi
 692,Janet,Lee,410 Fourty Niner Ave Apt K ,Charlotte,NC,C,105114.0,2022-10-01,A,410 Fourty Niner Ave Apt K  Charlotte Nc,13.7 mi
-693,THI THU THUY,Tran,5320 Elcar Dr,Charlotte,NC,C,118815.0,2023-10-01,A,5320 Elcar Dr Charlotte Nc,13.7 mi
+693,Thi Thu Thuy,Tran,5320 Elcar Dr,Charlotte,NC,C,118815.0,2023-10-01,A,5320 Elcar Dr Charlotte Nc,13.7 mi
 694,Raquel,Ballard,4201 Kitty Dr,Charlotte,NC,C,59814.0,2023-10-01,A,4201 Kitty Dr. Charlotte Nc,13.7 mi
 695,Whitney,Brown,12650 Tucker Crossing Ln,Charlotte,NC,C,80964.0,2022-10-01,A,12650 Tucker Crossing Ln Charlotte Nc,13.7 mi
 696,Wanda,Gaiten,7933 Bristle Lane,Charlotte,NC,C,57310.0,2023-10-01,A,7933 Bristle Lane Charlotte Nc,13.7 mi
@@ -719,7 +719,7 @@
 717,Erica,Peck,1429 Majestic Meadow Dr,Charlotte,NC,C,116957.0,2022-10-01,A,1429 Majestic Meadow Dr Charlotte Nc,13.8 mi
 718,Brenda,Dimas-Antunez,3927 Walkers Cove Trl,Charlotte,NC,C,110663.0,2023-10-01,A,3927 Walkers Cove Trl Charlotte Nc,13.8 mi
 719,Jenny,Vera,11809 Merriweatherdr,Charlotte,NC,C,116647.0,2022-10-01,A,11809 Merriweatherdr Charlotte Nc,13.8 mi
-720,LaKeia,Barrino,5329 Evanshire Drive,Charlotte,NC,C,80450.0,2022-10-01,A,5329 Evanshire Drive Charlotte Nc,13.8 mi
+720,Lakeia,Barrino,5329 Evanshire Drive,Charlotte,NC,C,80450.0,2022-10-01,A,5329 Evanshire Drive Charlotte Nc,13.8 mi
 721,Bercenia,Fenner,1335 Braveheart Lane ,Charlotte,NC,C,89390.0,2023-10-01,A,1335 Braveheart Lane  Charlotte Nc,13.8 mi
 722,Mia,Givens,2624 West Sugar Creek Rd ,Charlotte,NC,C,84231.0,2022-10-01,A,2624 West Sugar Creek Rd  Charlotte Nc,13.8 mi
 723,Pauline,Headen,9301 Trinity Road,Charlotte,NC,C,23010.0,2022-10-01,E,9301 Trinity Road Charlotte Nc,13.9 mi
@@ -803,11 +803,11 @@
 801,Tara,King,2526 Liberton Court,Charlotte,NC,C,87016.0,2023-10-01,A,2526 Liberton Court Charlotte Nc,14.2 mi
 802,Shelly Jo,Eck,8905 Rachel Freeman Way 3319,Charlotte,NC,C,84217.0,2022-10-01,A,8905 Rachel Freeman Way 3319 Charlotte Nc,14.2 mi
 803,Regina,Silva,13307 Windgrove Dr ,Charlotte,NC,C,85023.0,2022-10-01,A,13307 Windgrove Dr  Charlotte Nc,14.2 mi
-804,BJ,Cherry,8909 Holland Park Lane,Charlotte,NC,C,60176.0,2022-10-01,A,8909 Holland Park Lane Charlotte Nc,14.2 mi
+804,Bj,Cherry,8909 Holland Park Lane,Charlotte,NC,C,60176.0,2022-10-01,A,8909 Holland Park Lane Charlotte Nc,14.2 mi
 805,Jerline,Thrasher,10523 Kempsford Dr,Charlotte,NC,C,49954.0,2022-10-01,E,10523 Kempsford Dr Charlotte Nc,14.3 mi
 806,Thwaites William,Morrison,9010 Garden Walk Ln Apt 206,Charlotte,NC,C,109992.0,2023-10-01,A,9010 Garden Walk Ln Apt 206 Charlotte Nc,14.3 mi
 807,Glade,Williams,5615 Keltonwood Road,Charlotte,NC,C,99417.0,2023-10-01,A,5615 Keltonwood Road Charlotte Nc,14.3 mi
-808,EREIOL,Gamble,5325 Roundstone Way Apt 108,Charlotte,NC,C,107149.0,2022-10-01,A,"5325 Roundstone Way, Apt 108 Charlotte Nc",14.3 mi
+808,Ereiol,Gamble,5325 Roundstone Way Apt 108,Charlotte,NC,C,107149.0,2022-10-01,A,"5325 Roundstone Way, Apt 108 Charlotte Nc",14.3 mi
 809,Kenneth,Faler Iii,12626 Ivey Creek Drive,Charlotte,NC,C,107884.0,2023-10-01,A,12626 Ivey Creek Drive Charlotte Nc,14.3 mi
 810,Heather,Hrdlick,11114 Sedgemoor Lane,Charlotte,NC,C,39857.0,2023-10-01,A,11114 Sedgemoor Lane Charlotte Nc,14.3 mi
 811,Yashira,Rose,2433 Haybrook Lane,Charlotte,NC,C,114589.0,2022-10-01,A,2433 Haybrook Lane Charlotte Nc,14.3 mi
@@ -871,7 +871,7 @@
 869,Joseph,Kajohn,645 Fielding Road,Charlotte,NC,C,49899.0,2023-10-01,E,645 Fielding Road Charlotte Nc,14.6 mi
 870,See,Lee,6533 Wesbrook Drive,Charlotte,NC,C,114492.0,2022-10-01,A,6533 Wesbrook Drive Charlotte Nc,14.6 mi
 871,Ashley,Jones,2630 Larry Dr,Charlotte,NC,C,84752.0,2022-10-01,A,2630 Larry Dr Charlotte Nc,14.6 mi
-872,nanthana,Veopraseut,8528 Stonehurst Dr,Charlotte,NC,C,116874.0,2022-10-01,A,8528 Stonehurst Dr Charlotte Nc,14.6 mi
+872,Nanthana,Veopraseut,8528 Stonehurst Dr,Charlotte,NC,C,116874.0,2022-10-01,A,8528 Stonehurst Dr Charlotte Nc,14.6 mi
 873,Marie,Hoang,13019 Cedar Crossings Dr,Charlotte,NC,C,59818.0,2023-10-01,A,13019 Cedar Crossings Dr Charlotte Nc,14.6 mi
 874,Lakesha,Henderson,5303 Twin Brook Dr,Charlotte,NC,C,58323.0,2023-10-01,A,5303 Twin Brook Dr Charlotte Nc,14.6 mi
 875,Martha Dilia,Flores Oliva,6935 Nathan Dr,Charlotte,NC,C,108958.0,2023-10-01,A,6935 Nathan Dr Charlotte Nc,14.6 mi
@@ -892,7 +892,7 @@
 890,Renea,Church,2124 Sunset Rd,Charlotte,NC,C,119025.0,2023-10-01,A,2124 Sunset Rd Charlotte Nc,14.6 mi
 891,Elvira,Clavo Vera,11108 Anna Rose Road,Charlotte,NC,C,104931.0,2022-10-01,A,11108 Anna Rose Road Charlotte Nc,14.6 mi
 892,Secundina,Acosta,13031 Cedar Crossing Dr,Charlotte,NC,C,105915.0,2022-10-01,A,13031 Cedar Crossing Dr. Charlotte Nc,14.6 mi
-893,McKensi,West,5508 Trieg Drive,Charlotte,NC,C,96121.0,2023-10-01,A,5508 Trieg Drive Charlotte Nc,14.6 mi
+893,Mckensi,West,5508 Trieg Drive,Charlotte,NC,C,96121.0,2023-10-01,A,5508 Trieg Drive Charlotte Nc,14.6 mi
 894,Amy,Jordan,5924 St Francis Dr,Charlotte,NC,C,9144.0,2022-10-01,E,5924 St. Francis Dr. Charlotte Nc,14.6 mi
 895,Amber,Ivester,10331 Brief Rd,Charlotte,NC,C,115597.0,2022-10-01,A,10331 Brief Rd Charlotte Nc,14.6 mi
 896,Ngoc Nhu Thi,Nguyen,10727 Camden Meadow Dr,Charlotte,NC,C,96341.0,2023-10-01,A,10727 Camden Meadow Dr Charlotte Nc,14.6 mi
@@ -1050,7 +1050,7 @@
 1048,Jamie,Dean-Brownlee,14739 Cane Field Drive,Charlotte,NC,C,106813.0,2022-10-01,A,14739 Cane Field Drive Charlotte Nc,15.7 mi
 1049,Chivon,Heart,7005 Evanton Loch Rd,Charlotte,NC,C,83723.0,2022-10-01,A,7005 Evanton Loch Rd Charlotte Nc,15.8 mi
 1050,Nhu,Luu,10332 Withers Rd,Charlotte,NC,C,95397.0,2022-10-01,A,10332 Withers Rd Charlotte Nc,15.8 mi
-1051,LaDora,Crudup,2530 Carmathe Rd,Charlotte,NC,C,117294.0,2023-10-01,A,2530 Carmathe Rd Charlotte Nc,15.8 mi
+1051,Ladora,Crudup,2530 Carmathe Rd,Charlotte,NC,C,117294.0,2023-10-01,A,2530 Carmathe Rd Charlotte Nc,15.8 mi
 1052,Erica,Rapp,12730 Settlers Path Lane,Charlotte,NC,C,95121.0,2022-10-01,A,12730 Settlers Path Lane Charlotte Nc,15.8 mi
 1053,Olga,Krokha,9501 Secretariat Drive,Charlotte,NC,C,93516.0,2022-10-01,A,9501 Secretariat Drive Charlotte Nc,15.8 mi
 1054,Dianne,Sinclair,4731 Reinbeck Drive,Charlotte,NC,C,87860.0,2023-10-01,A,4731 Reinbeck Drive Charlotte Nc,15.8 mi
@@ -1070,7 +1070,7 @@
 1068,Yen,Vong,15335 Dehavilland Dr,Charlotte,NC,C,96472.0,2023-10-01,A,15335 Dehavilland Dr Charlotte Nc,15.9 mi
 1069,Tyler,Medinger,10020 Madison Square Place At 301,Charlotte,NC,C,110480.0,2023-10-01,A,10020 Madison Square Place At 301 Charlotte Nc,15.9 mi
 1070,Kin,Vong,15335 Dehavilland Dr,Charlotte,NC,C,96921.0,2023-10-01,A,15335 Dehavilland Dr Charlotte Nc,15.9 mi
-1071,khalif,Gross,7909 Philadelphia Court Apt 302,Charlotte,NC,C,116413.0,2022-10-01,A,7909 Philadelphia Court Apt 302 Charlotte Nc,15.9 mi
+1071,Khalif,Gross,7909 Philadelphia Court Apt 302,Charlotte,NC,C,116413.0,2022-10-01,A,7909 Philadelphia Court Apt 302 Charlotte Nc,15.9 mi
 1072,Jauqueia,Hinton,2010 Aberglen Dr,Charlotte,NC,C,59716.0,2023-10-01,E,2010 Aberglen Dr Charlotte Nc,15.9 mi
 1073,Derek,Watts,5020 Deerton Road,Charlotte,NC,C,109963.0,2023-10-01,A,5020 Deerton Road Charlotte Nc,15.9 mi
 1074,Kay,Bankey,10226 Withers Road,Charlotte,NC,C,98075.0,2023-10-01,A,10226 Withers Road Charlotte Nc,16.0 mi
@@ -1113,14 +1113,14 @@
 1111,Sandra,Graddy,1223 Long Paw Lane,Charlotte,NC,C,37628.0,2023-10-01,E,1223 Long Paw Lane Charlotte Nc,16.2 mi
 1112,Judith,Luna,2233 Sonoma Valley Drive,Charlotte,NC,C,108383.0,2023-10-01,A,2233 Sonoma Valley Drive Charlotte Nc,16.2 mi
 1113,Eden,Schleicher,13809 Singleleaf Ln,Charlotte,NC,C,80812.0,2022-10-01,A,13809 Singleleaf Ln Charlotte Nc,16.2 mi
-1114,JANETT CAROLINA,Landaeta Brelio,8021 Trotter Rd,Charlotte,NC,C,116719.0,2022-10-01,A,8021 Trotter Rd Charlotte Nc,16.3 mi
+1114,Janett Carolina,Landaeta Brelio,8021 Trotter Rd,Charlotte,NC,C,116719.0,2022-10-01,A,8021 Trotter Rd Charlotte Nc,16.3 mi
 1115,Chara,Rice,9518 Isaac Hunter Drive,Charlotte,NC,C,57714.0,2023-10-01,A,9518 Isaac Hunter Drive Charlotte Nc,16.3 mi
 1116,Mallory,Crayton,10331 Tisbury Rd 10005,Charlotte,NC,C,105716.0,2022-10-01,A,10331 Tisbury Rd #10005 Charlotte Nc,16.3 mi
 1117,Jerricka,Miller,13409 Planters Row Drive,Charlotte,NC,C,67780.0,2022-10-01,A,13409 Planters Row Drive Charlotte Nc,16.3 mi
 1118,Maria,Pullas,13218 Indian Hills Ln,Charlotte,NC,C,115832.0,2022-10-01,A,13218 Indian Hills Ln Charlotte Nc,16.3 mi
 1119,Leslie,Helm,3550 Arklow Rd,Charlotte,NC,C,65699.0,2022-10-01,A,3550 Arklow Rd Charlotte Nc,16.3 mi
 1120,Alyssa,Smit,10918 Rozzelles Ferry Rd,Charlotte,NC,C,104735.0,2022-10-01,A,10918 Rozzelles Ferry Rd Charlotte Nc,16.3 mi
-1121,krishawn,Billings,10415 Tisbury Rd Apt 11208 ,Charlotte,NC,C,118559.0,2023-10-01,A,10415 Tisbury Rd. Apt 11208  Charlotte Nc,16.3 mi
+1121,Krishawn,Billings,10415 Tisbury Rd Apt 11208 ,Charlotte,NC,C,118559.0,2023-10-01,A,10415 Tisbury Rd. Apt 11208  Charlotte Nc,16.3 mi
 1122,Kuriyuna,Robinson,7328 Canyon Dr,Charlotte,NC,C,116545.0,2022-10-01,A,7328 Canyon Dr Charlotte Nc,16.3 mi
 1123,Nyana,Ailes,13409 Planters Row Dr,Charlotte,NC,C,109815.0,2023-10-01,A,13409 Planters Row Dr. Charlotte Nc,16.3 mi
 1124,Mikiyah,Mccaffity,14012 Singleleaf Lane,Charlotte,NC,C,106800.0,2022-10-01,A,14012 Singleleaf Lane Charlotte Nc,16.3 mi
@@ -1203,7 +1203,7 @@
 1201,Keva,Higgs Gallardo,12508 Winget Rd,Charlotte,NC,C,16369.0,2022-10-01,E,12508 Winget Rd Charlotte Nc,17.2 mi
 1202,Mai,Vo,12920 Silvaire Farm Rd,Charlotte,NC,C,88522.0,2023-10-01,A,12920 Silvaire Farm Rd. Charlotte Nc,17.2 mi
 1203,Donna,Lee,11029 Dipali Court,Charlotte,NC,C,43243.0,2023-10-01,E,11029 Dipali Court Charlotte Nc,17.2 mi
-1204,SaTonya,Lashore-Randolph,10709 Sleigh Bell Lane,Charlotte,NC,C,99686.0,2023-10-01,A,10709 Sleigh Bell Lane Charlotte Nc,17.2 mi
+1204,Satonya,Lashore-Randolph,10709 Sleigh Bell Lane,Charlotte,NC,C,99686.0,2023-10-01,A,10709 Sleigh Bell Lane Charlotte Nc,17.2 mi
 1205,Natividad,Castillo-Rojas,9229 Thayer Road,Charlotte,NC,C,95767.0,2022-10-01,A,9229 Thayer Road Charlotte Nc,17.2 mi
 1206,Emily,Church,11303 Joe Morrison Ln,Charlotte,NC,C,106517.0,2022-10-01,A,11303 Joe Morrison Ln Charlotte Nc,17.2 mi
 1207,Jerdee,Dillard,10256 Reindeer Way Ln ,Charlotte,NC,C,80583.0,2022-10-01,A,10256 Reindeer Way Ln.  Charlotte Nc,17.2 mi
@@ -1216,7 +1216,7 @@
 1214,Debutante,Johnson,9929 Reindeer Way Ln,Charlotte,NC,C,81061.0,2022-10-01,A,9929 Reindeer Way Ln Charlotte Nc,17.3 mi
 1215,Janae,Mcafee,1427 Nature Pl,Charlotte,NC,C,94690.0,2022-10-01,I,1427 Nature Pl Charlotte Nc,17.4 mi
 1216,Jessica,Wade,9625 David Taylor,Charlotte,NC,C,108658.0,2023-10-01,A,9625 David Taylor Charlotte Nc,17.4 mi
-1217,iris,Tavarez,15909 White Street Unit 202,Charlotte,NC,C,117406.0,2023-10-01,A,15909 White Street Unit 202 Charlotte Nc,17.4 mi
+1217,Iris,Tavarez,15909 White Street Unit 202,Charlotte,NC,C,117406.0,2023-10-01,A,15909 White Street Unit 202 Charlotte Nc,17.4 mi
 1218,Linda,Anderton,1616 Running Brook Rd,Charlotte,NC,C,64009.0,2022-10-01,A,1616 Running Brook Rd Charlotte Nc,17.4 mi
 1219,Jamicka,Williams,11447 Northwoods Forest Dr,Charlotte,NC,C,59711.0,2023-10-01,A,11447 Northwoods Forest Dr Charlotte Nc,17.4 mi
 1220,Natisha,Knapp,2010 Robanna Ct,Charlotte,NC,C,118276.0,2023-10-01,A,2010 Robanna Ct Charlotte Nc,17.5 mi
@@ -1234,7 +1234,7 @@
 1232,Narcissi,Carr,8539 Piccone Brook Ln,Charlotte,NC,C,81054.0,2022-10-01,A,8539 Piccone Brook Ln Charlotte Nc,17.6 mi
 1233,Chrissy,Carter,10512 Grassy Plain Court,Charlotte,NC,C,36193.0,2023-10-01,E,10512 Grassy Plain Court Charlotte Nc,17.6 mi
 1234,Andrea,Early,825 Grays Creek Ln,Charlotte,NC,C,39742.0,2023-10-01,E,825 Grays Creek Ln Charlotte Nc,17.6 mi
-1235,LaNell,Jones,806 Treva Anne Dr Sw,Charlotte,NC,C,57219.0,2023-10-01,E,806 Treva Anne Dr Sw Charlotte Nc,17.6 mi
+1235,Lanell,Jones,806 Treva Anne Dr Sw,Charlotte,NC,C,57219.0,2023-10-01,E,806 Treva Anne Dr Sw Charlotte Nc,17.6 mi
 1236,Dorothy,Hartley,813 Grays Creek Ln,Charlotte,NC,C,13410.0,2022-10-01,E,813 Grays Creek Ln Charlotte Nc,17.6 mi
 1237,Corey,Smallwood,11514 Carnsore Ct,Charlotte,NC,C,110361.0,2023-10-01,A,11514 Carnsore Ct Charlotte Nc,17.7 mi
 1238,Valerie,Cannon,8519 Etherton Ct,Charlotte,NC,C,99614.0,2023-10-01,A,8519 Etherton Ct Charlotte Nc,17.7 mi
@@ -1358,7 +1358,7 @@
 1356,Mrunal,Patel,10919 Tavernay Parkway,Charlotte,NC,C,50090.0,2023-10-01,E,10919 Tavernay Parkway Charlotte Nc,19.2 mi
 1357,Crystal,Rodriguez,14831 Heron Point Place,Charlotte,NC,C,106003.0,2022-10-01,A,14831 Heron Point Place Charlotte Nc,19.3 mi
 1358,Charlene,Henderson,3108 Prosperity Church Rd Unit C,Charlotte,NC,C,21072.0,2022-10-01,E,3108 Prosperity Church Rd. Unit C Charlotte Nc,19.3 mi
-1359,JEANETTE,Mckinnon,8423 Ashley Hill Ct B,Charlotte,NC,C,114727.0,2022-10-01,A,"8423 Ashley Hill Ct, B Charlotte Nc",19.3 mi
+1359,Jeanette,Mckinnon,8423 Ashley Hill Ct B,Charlotte,NC,C,114727.0,2022-10-01,A,"8423 Ashley Hill Ct, B Charlotte Nc",19.3 mi
 1360,Jennifer,Reid,3616 Radbourne Blvd,Charlotte,NC,C,118377.0,2023-10-01,A,3616 Radbourne Blvd Charlotte Nc,19.3 mi
 1361,Glenda ,Borja De Bardales,8460 Ashley Hill Ct Apt C,Charlotte,NC,C,115435.0,2022-10-01,A,8460 Ashley Hill Ct Apt C Charlotte Nc,19.3 mi
 1362,Xiomia,Hall,8429 Ashley Hill Ct Apt G,Charlotte,NC,C,52000.0,2023-10-01,A,8429 Ashley Hill Ct Apt G Charlotte Nc,19.3 mi
@@ -1369,14 +1369,14 @@
 1367,Annie,Knox,9816 Nottinghill Lane,Charlotte,NC,C,3454.0,2023-10-01,E,9816 Nottinghill Lane Charlotte Nc,19.4 mi
 1368,Brittany,Heagerty,3020 Prosperity Church Road Suite G,Charlotte,NC,C,93630.0,2022-10-01,A,"3020 Prosperity Church Road, Suite G Charlotte Nc",19.4 mi
 1369,Rhonda,Brown,3020 Prosperity Church  Rd Ste G,Charlotte,NC,C,14547.0,2022-10-01,E,3020 Prosperity Church  Rd. Ste G Charlotte Nc,19.4 mi
-1370,HOANG PHUC THAO,Pham,1612 Copperplate Rd,Charlotte,NC,C,116110.0,2022-10-01,A,1612 Copperplate Rd Charlotte Nc,19.4 mi
+1370,Hoang Phuc Thao,Pham,1612 Copperplate Rd,Charlotte,NC,C,116110.0,2022-10-01,A,1612 Copperplate Rd Charlotte Nc,19.4 mi
 1371,Wonique,Hart,7330 Glen Brook Ln ,Charlotte,NC,C,85140.0,2022-10-01,A,7330 Glen Brook Ln  Charlotte Nc,19.4 mi
 1372,Catherine,Forestier,15009 Boudins Lane,Charlotte,NC,C,22913.0,2022-10-01,E,15009 Boudins Lane Charlotte Nc,19.5 mi
 1373,Ronjera,Abrahams,9527 Spurwig Court ,Charlotte,NC,C,96182.0,2023-10-01,A,9527 Spurwig Court  Charlotte Nc,19.5 mi
 1374,Danae,Cipolloni,5715 Mountain Point Ln,Charlotte,NC,C,96634.0,2023-10-01,A,5715 Mountain Point Ln Charlotte Nc,19.5 mi
 1375,Amanda,Chambers,11608 Retriever Way,Charlotte,NC,C,98881.0,2023-10-01,A,11608 Retriever Way Charlotte Nc,19.5 mi
 1376,Shawaunna,Middleton,11631 Retriever Way,Charlotte,NC,C,116382.0,2022-10-01,A,11631 Retriever Way Charlotte Nc,19.5 mi
-1377,TUYET TUONG VY,Truong,11628 Tavernay Pkwy,Charlotte,NC,C,114452.0,2022-10-01,A,11628 Tavernay Pkwy Charlotte Nc,19.5 mi
+1377,Tuyet Tuong Vy,Truong,11628 Tavernay Pkwy,Charlotte,NC,C,114452.0,2022-10-01,A,11628 Tavernay Pkwy Charlotte Nc,19.5 mi
 1378,Felicia,Zywicki,15933 Arabian Mews Ln,Charlotte,NC,C,84976.0,2022-10-01,A,15933 Arabian Mews Ln Charlotte Nc,19.5 mi
 1379,Andrea,Snow,3020 I Prosperity Church Rd 936,Charlotte,NC,C,94980.0,2022-10-01,A,3020 I Prosperity Church Rd 936 Charlotte Nc,19.5 mi
 1380,Ashley,Milligan,2817 Oldenway Drive,Charlotte,NC,C,95355.0,2022-10-01,A,2817 Oldenway Drive Charlotte Nc,19.6 mi
@@ -1398,7 +1398,7 @@
 1396,Cacilia,Surall,7818 Wiltshire Ridge Rd,Charlotte,NC,C,99586.0,2023-10-01,A,7818 Wiltshire Ridge Rd Charlotte Nc,19.8 mi
 1397,Blanca,Rivera,5811 Shining Oak Ln,Charlotte,NC,C,54459.0,2023-10-01,A,5811 Shining Oak Ln. Charlotte Nc,19.8 mi
 1398,Valerie,Able,5830 Shining Oak Lane,Charlotte,NC,C,110190.0,2023-10-01,A,5830 Shining Oak Lane Charlotte Nc,19.8 mi
-1399,xiaoqing,Gao,1120 Boxelder Ln,Charlotte,NC,C,110762.0,2023-10-01,A,1120 Boxelder Ln. Charlotte Nc,19.8 mi
+1399,Xiaoqing,Gao,1120 Boxelder Ln,Charlotte,NC,C,110762.0,2023-10-01,A,1120 Boxelder Ln. Charlotte Nc,19.8 mi
 1400,Stevie,Bardwil,12243 Summer Creek Lane,Charlotte,NC,C,94878.0,2022-10-01,A,12243 Summer Creek Lane Charlotte Nc,19.8 mi
 1401,Kim,Tally,4006 Armitage Dr,Charlotte,NC,C,33704.0,2023-10-01,E,4006 Armitage Dr. Charlotte Nc,19.8 mi
 1402,Kathryn,Peacock,10215 Prosperity Park Dr,Charlotte,NC,C,81686.0,2022-10-01,A,10215 Prosperity Park Dr Charlotte Nc,19.9 mi
@@ -1475,7 +1475,7 @@
 1473,Taheerah,Norman,12136 Old Willow Road,Charlotte,NC,C,117304.0,2023-10-01,A,12136 Old Willow Road Charlotte Nc,20.0 mi
 1474,Alice,Jean,9522 Hartington Pl,Charlotte,NC,C,95034.0,2022-10-01,A,9522 Hartington Pl Charlotte Nc,20.0 mi
 1475,Emma,King,9335 Jaspar Crest Ln,Charlotte,NC,C,116882.0,2022-10-01,A,9335 Jaspar Crest Ln Charlotte Nc,20.1 mi
-1476,MA DEL CARMEN,Flores Garcia,322 Desire St,Charlotte,NC,C,110642.0,2023-10-01,A,322 Desire St Charlotte Nc,20.1 mi
+1476,Ma Del Carmen,Flores Garcia,322 Desire St,Charlotte,NC,C,110642.0,2023-10-01,A,322 Desire St Charlotte Nc,20.1 mi
 1477,Christina,Skidmore,9204 Swallowtail Lane,Charlotte,NC,C,50848.0,2023-10-01,E,9204 Swallowtail Lane Charlotte Nc,20.1 mi
 1478,Sarah,Black,10419 Benfield Road ,Charlotte,NC,C,55521.0,2023-10-01,E,10419 Benfield Road  Charlotte Nc,20.1 mi
 1479,Crystal,Rivers,4022 Trehurst Court,Charlotte,NC,C,20993.0,2022-10-01,E,4022 Trehurst Court Charlotte Nc,20.1 mi
@@ -1500,7 +1500,7 @@
 1498,Sydney,Scott,5330 Johnston Mill Court,Charlotte,NC,C,82911.0,2022-10-01,A,5330 Johnston Mill Court Charlotte Nc,20.4 mi
 1499,Kien,Le,10209 Baskeville Ave,Charlotte,NC,C,21479.0,2022-10-01,E,10209 Baskeville Ave Charlotte Nc,20.4 mi
 1500,Teresa Duong,Phan,13708 Glen Abbey Dr,Charlotte,NC,C,59582.0,2023-10-01,A,13708 Glen Abbey Dr Charlotte Nc,20.5 mi
-1501,LaQuita,Washington,6120 Prosperity Church Rd,Charlotte,NC,C,98225.0,2023-10-01,A,6120 Prosperity Church Rd Charlotte Nc,20.5 mi
+1501,Laquita,Washington,6120 Prosperity Church Rd,Charlotte,NC,C,98225.0,2023-10-01,A,6120 Prosperity Church Rd Charlotte Nc,20.5 mi
 1502,Tiffany,Jowers,8531 Delamere Lane,Charlotte,NC,C,48543.0,2022-10-01,A,8531 Delamere Lane Charlotte Nc,20.5 mi
 1503,Patricia,Andrews,9810 Kent Village Drive,Charlotte,NC,C,35911.0,2023-10-01,E,9810 Kent Village Drive Charlotte Nc,20.5 mi
 1504,Kristen,Fuchs,8639 Ridgeline Lane,Charlotte,NC,C,68352.0,2022-10-01,E,8639 Ridgeline Lane Charlotte Nc,20.6 mi
@@ -1511,7 +1511,7 @@
 1509,Taylor,Goforth,12402 High Valley Lane,Charlotte,NC,C,94616.0,2022-10-01,A,12402 High Valley Lane Charlotte Nc,20.6 mi
 1510,Taylor Rose,Green Harrell,16106 Kelby Cove ,Charlotte,NC,C,96149.0,2023-10-01,A,16106 Kelby Cove  Charlotte Nc,20.7 mi
 1511,Satoria,Ratchford,11711 Allen A Brown Rd,Charlotte,NC,C,114750.0,2022-10-01,A,11711 Allen A Brown Rd Charlotte Nc,20.7 mi
-1512,BichVan,Doan,12201 Sutter Hill Ct,Charlotte,NC,C,118724.0,2023-10-01,A,12201 Sutter Hill Ct Charlotte Nc,20.7 mi
+1512,Bichvan,Doan,12201 Sutter Hill Ct,Charlotte,NC,C,118724.0,2023-10-01,A,12201 Sutter Hill Ct Charlotte Nc,20.7 mi
 1513,Lanisha,Ingram,6121 Chavel Ln,Charlotte,NC,C,114858.0,2022-10-01,A,6121 Chavel Ln Charlotte Nc,20.7 mi
 1514,Tallyn,Heagy,12100 Brownestone View Drive,Charlotte,NC,C,85794.0,2022-10-01,A,12100 Brownestone View Drive Charlotte Nc,20.7 mi
 1515,Mary Ann,Ogles,4417 Lenox Hill Place,Charlotte,NC,C,33305.0,2023-10-01,E,4417 Lenox Hill Place Charlotte Nc,20.7 mi
@@ -1525,7 +1525,7 @@
 1523,Theresa,Jones,10214 Fairbourne Court ,Charlotte,NC,C,54427.0,2023-10-01,A,10214 Fairbourne Court  Charlotte Nc,20.9 mi
 1524,Silva,Portilla-Villamizar,6607 Ruth Ferrell Ct,Charlotte,NC,C,104964.0,2022-10-01,A,6607 Ruth Ferrell Ct. Charlotte Nc,20.9 mi
 1525,Breona,Bryant,1709 Pebbleford Ct,Charlotte,NC,C,108702.0,2023-10-01,A,1709 Pebbleford Ct Charlotte Nc,20.9 mi
-1526,LaTrea,Ricks,316 North Rhett Street,Charlotte,NC,C,118704.0,2023-10-01,A,316 North Rhett Street Charlotte Nc,208 mi
+1526,Latrea,Ricks,316 North Rhett Street,Charlotte,NC,C,118704.0,2023-10-01,A,316 North Rhett Street Charlotte Nc,208 mi
 1527,Christina,Baker,11603 Black Maple Ave,Charlotte,NC,C,106264.0,2022-10-01,A,11603 Black Maple Ave Charlotte Nc,21.0 mi
 1528,Denise,Carr,11915 Fox Glen Rd,Charlotte,NC,C,44578.0,2023-10-01,A,11915 Fox Glen Rd Charlotte Nc,21.0 mi
 1529,Kathleen,Brown,8554 Beaver Creek Dr,Charlotte,NC,C,44017.0,2023-10-01,E,8554 Beaver Creek Dr. Charlotte Nc,21.0 mi
@@ -1538,7 +1538,7 @@
 1536,Madison,Smith,10319 Bolton Court,Charlotte,NC,C,115516.0,2022-10-01,A,10319 Bolton Court Charlotte Nc,21.1 mi
 1537,Adrienne,Vaulx,315 Mossburn Rd 104,Charlotte,NC,C,117127.0,2023-10-01,A,315 Mossburn Rd #104 Charlotte Nc,21.2 mi
 1538,Katherine,Hebert,215 Mossburn Rd Apt 206,Charlotte,NC,C,109475.0,2023-10-01,A,215 Mossburn Rd Apt #206 Charlotte Nc,21.2 mi
-1539,Na'kayla,Watson,12822 Towering Pine Dr,Charlotte,NC,C,106755.0,2022-10-01,A,12822 Towering Pine Dr Charlotte Nc,21.3 mi
+1539,Na'Kayla,Watson,12822 Towering Pine Dr,Charlotte,NC,C,106755.0,2022-10-01,A,12822 Towering Pine Dr Charlotte Nc,21.3 mi
 1540,Tanyanika,Jones,11612 Fox Hill Drive,Charlotte,NC,C,92559.0,2022-10-01,A,11612 Fox Hill Drive Charlotte Nc,21.3 mi
 1541,Kelli,Blanchard,1817 Greymouth Rd Apt 101,Charlotte,NC,C,110748.0,2023-10-01,A,1817 Greymouth Rd Apt 101 Charlotte Nc,21.3 mi
 1542,Christopher,Appleton,9121 Bourchier Place Apt 205,Charlotte,NC,C,88897.0,2023-10-01,A,9121 Bourchier Place Apt 205 Charlotte Nc,21.4 mi
@@ -1562,7 +1562,7 @@
 1560,Rhonda,Williams,2910 Bridgeville Lane,Charlotte,NC,C,51112.0,2023-10-01,E,2910 Bridgeville Lane Charlotte Nc,21.9 mi
 1561,Nina,Hooks,10826 Greenhead View Rd,Charlotte,NC,C,94317.0,2022-10-01,A,10826 Greenhead View Rd Charlotte Nc,21.9 mi
 1562,Aqeela,Bryant,3006 Ernest Russell Ct,Charlotte,NC,C,88136.0,2023-10-01,A,3006 Ernest Russell Ct Charlotte Nc,21.9 mi
-1563,THI NGOC CHAU,Nguyen,335 Hawks Moor Ct,Charlotte,NC,C,118051.0,2023-10-01,A,335 Hawks Moor Ct Charlotte Nc,22.0 mi
+1563,Thi Ngoc Chau,Nguyen,335 Hawks Moor Ct,Charlotte,NC,C,118051.0,2023-10-01,A,335 Hawks Moor Ct Charlotte Nc,22.0 mi
 1564,Alicia,Francisco,515 Sawyers Mill Rd,Charlotte,NC,C,96817.0,2023-10-01,A,515 Sawyers Mill Rd Charlotte Nc,22.1 mi
 1565,Eboni,Brown,425 Sawyers Mills Road 310,Charlotte,NC,C,97792.0,2023-10-01,A,425 Sawyers Mills Road 310 Charlotte Nc,22.1 mi
 1566,Darrah,Henson,7420 Tupelo Lane,Charlotte,NC,C,99042.0,2023-10-01,A,7420 Tupelo Lane Charlotte Nc,22.2 mi
@@ -1619,7 +1619,7 @@
 1617,Betsy,Tipton,204  Philaull Pl,Charlotte,NC,C,45759.0,2023-10-01,E,204  Philaull Pl. Charlotte Nc,3.0 mi
 1618,Marla,Harmon,5240 Silabert Ave,Charlotte,NC,C,106743.0,2022-10-01,A,5240 Silabert Ave Charlotte Nc,3.0 mi
 1619,Pooran,Okhovat,2314 Crescent Ave,Charlotte,NC,C,58564.0,2023-10-01,A,2314 Crescent Ave Charlotte Nc,3.0 mi
-1620,Tene'a,Cherry,3756 Winding Creek Lane,Charlotte,NC,C,99448.0,2023-10-01,A,3756 Winding Creek Lane Charlotte Nc,3.0 mi
+1620,Tene'A,Cherry,3756 Winding Creek Lane,Charlotte,NC,C,99448.0,2023-10-01,A,3756 Winding Creek Lane Charlotte Nc,3.0 mi
 1621,John,Kennedy Ii,5109 Kistler Ave,Charlotte,NC,C,27659.0,2022-10-01,E,5109 Kistler Ave Charlotte Nc,3.1 mi
 1622,Ember,Weaver,2312 Kingsbury Dr,Charlotte,NC,C,48631.0,2022-10-01,A,2312 Kingsbury Dr. Charlotte Nc,3.1 mi
 1623,Gregory,Collins,2408 3 Providence Rd,Charlotte,NC,C,15186.0,2022-10-01,E,2408 #3 Providence Rd Charlotte Nc,3.1 mi
@@ -1636,7 +1636,7 @@
 1634,Ambreen,Younus,401 Hermitage Court,Charlotte,NC,C,37697.0,2023-10-01,E,401 Hermitage Court Charlotte Nc,3.2 mi
 1635,Amy,Hawkey,2224 Laburnum Ave,Charlotte,NC,C,81797.0,2022-10-01,A,2224 Laburnum Ave Charlotte Nc,3.2 mi
 1636,Angelia,Macemore,833 Ashmore Drive,Charlotte,NC,C,13141.0,2022-10-01,E,833 Ashmore Drive Charlotte Nc,3.2 mi
-1637,TUNG,Bui,1620 E 4Th St,Charlotte,NC,C,114517.0,2022-10-01,A,1620 E 4Th St Charlotte Nc,3.2 mi
+1637,Tung,Bui,1620 E 4Th St,Charlotte,NC,C,114517.0,2022-10-01,A,1620 E 4Th St Charlotte Nc,3.2 mi
 1638,Steven,Blackburn,325 Queens Rd 1,Charlotte,NC,C,36245.0,2023-10-01,E,325 Queens Rd. #1 Charlotte Nc,3.2 mi
 1639,Oluseyi,Okeleye,5725 Carnegie Blvd449,Charlotte,NC,C,83603.0,2022-10-01,A,5725 Carnegie Blvd.#449 Charlotte Nc,3.3 mi
 1640,Sara,Maalizadeh,5725 Carnegie Blvd,Charlotte,NC,C,105126.0,2022-10-01,A,5725 Carnegie Blvd Charlotte Nc,3.3 mi
@@ -1775,7 +1775,7 @@
 1773,David,Stinson,4600 Park Road 108,Charlotte,NC,C,57096.0,2023-10-01,A,4600 Park Road #108 Charlotte Nc,4.1 mi
 1774,Robyn,Riedlinger,1000 Central Ave,Charlotte,NC,C,85426.0,2022-10-01,A,1000 Central Ave Charlotte Nc,4.1 mi
 1775,Karl,Klaudt,1116 Morningside Drive Suite B,Charlotte,NC,C,37248.0,2023-10-01,E,1116 Morningside Drive Suite B Charlotte Nc,4.1 mi
-1776,JaShena,Massey,6009 Florence Ave Apt C,Charlotte,NC,C,86268.0,2023-10-01,A,6009 Florence Ave Apt C Charlotte Nc,4.1 mi
+1776,Jashena,Massey,6009 Florence Ave Apt C,Charlotte,NC,C,86268.0,2023-10-01,A,6009 Florence Ave Apt C Charlotte Nc,4.1 mi
 1777,Cohen,Miller,1519 Eastcrest Dr 202,Charlotte,NC,C,114594.0,2022-10-01,A,"1519 Eastcrest Dr, 202 Charlotte Nc",4.1 mi
 1778,Liaiesha,Brandon,1502 Eastcrest Dr 202,Charlotte,NC,C,117763.0,2023-10-01,A,1502 Eastcrest Dr #202 Charlotte Nc,4.2 mi
 1779,Keturah,Davis,3300 Central Avenue Apt 3,Charlotte,NC,C,83721.0,2022-10-01,A,3300 Central Avenue Apt 3 Charlotte Nc,4.2 mi
@@ -1803,7 +1803,7 @@
 1801,Kimberly,Townsend,7200 Valley Haven Drive,Charlotte,NC,C,83248.0,2022-10-01,A,7200 Valley Haven Drive Charlotte Nc,4.3 mi
 1802,Terra,Hines,2337 Commonwealth Abe,Charlotte,NC,C,93137.0,2022-10-01,A,2337 Commonwealth Abe Charlotte Nc,4.3 mi
 1803,Sok,Ly,6728 Cedar Spring Rd,Charlotte,NC,C,82997.0,2022-10-01,A,6728 Cedar Spring Rd Charlotte Nc,4.3 mi
-1804,MEIJI,Nguyen,6332 Cameron Forest Ln Apt  1F,Charlotte,NC,C,110566.0,2023-10-01,A,"6332 Cameron Forest Ln, Apt # 1F Charlotte Nc",4.3 mi
+1804,Meiji,Nguyen,6332 Cameron Forest Ln Apt  1F,Charlotte,NC,C,110566.0,2023-10-01,A,"6332 Cameron Forest Ln, Apt # 1F Charlotte Nc",4.3 mi
 1805,Alexandra,Courtney,4208 Maureen Drive,Charlotte,NC,C,84206.0,2022-10-01,A,4208 Maureen Drive Charlotte Nc,4.3 mi
 1806,Andrew,Espinosa,1522 Wembley Dr,Charlotte,NC,C,99831.0,2023-10-01,A,1522 Wembley Dr Charlotte Nc,4.3 mi
 1807,Blanca,De La Cuadra,6218 Fair Valley Dr,Charlotte,NC,C,59113.0,2023-10-01,A,6218 Fair Valley Dr Charlotte Nc,4.3 mi
@@ -1826,7 +1826,7 @@
 1824,Alcala Maria,Guadalupe,2905 Eastway Dr,Charlotte,NC,C,109458.0,2023-10-01,A,2905 Eastway Dr. Charlotte Nc,4.4 mi
 1825,Mark,Coone,650 East Stonewall Street Loft 10,Charlotte,NC,C,22365.0,2022-10-01,E,650 East Stonewall Street Loft 10 Charlotte Nc,4.4 mi
 1826,Amedia,White,1427 Woodbury Rd,Charlotte,NC,C,93816.0,2022-10-01,A,1427 Woodbury Rd Charlotte Nc,4.4 mi
-1827,LIEU THI NGOC,Nguyen,3801 Huckleberry Rd,Charlotte,NC,C,117552.0,2023-10-01,A,3801 Huckleberry Rd Charlotte Nc,4.4 mi
+1827,Lieu Thi Ngoc,Nguyen,3801 Huckleberry Rd,Charlotte,NC,C,117552.0,2023-10-01,A,3801 Huckleberry Rd Charlotte Nc,4.4 mi
 1828,Marilyn,Williams-Schumaker,6500 Elfreda Rd,Charlotte,NC,C,31036.0,2023-10-01,E,6500 Elfreda Rd. Charlotte Nc,4.4 mi
 1829,Nea,Broome,6000 Pineburr Road Apt G,Charlotte,NC,C,39979.0,2023-10-01,E,6000 Pineburr Road Apt G Charlotte Nc,4.4 mi
 1830,Foong,Lam,4808F Central Ave,Charlotte,NC,C,43792.0,2023-10-01,E,4808-F Central Ave. Charlotte Nc,4.4 mi
@@ -1839,7 +1839,7 @@
 1837,Cassidy,Gillette,6448 Brandonwood Ct,Charlotte,NC,C,118459.0,2023-10-01,A,6448 Brandonwood Ct Charlotte Nc,4.5 mi
 1838,Elizabeth,Harris,1300 Reece Rd 303,Charlotte,NC,C,46419.0,2023-10-01,E,1300 Reece Rd #303 Charlotte Nc,4.5 mi
 1839,Hazel,Arrington,3130 Heathstead Pl,Charlotte,NC,C,35326.0,2023-10-01,E,3130 Heathstead Pl Charlotte Nc,4.5 mi
-1840,D'yette,Spain,1515 Burtonwood Cir,Charlotte,NC,C,40562.0,2023-10-01,A,1515 Burtonwood Cir Charlotte Nc,4.5 mi
+1840,D'Yette,Spain,1515 Burtonwood Cir,Charlotte,NC,C,40562.0,2023-10-01,A,1515 Burtonwood Cir Charlotte Nc,4.5 mi
 1841,Juanita,Sherrill,1126 Fox Run Drive,Charlotte,NC,C,28589.0,2022-10-01,E,1126 Fox Run Drive Charlotte Nc,4.5 mi
 1842,Shannon,Sluyter,6570 Quail Hollow Road Apt 3C ,Charlotte,NC,C,84900.0,2022-10-01,A,6570 Quail Hollow Road Apt 3C  Charlotte Nc,4.5 mi
 1843,Latoya,Adams,919 Pineborough Rd,Charlotte,NC,C,57376.0,2023-10-01,A,919 Pineborough Rd Charlotte Nc,4.5 mi
@@ -1868,7 +1868,7 @@
 1866,Donald,Case,4123 Castlewood Rd,Charlotte,NC,C,53615.0,2023-10-01,A,4123 Castlewood Rd Charlotte Nc,4.6 mi
 1867,Roxana,Dimitriu,2614 Spring Glen Ave,Charlotte,NC,C,14975.0,2022-10-01,E,2614 Spring Glen Ave. Charlotte Nc,4.6 mi
 1868,Don,Robinson,429 East Blvd,Charlotte,NC,C,39802.0,2023-10-01,A,429 East Blvd Charlotte Nc,4.6 mi
-1869,BENNY,"Watkins, Iii",6226 Gothic Ct,Charlotte,NC,C,54389.0,2023-10-01,A,6226 Gothic Ct Charlotte Nc,4.6 mi
+1869,Benny,"Watkins, Iii",6226 Gothic Ct,Charlotte,NC,C,54389.0,2023-10-01,A,6226 Gothic Ct Charlotte Nc,4.6 mi
 1870,Sandy,Adams,1120 Scaleybark Rd  206,Charlotte,NC,C,115972.0,2022-10-01,A,1120 Scaleybark Rd # 206 Charlotte Nc,4.6 mi
 1871,Skye,Grimes,767 N Alexander St,Charlotte,NC,C,110911.0,2023-10-01,A,767 N Alexander St Charlotte Nc,4.6 mi
 1872,Amanda,Clark,2900 Heathstead Place,Charlotte,NC,C,58444.0,2023-10-01,I,2900 Heathstead Place Charlotte Nc,4.6 mi
@@ -1918,7 +1918,7 @@
 1916,Ethan,Mayo,1939 Sandhurst Drive,Charlotte,NC,C,117918.0,2023-10-01,A,1939 Sandhurst Drive Charlotte Nc,4.7 mi
 1917,Qumecka,Hodge,5929 Regal Estate Lane Apt 202,Charlotte,NC,C,105885.0,2022-10-01,A,5929 Regal Estate Lane Apt 202 Charlotte Nc,4.8 mi
 1918,Likia,Carpenter,6225 Balsam Fir Dr,Charlotte,NC,C,88192.0,2023-10-01,A,6225 Balsam Fir Dr Charlotte Nc,4.8 mi
-1919,DeShannon,Alexander,3021 Romare Bearden D,Charlotte,NC,C,93602.0,2022-10-01,A,3021 Romare Bearden D Charlotte Nc,4.8 mi
+1919,Deshannon,Alexander,3021 Romare Bearden D,Charlotte,NC,C,93602.0,2022-10-01,A,3021 Romare Bearden D Charlotte Nc,4.8 mi
 1920,Timothy,Rowell,2926 Sunset Dr,Charlotte,NC,C,16010.0,2022-10-01,E,2926 Sunset Dr Charlotte Nc,4.8 mi
 1921,Victoria,Brumfield,5924 Regal Estate Lane Apt 308,Charlotte,NC,C,75754.0,2023-10-01,A,5924 Regal Estate Lane Apt 308 Charlotte Nc,4.8 mi
 1922,Roger,Bennett,2244 Kilbrone Dr,Charlotte,NC,C,86216.0,2022-10-01,A,2244 Kilbrone Dr Charlotte Nc,4.8 mi
@@ -2163,7 +2163,7 @@
 2161,Anita,Alexander,2308 Valleyview Dr,Charlotte,NC,C,47413.0,2023-10-01,A,2308 Valleyview Dr Charlotte Nc,5.8 mi
 2162,Sonya,Caride,4609 E Sharon Chase Dr,Charlotte,NC,C,23526.0,2022-10-01,E,4609 #E Sharon Chase Dr Charlotte Nc,5.8 mi
 2163,Mickie,Greeley,300 SCedar St  Unit3,Charlotte,NC,C,87969.0,2023-10-01,E,300 S.Cedar St.  Unit#3 Charlotte Nc,5.8 mi
-2164,HATTIE,Mercer,4142 Conway Ave,Charlotte,NC,C,115696.0,2022-10-01,A,4142 Conway Ave Charlotte Nc,5.8 mi
+2164,Hattie,Mercer,4142 Conway Ave,Charlotte,NC,C,115696.0,2022-10-01,A,4142 Conway Ave Charlotte Nc,5.8 mi
 2165,Tesa,Peltz,2008 Matheson Ave,Charlotte,NC,C,107833.0,2023-10-01,A,2008 Matheson Ave. Charlotte Nc,5.8 mi
 2166,Kellee,Vaughn,7318 Creekwood Quorum Drive,Charlotte,NC,C,81841.0,2022-10-01,A,7318 Creekwood Quorum Drive Charlotte Nc,5.8 mi
 2167,Ruth,Thar,2600 Valley View Dr,Charlotte,NC,C,93534.0,2022-10-01,A,2600 Valley View Dr Charlotte Nc,5.8 mi
@@ -2174,7 +2174,7 @@
 2172,Mary,Eudy,2000 South Blvd,Charlotte,NC,C,94229.0,2022-10-01,A,2000 South Blvd Charlotte Nc,5.8 mi
 2173,Nicole,Hubert,7505 Shadowstone Drive,Charlotte,NC,C,54058.0,2023-10-01,A,7505 Shadowstone Drive Charlotte Nc,5.8 mi
 2174,Brian,Owle,244 S Cedar St,Charlotte,NC,C,49870.0,2023-10-01,A,244 S Cedar St Charlotte Nc,5.8 mi
-2175,DIONNE,Carmichael,3130 Margellina Dr,Charlotte,NC,C,97126.0,2023-10-01,A,3130 Margellina Dr Charlotte Nc,5.8 mi
+2175,Dionne,Carmichael,3130 Margellina Dr,Charlotte,NC,C,97126.0,2023-10-01,A,3130 Margellina Dr Charlotte Nc,5.8 mi
 2176,Leah,Leath,4517 Sharon Chase Drive Unit E,Charlotte,NC,C,110354.0,2023-10-01,A,4517 Sharon Chase Drive Unit E Charlotte Nc,5.8 mi
 2177,Eymin,Martinez,3700 Teaberry Ct,Charlotte,NC,C,95137.0,2022-10-01,A,3700 Teaberry Ct Charlotte Nc,5.8 mi
 2178,Leury Rafael,Díaz Abreu,6107 South Blvd ,Charlotte,NC,C,117110.0,2023-10-01,A,6107 South Blvd  Charlotte Nc,5.8 mi
@@ -2186,7 +2186,7 @@
 2184,Dutchess,Gaither,6137 Ingleside Drive,Charlotte,NC,C,105340.0,2022-10-01,A,6137 Ingleside Drive Charlotte Nc,5.8 mi
 2185,Shaakira,Warnick,4517 Sharon Chase Dr Apt B,Charlotte,NC,C,115706.0,2022-10-01,A,4517 Sharon Chase Dr Apt B Charlotte Nc,5.8 mi
 2186,Wandy,Jimenez Tejada,6107 South Blvd,Charlotte,NC,C,118666.0,2023-10-01,A,6107 South Blvd Charlotte Nc,5.8 mi
-2187,luis daniel,Tejada Reyes,6107 South Blvd,Charlotte,NC,C,117257.0,2023-10-01,A,6107 South Blvd Charlotte Nc,5.8 mi
+2187,Luis Daniel,Tejada Reyes,6107 South Blvd,Charlotte,NC,C,117257.0,2023-10-01,A,6107 South Blvd Charlotte Nc,5.8 mi
 2188,Evan ,Eudy,6332 Vernedale Rd,Charlotte,NC,C,94900.0,2022-10-01,A,6332 Vernedale Rd. Charlotte Nc,5.8 mi
 2189,Deborah,Halbeisen,2416 Mirow Place,Charlotte,NC,C,27572.0,2022-10-01,E,2416 Mirow Place Charlotte Nc,5.8 mi
 2190,Cynthia,Wall,3412 Stone Haven Drive,Charlotte,NC,C,33286.0,2023-10-01,E,3412 Stone Haven Drive Charlotte Nc,5.8 mi
@@ -2202,7 +2202,7 @@
 2200,Penny,Reeves,824 Eastway Dr,Charlotte,NC,C,35388.0,2023-10-01,E,824 Eastway Dr. Charlotte Nc,5.9 mi
 2201,Saula,Peace,4913 Rosena Drive,Charlotte,NC,C,96218.0,2023-10-01,A,4913 Rosena Drive Charlotte Nc,5.9 mi
 2202,Eboney,Barnes,6241 South Blvd 241761,Charlotte,NC,C,117490.0,2023-10-01,A,6241 South Blvd #241761 Charlotte Nc,5.9 mi
-2203,SARAH,Baez,1825 Beacon Ridge Rd Apt 120,Charlotte,NC,C,114883.0,2022-10-01,A,1825 Beacon Ridge Rd Apt 120 Charlotte Nc,5.9 mi
+2203,Sarah,Baez,1825 Beacon Ridge Rd Apt 120,Charlotte,NC,C,114883.0,2022-10-01,A,1825 Beacon Ridge Rd Apt 120 Charlotte Nc,5.9 mi
 2204,Rachel,Jones,1331 W Morehead St Apt 569,Charlotte,NC,C,82319.0,2022-10-01,A,1331 W Morehead St Apt 569 Charlotte Nc,5.9 mi
 2205,Lori,High,3800 Shamrock Dr,Charlotte,NC,C,49091.0,2023-10-01,E,3800 Shamrock Dr Charlotte Nc,5.9 mi
 2206,Amanda,Briska,2808 Griffith St 3303,Charlotte,NC,C,108098.0,2023-10-01,A,2808 Griffith St #3303 Charlotte Nc,5.9 mi
@@ -2224,7 +2224,7 @@
 2222,Stephanie,Rose,108 Poindexter Drive Apt 4312,Charlotte,NC,C,114539.0,2022-10-01,A,108 Poindexter Drive Apt 4312 Charlotte Nc,6.0 mi
 2223,Katrice,Mcpherson,4816 Carnbrook Place,Charlotte,NC,C,97131.0,2023-10-01,A,4816 Carnbrook Place Charlotte Nc,6.0 mi
 2224,Viviava,Tavares Liz,1640 Sardis N Rd Suite 140,Charlotte,NC,C,104030.0,2022-10-01,A,1640 Sardis N Rd Suite 140 Charlotte Nc,6.0 mi
-2225,CRISTAL,Mella,1640 Sardis Rd Suite 140,Charlotte,NC,C,105579.0,2022-10-01,A,1640 Sardis Rd Suite 140 Charlotte Nc,6.0 mi
+2225,Cristal,Mella,1640 Sardis Rd Suite 140,Charlotte,NC,C,105579.0,2022-10-01,A,1640 Sardis Rd Suite 140 Charlotte Nc,6.0 mi
 2226,Ashleigh,Smith,3100 Garrison Street,Charlotte,NC,C,94585.0,2022-10-01,A,3100 Garrison Street Charlotte Nc,6.0 mi
 2227,Natalie,Lozinsky,7118 Shannopin Dr Apt 823 ,Charlotte,NC,C,116828.0,2022-10-01,A,7118 Shannopin Dr Apt 823  Charlotte Nc,6.0 mi
 2228,Andre,Taylor,6109 Bayswater Lane,Charlotte,NC,C,22630.0,2022-10-01,E,6109 Bayswater Lane Charlotte Nc,6.0 mi
@@ -2264,7 +2264,7 @@
 2262,Avis,Rivera,4619 Narayan Street,Charlotte,NC,C,95016.0,2022-10-01,A,4619 Narayan Street Charlotte Nc,6.1 mi
 2263,Hannah,Whittaker,902 W 4Th Street  Apt 248,Charlotte,NC,C,115050.0,2022-10-01,A,902 W 4Th Street  Apt 248 Charlotte Nc,6.1 mi
 2264,Katricia,Gaddy,7249 Point Lake Dr Apt 108,Charlotte,NC,C,104353.0,2022-10-01,A,7249 Point Lake Dr Apt 108 Charlotte Nc,6.1 mi
-2265,LAURA,Castrillón Beltrán,4200 South Blvd Suite M,Charlotte,NC,C,116769.0,2022-10-01,A,4200 South Blvd Suite M Charlotte Nc,6.2 mi
+2265,Laura,Castrillón Beltrán,4200 South Blvd Suite M,Charlotte,NC,C,116769.0,2022-10-01,A,4200 South Blvd Suite M Charlotte Nc,6.2 mi
 2266,Maria,Villegas,835 Eastway Dr,Charlotte,NC,C,106356.0,2022-10-01,A,835 Eastway Dr Charlotte Nc,6.2 mi
 2267,Marissa,Zaleski,7242 Winery Lane,Charlotte,NC,C,97988.0,2023-10-01,A,7242 Winery Lane Charlotte Nc,6.2 mi
 2268,Osmany,Duarte,4200 South Blvd Suite M ,Charlotte,NC,C,81964.0,2022-10-01,A,4200 South Blvd Suite M  Charlotte Nc,6.2 mi
@@ -2295,7 +2295,7 @@
 2293,Towanda,Graham,9224 Four Acre Ct ,Charlotte,NC,C,53005.0,2023-10-01,A,9224 Four Acre Ct  Charlotte Nc,6.2 mi
 2294,Vasiliki,Karakasis,2045 Edgewater Drive,Charlotte,NC,C,40609.0,2023-10-01,E,2045 Edgewater Drive Charlotte Nc,6.2 mi
 2295,Anabelle,Gamboa,2120 Sharon Oaks Ln Apt 101,Charlotte,NC,C,118015.0,2023-10-01,A,2120 Sharon Oaks Ln Apt 101 Charlotte Nc,6.2 mi
-2296,REINA,Galdamez,3731 Dunwoody Dr,Charlotte,NC,C,115619.0,2022-10-01,A,3731 Dunwoody Dr Charlotte Nc,6.2 mi
+2296,Reina,Galdamez,3731 Dunwoody Dr,Charlotte,NC,C,115619.0,2022-10-01,A,3731 Dunwoody Dr Charlotte Nc,6.2 mi
 2297,Kimberly,Long,4128 South Blvd A2 ,Charlotte,NC,C,98066.0,2023-10-01,A,4128 South Blvd A2  Charlotte Nc,6.2 mi
 2298,Diane,Ervin,5500 Bleeker Street,Charlotte,NC,C,5087.0,2023-10-01,E,5500 Bleeker Street Charlotte Nc,6.2 mi
 2299,Patsy,Worley,415 Minuet Lane,Charlotte,NC,C,29988.0,2022-10-01,E,415 Minuet Lane Charlotte Nc,6.2 mi
@@ -2317,7 +2317,7 @@
 2315,Sandra,Williams,5618 Wallace Cabin Drive,Charlotte,NC,C,108184.0,2023-10-01,A,5618 Wallace Cabin Drive Charlotte Nc,6.3 mi
 2316,Franklin,Fuertes,525 N Graham St Unit 1F,Charlotte,NC,C,107150.0,2022-10-01,A,"525 N Graham St, Unit 1F Charlotte Nc",6.3 mi
 2317,Laurie,Smith,9001 Warbler Ct,Charlotte,NC,C,117429.0,2023-10-01,A,9001 Warbler Ct Charlotte Nc,6.3 mi
-2318,Ro'chic,Bailey,4501 Marthas Ridge Dr,Charlotte,NC,C,109689.0,2023-10-01,A,4501 Marthas Ridge Dr Charlotte Nc,6.3 mi
+2318,Ro'Chic,Bailey,4501 Marthas Ridge Dr,Charlotte,NC,C,109689.0,2023-10-01,A,4501 Marthas Ridge Dr Charlotte Nc,6.3 mi
 2319,Chau T,Huynh,5805 Martin Lake Rd,Charlotte,NC,C,104485.0,2022-10-01,A,5805 Martin Lake Rd. Charlotte Nc,6.3 mi
 2320,Tysheka,Lanier,8151 Riverbirch Dr Apt 207,Charlotte,NC,C,93112.0,2022-10-01,A,8151 Riverbirch Dr Apt 207 Charlotte Nc,6.3 mi
 2321,Keith,Strickler,3431 Arboretum View,Charlotte,NC,C,23599.0,2022-10-01,E,3431 Arboretum View Charlotte Nc,6.3 mi
@@ -2335,7 +2335,7 @@
 2333,Sherita,Alexander,5006 Endolwood Dr ,Charlotte,NC,C,85530.0,2022-10-01,A,5006 Endolwood Dr  Charlotte Nc,6.3 mi
 2334,Angela,Johnson,7626 Deerfield Manor Drive,Charlotte,NC,C,114475.0,2022-10-01,A,7626 Deerfield Manor Drive Charlotte Nc,6.3 mi
 2335,Kwanisha,Feaster,1920 Countrymens Court Apt 1,Charlotte,NC,C,81923.0,2022-10-01,A,1920 Countrymens Court Apt 1 Charlotte Nc,6.4 mi
-2336,LYDIAN CAMILA,Martins Teixeira,5600 Brooklet Ln,Charlotte,NC,C,118942.0,2023-10-01,A,5600 Brooklet Ln Charlotte Nc,6.4 mi
+2336,Lydian Camila,Martins Teixeira,5600 Brooklet Ln,Charlotte,NC,C,118942.0,2023-10-01,A,5600 Brooklet Ln Charlotte Nc,6.4 mi
 2337,Kim Cuc,Nguyen,5610 Brooklet Ln,Charlotte,NC,C,88282.0,2023-10-01,A,5610 Brooklet Ln Charlotte Nc,6.4 mi
 2338,Tonya,Wright,6022F Delta Crossing Ln,Charlotte,NC,C,87508.0,2023-10-01,A,6022-F Delta Crossing Ln. Charlotte Nc,6.4 mi
 2339,Teresa,Leon,4312 Carmel Rd,Charlotte,NC,C,99388.0,2023-10-01,A,4312 Carmel Rd Charlotte Nc,6.4 mi
@@ -2351,7 +2351,7 @@
 2349,Sara,Montano,8315 River Birch Dr,Charlotte,NC,C,115052.0,2022-10-01,A,8315 River Birch Dr Charlotte Nc,6.4 mi
 2350,Dorothy,Robinson Mayes,1719 Merriman Avenue,Charlotte,NC,C,43925.0,2022-10-01,E,1719 Merriman Avenue Charlotte Nc,6.4 mi
 2351,Janine,Mulder,2415 Brantford Drive ,Charlotte,NC,C,81687.0,2022-10-01,A,2415 Brantford Drive  Charlotte Nc,6.4 mi
-2352,MARTA,Reyes,8315 Riverbirch Dr Apt 208,Charlotte,NC,C,116774.0,2022-10-01,A,8315 Riverbirch Dr Apt 208 Charlotte Nc,6.4 mi
+2352,Marta,Reyes,8315 Riverbirch Dr Apt 208,Charlotte,NC,C,116774.0,2022-10-01,A,8315 Riverbirch Dr Apt 208 Charlotte Nc,6.4 mi
 2353,Delia,Campbell,2002 Courtside Lane Apt 205,Charlotte,NC,C,114937.0,2022-10-01,A,2002 Courtside Lane Apt 205 Charlotte Nc,6.4 mi
 2354,Diamond,Meares,3804 The Plaza ,Charlotte,NC,C,107852.0,2023-10-01,A,3804 The Plaza  Charlotte Nc,6.4 mi
 2355,Jonathan,Hicklin,5723 Running Wood Ln,Charlotte,NC,C,45912.0,2023-10-01,A,5723 Running Wood Ln Charlotte Nc,6.4 mi
@@ -2448,7 +2448,7 @@
 2446,Iris,Serrano,7807 Hickory Hollow Ln,Charlotte,NC,C,117966.0,2023-10-01,A,7807 Hickory Hollow Ln Charlotte Nc,6.8 mi
 2447,Brigida,Hernandez,228 Eastway Dr Suite 5,Charlotte,NC,C,94462.0,2022-10-01,A,"228 Eastway Dr, Suite 5 Charlotte Nc",6.8 mi
 2448,Molouk,Salehizadeh,8200900 Providence Road,Charlotte,NC,C,57750.0,2023-10-01,A,8200-900 Providence Road Charlotte Nc,6.8 mi
-2449,Dulce maria,Torres De Paulino,2108 El Verano Cir Apt B,Charlotte,NC,C,114939.0,2022-10-01,A,2108 El Verano Cir Apt B Charlotte Nc,6.8 mi
+2449,Dulce Maria,Torres De Paulino,2108 El Verano Cir Apt B,Charlotte,NC,C,114939.0,2022-10-01,A,2108 El Verano Cir Apt B Charlotte Nc,6.8 mi
 2450,Tasha,Overcash,8315 Knights Bridge Rd,Charlotte,NC,C,97480.0,2023-10-01,A,8315 Knights Bridge Rd Charlotte Nc,6.8 mi
 2451,Sabrina,Torain,1523 Saffron Court,Charlotte,NC,C,88777.0,2023-10-01,A,1523 Saffron Court Charlotte Nc,6.8 mi
 2452,Mary Ann,Manning,7554 Petrea Lane,Charlotte,NC,C,105509.0,2022-10-01,A,7554 Petrea Lane Charlotte Nc,6.8 mi
@@ -2530,7 +2530,7 @@
 2528,Ayana,Jones,6213 Windsor Gate Ln,Charlotte,NC,C,82419.0,2022-10-01,A,6213 Windsor Gate Ln Charlotte Nc,7.1 mi
 2529,Andrea,Pridgen,9700 Stoney Glen Dr Apt P,Charlotte,NC,C,118537.0,2023-10-01,A,"9700 Stoney Glen Dr., Apt. P Charlotte Nc",7.1 mi
 2530,Amanita,Chapman,6409 Windsor Gate Lane,Charlotte,NC,C,80147.0,2022-10-01,E,6409 Windsor Gate Lane Charlotte Nc,7.2 mi
-2531,ANGELICA MARIA,Herrera Rodas,5430 North Tryon St Suite 5,Charlotte,NC,C,114682.0,2022-10-01,A,"5430 North Tryon St, Suite 5 Charlotte Nc",7.2 mi
+2531,Angelica Maria,Herrera Rodas,5430 North Tryon St Suite 5,Charlotte,NC,C,114682.0,2022-10-01,A,"5430 North Tryon St, Suite 5 Charlotte Nc",7.2 mi
 2532,Vay,Chang,7343 Quail Ridge Dr,Charlotte,NC,C,80595.0,2022-10-01,A,7343 Quail Ridge Dr Charlotte Nc,7.2 mi
 2533,Hazell,Tovar,5430 North Tryon St Ste 5,Charlotte,NC,C,114865.0,2022-10-01,A,"5430 North Tryon St, Ste 5 Charlotte Nc",7.2 mi
 2534,Iris,Membreno De Ayala,5430 North Tryon St Suite 5,Charlotte,NC,C,114897.0,2022-10-01,A,"5430 North Tryon St, Suite 5 Charlotte Nc",7.2 mi
@@ -2586,7 +2586,7 @@
 2584,Erika,Morris,1100 Vickery Dr,Charlotte,NC,C,99187.0,2023-10-01,A,1100 Vickery Dr Charlotte Nc,7.4 mi
 2585,Xandra,Bernard,837 Farmhurst Drive Unit K,Charlotte,NC,C,84068.0,2022-10-01,A,837 Farmhurst Drive Unit K Charlotte Nc,7.4 mi
 2586,Naomi,Davis,2517 Ringwood Street,Charlotte,NC,C,44338.0,2023-10-01,E,2517 Ringwood Street Charlotte Nc,7.4 mi
-2587,DeShaun,Colomb,7515 Kings Ridge Drive Apt 202,Charlotte,NC,C,93325.0,2022-10-01,A,7515 Kings Ridge Drive Apt 202 Charlotte Nc,7.4 mi
+2587,Deshaun,Colomb,7515 Kings Ridge Drive Apt 202,Charlotte,NC,C,93325.0,2022-10-01,A,7515 Kings Ridge Drive Apt 202 Charlotte Nc,7.4 mi
 2588,Brittany,Hall,7525 Kings Ridge Dr Apt 206,Charlotte,NC,C,107631.0,2023-10-01,A,7525 Kings Ridge Dr. Apt. 206 Charlotte Nc,7.4 mi
 2589,Thu T,Huynh,5707  N Tryon St,Charlotte,NC,C,115689.0,2022-10-01,A,5707  N Tryon St Charlotte Nc,7.4 mi
 2590,Cynthia,Harrison,2229 Weyland Avenue,Charlotte,NC,C,41831.0,2023-10-01,A,2229 Weyland Avenue Charlotte Nc,7.4 mi
@@ -2598,7 +2598,7 @@
 2596,Alan,Gregory,8116 Kings Creek Drive,Charlotte,NC,C,88105.0,2022-10-01,A,8116 Kings Creek Drive Charlotte Nc,7.5 mi
 2597,Juan Carlos,Arias Ogando,7401Glenmont Dr,Charlotte,NC,C,105604.0,2022-10-01,A,7401Glenmont Dr Charlotte Nc,7.5 mi
 2598,Sparkles,Hill,2029 Weyland Ave ,Charlotte,NC,C,53206.0,2023-10-01,A,2029 Weyland Ave  Charlotte Nc,7.5 mi
-2599,NGUYET KIEU THANH,Nguyen,4025 Martele Dr,Charlotte,NC,C,116375.0,2022-10-01,A,4025 Martele Dr Charlotte Nc,7.5 mi
+2599,Nguyet Kieu Thanh,Nguyen,4025 Martele Dr,Charlotte,NC,C,116375.0,2022-10-01,A,4025 Martele Dr Charlotte Nc,7.5 mi
 2600,Allison,Bish,432 Sylvania Ave,Charlotte,NC,C,107965.0,2023-10-01,A,432 Sylvania Ave Charlotte Nc,7.5 mi
 2601,Joan,Shook,8819 Touchstone Ln,Charlotte,NC,C,8894.0,2022-10-01,E,8819 Touchstone Ln Charlotte Nc,7.5 mi
 2602,Sharon,Wolin,8019 Kings Creek Drive,Charlotte,NC,C,71657.0,2022-10-01,A,8019 Kings Creek Drive Charlotte Nc,7.5 mi
@@ -2621,7 +2621,7 @@
 2619,Marie,Foshay,8411 Habersham Pt Cir 207,Charlotte,NC,C,92593.0,2022-10-01,A,8411 Habersham Pt. Cir. #207 Charlotte Nc,7.6 mi
 2620,Deanna,Boyton,4844 Deanscroft Dr,Charlotte,NC,C,83408.0,2022-10-01,A,4844 Deanscroft Dr Charlotte Nc,7.6 mi
 2621,James,Daniels,PO Box 480792,Charlotte,NC,C,85344.0,2022-10-01,A,P.O. Box 480792 Charlotte Nc,7.6 mi
-2622,NORALDO A,Santos Hurtado,416 Goldstaff Ln,Charlotte,NC,C,117629.0,2023-10-01,A,416 Goldstaff Ln Charlotte Nc,7.6 mi
+2622,Noraldo A,Santos Hurtado,416 Goldstaff Ln,Charlotte,NC,C,117629.0,2023-10-01,A,416 Goldstaff Ln Charlotte Nc,7.6 mi
 2623,Michelle,Ahamed,5400 Five Knolls Drive,Charlotte,NC,C,3788.0,2022-10-01,E,5400 Five Knolls Drive Charlotte Nc,7.6 mi
 2624,Lilian,Moreno,1901 Milton Rd,Charlotte,NC,C,114445.0,2022-10-01,A,1901 Milton Rd Charlotte Nc,7.6 mi
 2625,Tyese,Williams,4118 Glory St,Charlotte,NC,C,108062.0,2023-10-01,A,4118 Glory St Charlotte Nc,7.6 mi
@@ -2651,20 +2651,20 @@
 2649,Marcia,Funez,6022 The Plaza ,Charlotte,NC,C,98717.0,2023-10-01,A,6022 The Plaza  Charlotte Nc,7.7 mi
 2650,Sieana,Robinson,1815 Garibaldi Ave ,Charlotte,NC,C,88821.0,2023-10-01,A,1815 Garibaldi Ave  Charlotte Nc,7.7 mi
 2651,Thien,Nguyen,6816 Loretta Pl,Charlotte,NC,C,97085.0,2023-10-01,A,6816 Loretta Pl Charlotte Nc,7.7 mi
-2652,LaDonna,Stanfield,7900 Waterford Tide Loop Apt 3121,Charlotte,NC,C,109460.0,2023-10-01,A,7900 Waterford Tide Loop Apt 3121 Charlotte Nc,7.7 mi
+2652,Ladonna,Stanfield,7900 Waterford Tide Loop Apt 3121,Charlotte,NC,C,109460.0,2023-10-01,A,7900 Waterford Tide Loop Apt 3121 Charlotte Nc,7.7 mi
 2653,Christin Marisa,Farrell,4640 Cringle Ct,Charlotte,NC,C,82281.0,2022-10-01,A,4640 Cringle Ct. Charlotte Nc,7.7 mi
 2654,Shantel,Walker,3951 Damask Drive,Charlotte,NC,C,117961.0,2023-10-01,A,3951 Damask Drive Charlotte Nc,7.7 mi
 2655,Whitney,Hinton,123 Hunslet Circle,Charlotte,NC,C,88502.0,2023-10-01,A,123 Hunslet Circle Charlotte Nc,7.7 mi
 2656,Shana,Evans,4601 Waterford Knoll Dr,Charlotte,NC,C,12277.0,2022-10-01,E,4601 Waterford Knoll Dr Charlotte Nc,7.7 mi
 2657,Leeway,Thomas,6122 Bridlewood Lane,Charlotte,NC,C,88423.0,2023-10-01,A,6122 Bridlewood Lane Charlotte Nc,7.8 mi
-2658,TRANG,Vo,312 Austin Drive,Charlotte,NC,C,118754.0,2023-10-01,A,312 Austin Drive Charlotte Nc,7.8 mi
+2658,Trang,Vo,312 Austin Drive,Charlotte,NC,C,118754.0,2023-10-01,A,312 Austin Drive Charlotte Nc,7.8 mi
 2659,Demetrius,Moser,4075 North Course Drive,Charlotte,NC,C,85282.0,2022-10-01,A,4075 North Course Drive Charlotte Nc,7.8 mi
 2660,Freda,Allen,335 Frank Drive,Charlotte,NC,C,108634.0,2023-10-01,A,335 Frank Drive Charlotte Nc,7.8 mi
 2661,Carley,Mcgraw,10601 Kettering Dr Apt 1117,Charlotte,NC,C,106688.0,2022-10-01,A,10601 Kettering Dr. Apt 1117 Charlotte Nc,7.8 mi
 2662,Rosa,Alvarez,7407 Heronwood Ln,Charlotte,NC,C,100029.0,2023-10-01,A,7407 Heronwood Ln Charlotte Nc,7.8 mi
 2663,Mark,Abee,5318 Fowler Farm Road,Charlotte,NC,C,32969.0,2023-10-01,E,5318 Fowler Farm Road Charlotte Nc,7.8 mi
 2664,Morgan,Murchland,9511 Willow Ridge Road ,Charlotte,NC,C,81497.0,2022-10-01,A,9511 Willow Ridge Road  Charlotte Nc,7.8 mi
-2665,iris,Mendoza,8013 Bronze Pike Dr,Charlotte,NC,C,107126.0,2022-10-01,A,8013 Bronze Pike Dr Charlotte Nc,7.8 mi
+2665,Iris,Mendoza,8013 Bronze Pike Dr,Charlotte,NC,C,107126.0,2022-10-01,A,8013 Bronze Pike Dr Charlotte Nc,7.8 mi
 2666,Brittany,Porter,7806 Waterford Tide Loop 3326,Charlotte,NC,C,92763.0,2022-10-01,A,7806 Waterford Tide Loop 3326 Charlotte Nc,7.8 mi
 2667,Solomon,Roseborough,8116 Doverdale Lane ,Charlotte,NC,C,52034.0,2023-10-01,A,8116 Doverdale Lane  Charlotte Nc,7.8 mi
 2668,Magnolia,Curbelo,6121  The Plaza,Charlotte,NC,C,55754.0,2022-10-01,E,6121  The Plaza Charlotte Nc,7.9 mi
@@ -2738,7 +2738,7 @@
 2736,Kizzy,Morris,629 Drury Drive,Charlotte,NC,C,72678.0,2022-10-01,A,629 Drury Drive Charlotte Nc,8.2 mi
 2737,Gwendolyn,Robinson,1132 Polk Street,Charlotte,NC,C,43124.0,2022-10-01,A,1132 Polk Street Charlotte Nc,8.2 mi
 2738,Jose,Ramirez Martinez,401 Colony Acres Dr,Charlotte,NC,C,105312.0,2022-10-01,A,401 Colony Acres Dr Charlotte Nc,8.2 mi
-2739,Reina de la Paz,Herrera Amaya,401 Colony Acres Dr,Charlotte,NC,C,108545.0,2023-10-01,A,401 Colony Acres Dr Charlotte Nc,8.2 mi
+2739,Reina De La Paz,Herrera Amaya,401 Colony Acres Dr,Charlotte,NC,C,108545.0,2023-10-01,A,401 Colony Acres Dr Charlotte Nc,8.2 mi
 2740,Jason,Ancho,8717 Nightingale Lane,Charlotte,NC,C,83282.0,2022-10-01,A,8717 Nightingale Lane Charlotte Nc,8.2 mi
 2741,Tavis,Broadie,1501 Chelveston Drive,Charlotte,NC,C,80177.0,2022-10-01,A,1501 Chelveston Drive Charlotte Nc,8.2 mi
 2742,Vy Tuong,Nguyen,11405 Park Rd,Charlotte,NC,C,93990.0,2022-10-01,A,11405 Park Rd Charlotte Nc,8.2 mi
@@ -2790,7 +2790,7 @@
 2788,Olena,Negovielova,6810 Poppy Hills Ln Apt 924,Charlotte,NC,C,116658.0,2022-10-01,A,6810 Poppy Hills Ln Apt 924 Charlotte Nc,8.4 mi
 2789,Tonya,Gillespie,1021 White Plains Rd,Charlotte,NC,C,10432.0,2022-10-01,E,1021 White Plains Rd. Charlotte Nc,8.4 mi
 2790,Peggy,Carr,921 Friendly Pl,Charlotte,NC,C,23201.0,2022-10-01,E,921 Friendly Pl Charlotte Nc,8.4 mi
-2791,SaQuante,Tillman,4639 Hidden Valley Rd,Charlotte,NC,C,110817.0,2023-10-01,A,4639 Hidden Valley Rd Charlotte Nc,8.4 mi
+2791,Saquante,Tillman,4639 Hidden Valley Rd,Charlotte,NC,C,110817.0,2023-10-01,A,4639 Hidden Valley Rd Charlotte Nc,8.4 mi
 2792,Brittany,Severs,6810 Poppy Hills Ln 921,Charlotte,NC,C,89020.0,2023-10-01,A,6810 Poppy Hills Ln #921 Charlotte Nc,8.4 mi
 2793,Maria,Govea Lozano,6806 Woodfield Dr,Charlotte,NC,C,115022.0,2022-10-01,A,6806 Woodfield Dr Charlotte Nc,8.4 mi
 2794,Alberto,Santana Santana,11110 Kingfisher Dr,Charlotte,NC,C,117029.0,2023-10-01,A,11110 Kingfisher Dr Charlotte Nc,8.4 mi
@@ -2811,7 +2811,7 @@
 2809,Alicia Rose,Williams,2840 Ridge Ave,Charlotte,NC,C,53566.0,2023-10-01,E,2840 Ridge Ave Charlotte Nc,8.5 mi
 2810,Lisa Margaret,Miller,11008 Carmel Crossing Rd,Charlotte,NC,C,29058.0,2022-10-01,A,11008 Carmel Crossing Rd Charlotte Nc,8.5 mi
 2811,Victoria,Laiacona,5842 Alexa Road,Charlotte,NC,C,108262.0,2023-10-01,A,5842 Alexa Road Charlotte Nc,8.5 mi
-2812,ANTONIA,Carmona,12921 Painted Tree Road,Charlotte,NC,C,118978.0,2023-10-01,A,12921 Painted Tree Road Charlotte Nc,8.5 mi
+2812,Antonia,Carmona,12921 Painted Tree Road,Charlotte,NC,C,118978.0,2023-10-01,A,12921 Painted Tree Road Charlotte Nc,8.5 mi
 2813,Marissa,Nuhfer,11410 Harrowfield Rd,Charlotte,NC,C,118491.0,2023-10-01,A,11410 Harrowfield Rd Charlotte Nc,8.5 mi
 2814,Carolina,Romanczukiewicz,8701 Nightingale Lane,Charlotte,NC,C,98599.0,2023-10-01,A,8701 Nightingale Lane Charlotte Nc,8.5 mi
 2815,Brittany,Tamilia,1806 Choyce Cir,Charlotte,NC,C,94471.0,2022-10-01,A,1806 Choyce Cir Charlotte Nc,8.5 mi
@@ -3036,7 +3036,7 @@
 3034,Temeika,Watts,7637 Altacrest Place,Charlotte,NC,C,43740.0,2023-10-01,A,7637 Altacrest Place Charlotte Nc,9.5 mi
 3035,Madison,Kiser,7016 Turning Point Lane,Charlotte,NC,C,109305.0,2023-10-01,A,7016 Turning Point Lane Charlotte Nc,9.5 mi
 3036,Angelica,Kegarise,10400 Club Car Court,Charlotte,NC,C,106983.0,2022-10-01,I,10400 Club Car Court Charlotte Nc,9.5 mi
-3037,Way-soon,Lee,2313 Keara Way,Charlotte,NC,C,21445.0,2022-10-01,E,2313 Keara Way Charlotte Nc,9.5 mi
+3037,Way-Soon,Lee,2313 Keara Way,Charlotte,NC,C,21445.0,2022-10-01,E,2313 Keara Way Charlotte Nc,9.5 mi
 3038,Merary,Velasquez Alfaro,7115 Smithton Ln,Charlotte,NC,C,107098.0,2022-10-01,A,7115 Smithton Ln Charlotte Nc,9.5 mi
 3039,Wanda,Nelson,7730 Paper Birch Dr,Charlotte,NC,C,41046.0,2023-10-01,A,7730 Paper Birch Dr. Charlotte Nc,9.5 mi
 3040,Colette,Tessier,2547 Tranquil Oak Pl,Charlotte,NC,C,85767.0,2023-10-01,A,2547 Tranquil Oak Pl Charlotte Nc,9.5 mi
@@ -3079,15 +3079,15 @@
 3077,Lesly Mabel,Grullon,5935 Raisin Tree Lane,Charlotte,NC,C,116619.0,2022-10-01,A,5935 Raisin Tree Lane Charlotte Nc,9.7 mi
 3078,Amy,Martinez-Castro,7935 Paper Birch Drive,Charlotte,NC,C,83290.0,2022-10-01,A,7935 Paper Birch Drive Charlotte Nc,9.7 mi
 3079,Digna,Portorreal De Guzman,5935 Raisin Tree Ln,Charlotte,NC,C,118040.0,2023-10-01,A,5935 Raisin Tree Ln Charlotte Nc,9.7 mi
-3080,ITZEL,Ledezma Martinez,7919 Ponderosa Pine Ln,Charlotte,NC,C,117180.0,2023-10-01,A,7919 Ponderosa Pine Ln Charlotte Nc,9.7 mi
+3080,Itzel,Ledezma Martinez,7919 Ponderosa Pine Ln,Charlotte,NC,C,117180.0,2023-10-01,A,7919 Ponderosa Pine Ln Charlotte Nc,9.7 mi
 3081,Tonia,Cherry,3401 Tennessee Avenue,Charlotte,NC,C,40316.0,2023-10-01,E,3401 Tennessee Avenue Charlotte Nc,9.7 mi
-3082,corey,Robinson,9008 Woodbine Walk Rd Apt 7306,Charlotte,NC,C,117346.0,2023-10-01,A,9008 Woodbine Walk Rd Apt 7306 Charlotte Nc,9.7 mi
+3082,Corey,Robinson,9008 Woodbine Walk Rd Apt 7306,Charlotte,NC,C,117346.0,2023-10-01,A,9008 Woodbine Walk Rd Apt 7306 Charlotte Nc,9.7 mi
 3083,Florisel,Catalan,9341 Westbury Woods Dr Apt I,Charlotte,NC,C,116022.0,2022-10-01,A,9341 Westbury Woods Dr. Apt. I Charlotte Nc,9.7 mi
 3084,Vathsana,Vongxaya,2921 Clyde Dr,Charlotte,NC,C,85430.0,2022-10-01,A,2921 Clyde Dr. Charlotte Nc,9.7 mi
 3085,Nedra,Alexander,9144 Maidenhair Ct,Charlotte,NC,C,105147.0,2022-10-01,A,9144 Maidenhair Ct Charlotte Nc,9.7 mi
 3086,Claudette,Mendoza,9107 Maidenhair Ct,Charlotte,NC,C,115279.0,2022-10-01,A,9107 Maidenhair Ct Charlotte Nc,9.7 mi
 3087,Shanelle,Holmes,2951 Brahman Meadows Lane,Charlotte,NC,C,95954.0,2022-10-01,A,2951 Brahman Meadows Lane Charlotte Nc,9.7 mi
-3088,JESSICA,Perez,6101 Ardrey Kell Rd Apt 1210,Charlotte,NC,C,116771.0,2022-10-01,A,6101 Ardrey Kell Rd Apt 1210 Charlotte Nc,9.7 mi
+3088,Jessica,Perez,6101 Ardrey Kell Rd Apt 1210,Charlotte,NC,C,116771.0,2022-10-01,A,6101 Ardrey Kell Rd Apt 1210 Charlotte Nc,9.7 mi
 3089,Kelly,Golden,9905 Sandy Rock Pl Suite F,Charlotte,NC,C,61221.0,2022-10-01,E,9905 Sandy Rock Pl Suite F Charlotte Nc,9.7 mi
 3090,Yuyan,Wang,7808 S Tryon St 1,Charlotte,NC,C,116032.0,2022-10-01,A,7808 S. Tryon St. #1 Charlotte Nc,9.7 mi
 3091,Vanessa,Young,6221 Derryfield Drive,Charlotte,NC,C,56521.0,2023-10-01,E,6221 Derryfield Drive Charlotte Nc,9.7 mi
