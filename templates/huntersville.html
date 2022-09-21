@@ -1,316 +1,246 @@
-<!--
-=========================================================
-* Material Dashboard Dark Edition - v2.1.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-dashboard-dark
-* Copyright 2019 Creative Tim (http://www.creative-tim.com)
-
-* Coded by www.creative-tim.com
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
--->
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="utf-8" />
-  <link rel="apple-touch-icon" sizes="76x76" href="../static/assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="../static/assets/img/favicon.png">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>
-    Data Dashboard
-  </title>
-  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
-  <!--     Fonts and icons     -->
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
-  <!-- CSS Files -->
-  <link href="../static/assets/css/material-dashboard.css" rel="stylesheet" />
-  <!-- CSS Just for demo purpose, don't include it in your project -->
-  <!-- <link href="../static/assets/demo/demo.css" rel="stylesheet" /> -->
-  <link href="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.css" rel="stylesheet">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="../static/images/favicon.ico" type="image/ico" />
+
+  <title>Stylist | Dashboard</title>
+
+  <!-- Bootstrap -->
+  <link href="../static/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link href="../static/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <!-- NProgress -->
+  <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
+  <!-- iCheck -->
+  <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+
+  <!-- bootstrap-progressbar -->
+  <link href="../static/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+  <!-- JQVMap -->
+  <link href="../static/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
+  <!-- bootstrap-daterangepicker -->
+  <link href="../static/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+  <link rel="stylesheet" href="../static/assets/css/addons/datatables0.min.css">
+
+  <!-- Custom Theme Style -->
+  <link href="../static/build/css/custom.min.css" rel="stylesheet">
 </head>
 
-<body class="dark-edition">
-  <div class="wrapper ">
-    <div class="sidebar" data-color="purple" data-background-color="black" data-image="../static/assets/img/sidebar-1.jpg">
-      <!--
-        Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
+<body class="nav-md">
+  <div class="container body">
+    <div class="main_container">
+      <div class="col-md-3 left_col">
+        <div class="left_col scroll-view">
+          <div class="navbar nav_title" style="border: 0;">
+            <a href="index.html" class="site_title"><i class="fa fa-scissors"></i> <span>Stylists | DB</span></a>
+          </div>
+          <div class="clearfix"></div>
+          <br />
 
-        Tip 2: you can also add an image using data-image tag
-    -->
-      <div class="logo">
-        <div class="simple-text logo-normal">
-          Data Dashboard
+          <!-- sidebar menu -->
+          <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+            <div class="menu_section">
+              <h3>Location</h3>
+              <ul class="nav side-menu">
+                <li><a href="{{ url_for('index') }}"><i class="fa fa-home"></i> Charlotte</a>
+                </li>
+                <li><a href="{{ url_for('matthews') }}"><i class="fa fa-road"></i> Matthews</a>
+                </li>
+                <li class="active"><a href="{{ url_for('huntersville') }}"><i class="fa fa-building"></i> Huntersville</a>
+                </li>
+                <li><a href="{{ url_for('ftmill') }}"><i class="fa fa-road"></i> Fort Mill</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- /sidebar menu -->
+
+          <!-- /menu footer buttons -->
+          <div class="sidebar-footer hidden-small">
+            <a data-toggle="tooltip" data-placement="top" title="Settings">
+              <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+            </a>
+            <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+              <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+            </a>
+            <a data-toggle="tooltip" data-placement="top" title="Lock">
+              <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+            </a>
+            <a data-toggle="tooltip" data-placement="top" title="Logout" href="login.html">
+              <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+            </a>
+          </div>
+          <!-- /menu footer buttons -->
         </div>
       </div>
-      <div class="sidebar-wrapper">
-        <ul class="nav">
-          <li class="nav-item ">
-            <a class="nav-link" href="{{ url_for('index') }}">
-              <i class="material-icons">location_ons</i>
-              <p>Charlotte</p>
-            </a>
-          </li>
-          <li class="nav-item  active">
-            <a class="nav-link" href="{{ url_for('huntersville') }}">
-              <i class="material-icons">location_ons</i>
-              <p>Huntersville</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="{{ url_for('matthews') }}">
-              <i class="material-icons">location_ons</i>
-              <p>Matthews</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="{{ url_for('ft_mill') }}">
-              <i class="material-icons">location_ons</i>
-              <p>Fort Mill</p>
-            </a>
-          </li>
-        </ul>
+
+      <!-- top navigation -->
+      <div class="top_nav">
+        <div class="nav_menu">
+          <div class="nav toggle">
+            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+          </div>
+          <nav class="nav navbar-nav">
+            <ul class=" navbar-right">
+              <li class="nav-item dropdown open" style="padding-left: 15px;">
+                <h4><small>Stylist Database</small></h4>
+              </li>
+            </ul>
+          </nav>
+        </div>
       </div>
-    </div>
-    <div class="main-panel">
-      <div class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top " id="navigation-example"">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="card">
-                <div class="card-header card-header-primary">
-                  <h4 class="card-title ">Charlotte Stylists by Distance from Salon</h4>
-                  <p class="card-category">** Non Functional Prototype **</p>
-                </div>
-                <div class="card-body">
-                  <div class="table-responsive">
-                    <table class="table">
-                      <thead class="text-primary">
-                        <tr>
-                          <th>First Name</th>
-                          <th>Last Name</th>
-                          <th>Address</th>
-                          <th>City</th>
-                          <th>State</th>
-                          <th>License Code</th>
-                          <th>License Number</th>
-                          <th>Expiration Date</th>
-                          <th>License Status Code</th>
-                          <th>Miles Away</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                         <!-- {% for row in results %}
-                            <tr>
-                                <td>{{  row[0]  }}</td>
-                                <td>{{  row[1]  }}</td>
-                                <td>{{  row[2]  }}</td>
-                                <td>{{  row[3]  }}</td>
-                                <td>{{  row[4]  }}</td>
-                                <td>{{  row[5]  }}</td>
-                                <td>{{  row[6]  }}</td>
-                                <td>{{  row[7]  }}</td>
-                                <td>{{  row[8]  }}</td>
-                                <td>{{  row[10]  }}</td>
-                            </tr>
-                          {% endfor %}
-                      </tbody> -->
-                    </table>
-                  </div>
-                </div>
-              </div>
+      <!-- /top navigation -->
+
+      <!-- page content -->
+      <div class="right_col" role="main">
+
+        <!-- top tiles -->
+        <div class="row" style="display: inline-block;">
+          <div class="tile_count align_top">
+            <div class="col-md-4 tile_stats_count">
+              <span class="count_top"><i class="fa fa-user"></i> Total Stylists </span>
+              {% for x in cosms_2 %}
+              <div class="count green">{{ x[0] }}</div>
+              {% endfor %}
+              <span class="count_bottom"> In Huntersville</span>
+            </div>
+            <div class="col-md-4 tile_stats_count">
+              <span class="count_top"><i class="fa fa-user"></i> Stylists </span>
+              {% for x in cosms_3 %}
+              <div class="count green">{{ x[0] }}</div>
+              {% endfor %}
+              <span class="count_bottom">Less than 20 Mi Away</span>
+            </div>
+            <div class="col-md-4 tile_stats_count">
+              <span class="count_top"><i class="fa fa-user"></i> Stylists </span>
+              {% for x in cosms_4 %}
+              <div class="count green">{{ x[0] }}</div>
+              {% endfor %}
+              <span class="count_bottom">Less than 25 Mi Away</span>
             </div>
           </div>
         </div>
+        <!-- /top tiles -->
+
+        <div class="row">
+          <div class="col-md-12 col-sm-12 ">
+            <div class="dashboard_graph">
+              <div class="row x_title">
+                <div class="col-md-6">
+                  <h3><small>Huntersville Stylists</small></h3>
+                </div>
+                <div class="col-md-6">
+                  <h3 class="text-right"></h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <form method="POST" id="form" action="{{ url_for('select_record') }}">
+                    <table id="dtBasicExample" class="table table-hover mb-0 text-dark table-borderless">
+                      <thead>
+                        <tr>
+                          <th></th>
+                          <th class="cell">First Name</th>
+                          <th class="cell">Last Name</th>
+                          <th class="cell">City</th>
+                          <th class="cell">State</th>
+                          <th class="cell">License Code</th>
+                          <th class="cell">Miles Away</th>
+                        </tr>
+                      </thead>
+                      <tbody class="table-group-divider">
+                        {% for row in cosms %}
+                        <tr>
+                          <td class="center-align"><input type="radio" name="id"></td>
+                          <td class="cell">{{ row[0]  }}</td>
+                          <td class="cell">{{ row[1]  }}</td>
+                          <td class="cell">{{ row[3]  }}</td>
+                          <td class="cell">{{ row[4]  }}</td>
+                          <td class="cell">{{ row[5]  }}</td>
+                          <td class="cell">{{ row[6]  }}</td>
+                        </tr>
+                        {% endfor %}
+                      </tbody>
+                    </table>
+                    <div class="form-check form-check-inline">
+                      <label class="form-check-label"><input class="form-check-input" type="radio" name="choice" value="delete" required>Delete it</label>
+                    </div>
+                    <div class="form-group">
+                      <input class="btn btn-success" type="submit" value="Submit Choice">
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <!-- <div class="clearfix"></div> -->
+            </div>
+          </div>
+        </div>
+        <!-- <br /> -->
       </div>
+      <!-- /page content -->
+
+      <!-- footer content -->
+      <footer>
+        <div class="pull-right">
+          Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+        </div>
+        <div class="clearfix"></div>
+      </footer>
+      <!-- /footer content -->
+
     </div>
   </div>
-  <!--   Core JS Files   -->
-  <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.js"></script>
-  <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js"></script>
-  <script src="../static/assets/js/core/jquery.min.js"></script>
-  <script src="../static/assets/js/core/popper.min.js"></script>
-  <script src="../static/assets/js/core/bootstrap-material-design.min.js"></script>
-  <script src="https://unpkg.com/default-passive-events"></script>
-  <script src="../static/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
-  <!-- Place this tag in your head or just before your close body tag. -->
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  <!--  Google Maps Plugin    -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
-  <!-- Chartist JS -->
-  <script src="../static/assets/js/plugins/chartist.min.js"></script>
-  <!--  Notifications Plugin    -->
-  <script src="../static/assets/js/plugins/bootstrap-notify.js"></script>
-  <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->
-  <script src="../static/assets/js/material-dashboard.js"></script>
-  <!-- Material Dashboard DEMO methods, don't include it in your project! -->
-  <!-- <script src="../static/assets/demo/demo.js"></script>  -->
-  <script>
-    $(document).ready(function() {
-      $().ready(function() {
-        $sidebar = $('.sidebar');
 
-        $sidebar_img_container = $sidebar.find('.sidebar-background');
+  <!-- jQuery -->
+  <script src="../static/vendors/jquery/dist/jquery.min.js"></script>
+  <!-- Bootstrap -->
+  <script src="../static/vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- FastClick -->
+  <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
+  <!-- NProgress -->
+  <script src="../static/vendors/nprogress/nprogress.js"></script>
+  <!-- Chart.js -->
+  <script src="../static/vendors/Chart.js/dist/Chart.min.js"></script>
+  <!-- gauge.js -->
+  <script src="../static/vendors/gauge.js/dist/gauge.min.js"></script>
+  <!-- bootstrap-progressbar -->
+  <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+  <!-- iCheck -->
+  <script src="../static/vendors/iCheck/icheck.min.js"></script>
+  <!-- Skycons -->
+  <script src="../static/vendors/skycons/skycons.js"></script>
+  <!-- Flot -->
+  <script src="../static/vendors/Flot/jquery.flot.js"></script>
+  <script src="../static/vendors/Flot/jquery.flot.pie.js"></script>
+  <script src="../static/vendors/Flot/jquery.flot.time.js"></script>
+  <script src="../static/vendors/Flot/jquery.flot.stack.js"></script>
+  <script src="../static/vendors/Flot/jquery.flot.resize.js"></script>
+  <!-- Flot plugins -->
+  <script src="../static/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+  <script src="../static/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+  <script src="../static/vendors/flot.curvedlines/curvedLines.js"></script>
+  <!-- DateJS -->
+  <script src="../static/vendors/DateJS/build/date.js"></script>
+  <!-- JQVMap -->
+  <script src="../static/vendors/jqvmap/dist/jquery.vmap.js"></script>
+  <script src="../static/vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+  <script src="../static/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
+  <!-- bootstrap-daterangepicker -->
+  <script src="../static/vendors/moment/min/moment.min.js"></script>
+  <script src="../static/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
 
-        $full_page = $('.full-page');
+  <!-- Custom Theme Scripts -->
+  <script src="../static/build/js/custom.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
+  <script src="../static/assets/js/addons/datatables.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.12.1/b-2.2.3/b-colvis-2.2.3/b-html5-2.2.3/b-print-2.2.3/datatables.min.js"></script>
 
-        $sidebar_responsive = $('body > .navbar-collapse');
-
-        window_width = $(window).width();
-
-        $('.fixed-plugin a').click(function(event) {
-          // Alex if we click on switch, stop propagation of the event, so the dropdown will not be hide, otherwise we set the  section active
-          if ($(this).hasClass('switch-trigger')) {
-            if (event.stopPropagation) {
-              event.stopPropagation();
-            } else if (window.event) {
-              window.event.cancelBubble = true;
-            }
-          }
-        });
-
-        $('.fixed-plugin .active-color span').click(function() {
-          $full_page_background = $('.full-page-background');
-
-          $(this).siblings().removeClass('active');
-          $(this).addClass('active');
-
-          var new_color = $(this).data('color');
-
-          if ($sidebar.length != 0) {
-            $sidebar.attr('data-color', new_color);
-          }
-
-          if ($full_page.length != 0) {
-            $full_page.attr('filter-color', new_color);
-          }
-
-          if ($sidebar_responsive.length != 0) {
-            $sidebar_responsive.attr('data-color', new_color);
-          }
-        });
-
-        $('.fixed-plugin .background-color .badge').click(function() {
-          $(this).siblings().removeClass('active');
-          $(this).addClass('active');
-
-          var new_color = $(this).data('background-color');
-
-          if ($sidebar.length != 0) {
-            $sidebar.attr('data-background-color', new_color);
-          }
-        });
-
-        $('.fixed-plugin .img-holder').click(function() {
-          $full_page_background = $('.full-page-background');
-
-          $(this).parent('li').siblings().removeClass('active');
-          $(this).parent('li').addClass('active');
-
-
-          var new_image = $(this).find("img").attr('src');
-
-          if ($sidebar_img_container.length != 0 && $('.switch-sidebar-image input:checked').length != 0) {
-            $sidebar_img_container.fadeOut('fast', function() {
-              $sidebar_img_container.css('background-image', 'url("' + new_image + '")');
-              $sidebar_img_container.fadeIn('fast');
-            });
-          }
-
-          if ($full_page_background.length != 0 && $('.switch-sidebar-image input:checked').length != 0) {
-            var new_image_full_page = $('.fixed-plugin li.active .img-holder').find('img').data('src');
-
-            $full_page_background.fadeOut('fast', function() {
-              $full_page_background.css('background-image', 'url("' + new_image_full_page + '")');
-              $full_page_background.fadeIn('fast');
-            });
-          }
-
-          if ($('.switch-sidebar-image input:checked').length == 0) {
-            var new_image = $('.fixed-plugin li.active .img-holder').find("img").attr('src');
-            var new_image_full_page = $('.fixed-plugin li.active .img-holder').find('img').data('src');
-
-            $sidebar_img_container.css('background-image', 'url("' + new_image + '")');
-            $full_page_background.css('background-image', 'url("' + new_image_full_page + '")');
-          }
-
-          if ($sidebar_responsive.length != 0) {
-            $sidebar_responsive.css('background-image', 'url("' + new_image + '")');
-          }
-        });
-
-        $('.switch-sidebar-image input').change(function() {
-          $full_page_background = $('.full-page-background');
-
-          $input = $(this);
-
-          if ($input.is(':checked')) {
-            if ($sidebar_img_container.length != 0) {
-              $sidebar_img_container.fadeIn('fast');
-              $sidebar.attr('data-image', '#');
-            }
-
-            if ($full_page_background.length != 0) {
-              $full_page_background.fadeIn('fast');
-              $full_page.attr('data-image', '#');
-            }
-
-            background_image = true;
-          } else {
-            if ($sidebar_img_container.length != 0) {
-              $sidebar.removeAttr('data-image');
-              $sidebar_img_container.fadeOut('fast');
-            }
-
-            if ($full_page_background.length != 0) {
-              $full_page.removeAttr('data-image', '#');
-              $full_page_background.fadeOut('fast');
-            }
-
-            background_image = false;
-          }
-        });
-
-        $('.switch-sidebar-mini input').change(function() {
-          $body = $('body');
-
-          $input = $(this);
-
-          if (md.misc.sidebar_mini_active == true) {
-            $('body').removeClass('sidebar-mini');
-            md.misc.sidebar_mini_active = false;
-
-            $('.sidebar .sidebar-wrapper, .main-panel').perfectScrollbar();
-
-          } else {
-
-            $('.sidebar .sidebar-wrapper, .main-panel').perfectScrollbar('destroy');
-
-            setTimeout(function() {
-              $('body').addClass('sidebar-mini');
-
-              md.misc.sidebar_mini_active = true;
-            }, 300);
-          }
-
-          // we simulate the window Resize so the charts will get updated in realtime.
-          var simulateWindowResize = setInterval(function() {
-            window.dispatchEvent(new Event('resize'));
-          }, 180);
-
-          // we stop the simulation of Window Resize after the animations are completed
-          setTimeout(function() {
-            clearInterval(simulateWindowResize);
-          }, 1000);
-
-        });
-      });
-    });
-  </script>
 </body>
 
 </html>

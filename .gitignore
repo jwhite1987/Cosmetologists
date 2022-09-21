@@ -5,6 +5,7 @@ __pycache__/
 
 .json
 credentials.json
+*keys.py
 
 *credentials.json
 **credentials.json

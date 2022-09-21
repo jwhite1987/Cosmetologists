@@ -17,7 +17,7 @@ table.dataTable td.dt-control {
 table.dataTable td.dt-control:before {
   height: 1em;
   width: 1em;
-  margin-top: -9px;
+  margin-top: 0px;
   display: inline-block;
   color: white;
   border: .15em solid white;
@@ -419,7 +419,7 @@ table.dataTable th, table.dataTable td {
 }
 
 .dataTables_wrapper .dataTables_filter {
-  padding-bottom: 30px;
+  padding-bottom: 5px;
   float: right;
   text-align: right;
 

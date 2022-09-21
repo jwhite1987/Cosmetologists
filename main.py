@@ -30,7 +30,7 @@ db = SQLAlchemy(app)
 
 
 class cosm(db.Model):
-    __tablename__ = 'dataset-table'
+    __tablename__ = 'charlotte-final'
     ID = db.Column(db.Integer, primary_key=True)
     string_field_0 = db.Column(db.String)
     string_field_1 = db.Column(db.String)
@@ -47,29 +47,191 @@ class cosm(db.Model):
         self.license_code = string_field_4
         self.miles_away = string_field_6
 
-class DeleteForm(FlaskForm):
-    id_field = HiddenField()
-    purpose = HiddenField()
-    submit = SubmitField('Delete This Sock')
+# class DeleteForm(FlaskForm):
+#     id_field = HiddenField()
+#     purpose = HiddenField()
+#     submit = SubmitField('Delete This Sock')
 
 @app.route("/")
 def index():
-    return flask.render_template('index.html')
-
-@app.route("/home")
-def home():
     client = bigquery.Client()
     query_job = client.query(
         """
         SELECT
         *
         FROM
-        `stylist-project-357102.stylist_dataset.dataset-table`
+        `stylist-project-357102.stylist_dataset.charlotte-final`
+        ORDER BY Miles_Away ASC
         LIMIT 50
         """
     )
     cosms = query_job.result()
-    return flask.render_template('home.html', cosms=cosms)
+    query_job2 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.charlotte-final`
+        """
+    )
+    cosms_2 = query_job2.result()
+    query_job3 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.charlotte-final`
+        WHERE Miles_Away < 5.0;
+        """
+    )
+    cosms_3 = query_job3.result()
+    query_job4 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.charlotte-final`
+        WHERE Miles_Away < 10.0;
+        """
+    )
+    cosms_4 = query_job4.result()
+    return flask.render_template('index.html', cosms=cosms, cosms_2=cosms_2, cosms_3=cosms_3, cosms_4=cosms_4)
+
+@app.route("/ftmill")
+def ftmill():
+    client = bigquery.Client()
+    query_job = client.query(
+        """
+        SELECT
+        *
+        FROM
+        `stylist-project-357102.stylist_dataset.ftmill-final`
+        ORDER BY Miles_Away ASC
+        LIMIT 50
+        """
+    )
+    cosms = query_job.result()
+    query_job2 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.ftmill-final`
+        """
+    )
+    cosms_2 = query_job2.result()
+    query_job3 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.ftmill-final`
+        WHERE Miles_Away < 15.0;
+        """
+    )
+    cosms_3 = query_job3.result()
+    query_job4 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.ftmill-final`
+        WHERE Miles_Away < 20.0;
+        """
+    )
+    cosms_4 = query_job4.result()
+    return flask.render_template('ftmill.html', cosms=cosms, cosms_2=cosms_2, cosms_3=cosms_3, cosms_4=cosms_4)
+
+@app.route("/huntersville")
+def huntersville():
+    client = bigquery.Client()
+    query_job = client.query(
+        """
+        SELECT
+        *
+        FROM
+        `stylist-project-357102.stylist_dataset.huntersville-final`
+        ORDER BY Miles_Away ASC
+        LIMIT 50
+        """
+    )
+    cosms = query_job.result()
+    query_job2 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.huntersville-final`
+        """
+    )
+    cosms_2 = query_job2.result()
+    query_job3 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.huntersville-final`
+        WHERE Miles_Away < 20.0;
+        """
+    )
+    cosms_3 = query_job3.result()
+    query_job4 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.huntersville-final`
+        WHERE Miles_Away < 25.0;
+        """
+    )
+    cosms_4 = query_job4.result()
+    return flask.render_template('huntersville.html', cosms=cosms, cosms_2=cosms_2, cosms_3=cosms_3, cosms_4=cosms_4)
+
+@app.route("/matthews")
+def matthews():
+    client = bigquery.Client()
+    query_job = client.query(
+        """
+        SELECT
+        *
+        FROM
+        `stylist-project-357102.stylist_dataset.matthews-final`
+        ORDER BY Miles_Away ASC
+        LIMIT 50
+        """
+    )
+    cosms = query_job.result()
+    query_job2 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.matthews-final`
+        """
+    )
+    cosms_2 = query_job2.result()
+    query_job3 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.matthews-final`
+        WHERE Miles_Away < 10.0;
+        """
+    )
+    cosms_3 = query_job3.result()
+    query_job4 = client.query(
+        """
+        SELECT
+        COUNT(*) AS INT
+        FROM
+        `stylist-project-357102.stylist_dataset.matthews-final`
+        WHERE Miles_Away < 15.0;
+        """
+    )
+    cosms_4 = query_job4.result()
+    return flask.render_template('matthews.html', cosms=cosms, cosms_2=cosms_2, cosms_3=cosms_3, cosms_4=cosms_4)
+
 
 @app.route("/select_record", methods=['POST'])
 def select_record():
