@@ -20,3 +20,5 @@ urllib3
 visitor
 Werkzeug
 WTForms
+webdriver-webdriver_manager
+selenium

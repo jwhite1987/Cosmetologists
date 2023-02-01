@@ -16,6 +16,15 @@ from wtforms import SubmitField, SelectField, RadioField, HiddenField, StringFie
 from wtforms.validators import InputRequired, Length, Regexp, NumberRange
 from datetime import date
 
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.keys import Keys
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+
+service = Service(executable_path=ChromeDriverManager().install())
+
 app = flask.Flask(__name__)
 
 project_id = 'stylist-project-357102'
@@ -96,6 +105,37 @@ def index():
     )
     cosms_4 = query_job4.result()
     return flask.render_template('index.html', cosms=cosms, cosms_2=cosms_2, cosms_3=cosms_3, cosms_4=cosms_4)
+
+@app.route('/instagram_job', methods=["POST"])
+def instagram_job():
+    d = webdriver.Chrome(service=service)
+    d.get('https://www.instagram.com')
+    d.implicitly_wait(5)
+    # element = WebDriverWait(d, 30).until(element_to_be_clickable((By.NAME, "username")))
+    username_input = d.find_element(By.NAME, "username")
+    username_input.send_keys("cursiveinkwells@gmail.com")
+
+    password_input = d.find_element(By.NAME, "password")
+    password_input.send_keys("Ruger2012!??")
+
+    d.find_element(By.XPATH, "//button[contains(.,'Log In')]").click()
+    # login_button.click()
+    d.implicitly_wait(15)
+    d.find_element(By.XPATH, "//button[contains(.,'Not Now')]").click()
+    d.implicitly_wait(15)
+    d.find_element(By.XPATH, "//button[contains(.,'Not Now')]").click()
+    searchbox = d.find_element(By.XPATH, "//input[@placeholder='Search']")
+    searchbox.clear()
+
+    # for names in names_list:
+    first_name = request.form['first_name']
+    last_name = request.form['last_name']
+    name_string = first_name + (' ') + last_name
+    searchbox.send_keys(name_string)
+    e.send_keys(Keys.ENTER)
+    #scrape page here
+    return (first_name=first_name, last_name=last_name)
+
 
 @app.route("/ftmill")
 def ftmill():
